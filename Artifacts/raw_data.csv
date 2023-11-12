@@ -1,0 +1,2001 @@
+Age,Gender,Student,Non-student,Internship_Experience,Year_of_Study,Marital_Status,Work_Experience,Internet_Availability,Research_Experience,Availability,Language_Proficiency,Hours_Dedicated,Continent,Soft_Skills,Internship_success
+27,Non-Binary,True,False,0,4,Divorced,5,None,0,Full-time,Beginner,27,Australia,Poor,0
+38,Male,True,False,1,2,Single,7,Dial-Up,0,Flexible,Intermediate,28,South America,Poor,0
+31,Female,False,True,5,-1,Single,4,Dial-Up,2,Full-time,Intermediate,8,North America,Good,1
+36,Male,False,True,4,-1,Widowed,6,None,3,Full-time,Intermediate,39,Australia,Poor,1
+36,Male,True,False,5,3,Widowed,3,Dial-Up,0,Full-time,Intermediate,11,South America,Poor,0
+49,Non-Binary,True,False,5,4,Widowed,7,High-Speed,1,Flexible,Beginner,9,Europe,Excellent,1
+47,Male,True,False,1,2,Divorced,5,High-Speed,4,Part-time,Advanced,28,Australia,Excellent,0
+45,Female,False,True,1,-1,Single,5,High-Speed,2,Part-time,Advanced,18,Asia,Excellent,1
+46,Female,False,True,1,-1,Divorced,0,High-Speed,3,Full-time,Advanced,29,Africa,Excellent,0
+49,Non-Binary,False,True,3,-1,Single,2,None,1,Full-time,Advanced,36,North America,Average,1
+42,Non-Binary,False,True,0,-1,Married,3,None,2,Part-time,Advanced,38,South America,Average,1
+41,Female,True,False,5,3,Married,4,High-Speed,0,Full-time,Advanced,19,Africa,Good,1
+38,Female,False,True,1,-1,Single,3,High-Speed,1,Flexible,Native,21,Europe,Excellent,1
+36,Non-Binary,False,True,0,-1,Widowed,1,None,3,Full-time,Intermediate,11,Antarctica,Good,0
+31,Non-Binary,False,True,3,-1,Widowed,5,High-Speed,0,Full-time,Advanced,30,Australia,Excellent,0
+39,Male,True,False,2,4,Widowed,3,Dial-Up,4,Part-time,Beginner,14,South America,Average,0
+30,Non-Binary,True,False,3,1,Single,7,Dial-Up,4,Part-time,Intermediate,37,Europe,Good,1
+34,Male,False,True,2,-1,Single,6,None,1,Flexible,Intermediate,31,Australia,Poor,0
+31,Male,True,False,1,4,Widowed,3,High-Speed,1,Part-time,Intermediate,24,Africa,Excellent,1
+32,Non-Binary,True,False,0,3,Divorced,8,Dial-Up,4,Flexible,Advanced,23,Antarctica,Average,0
+32,Non-Binary,True,False,2,1,Divorced,9,Dial-Up,4,Flexible,Advanced,28,Africa,Poor,1
+24,Non-Binary,True,False,1,1,Single,9,None,3,Flexible,Advanced,6,Australia,Good,1
+28,Non-Binary,True,False,0,1,Married,8,Dial-Up,1,Flexible,Intermediate,36,Asia,Excellent,1
+29,Male,False,True,3,-1,Single,5,None,0,Part-time,Native,29,Europe,Poor,0
+35,Male,False,True,0,-1,Divorced,7,None,3,Flexible,Native,38,South America,Average,0
+19,Non-Binary,False,True,3,-1,Widowed,6,Dial-Up,0,Full-time,Advanced,27,Africa,Good,0
+31,Female,False,True,2,-1,Married,6,None,0,Full-time,Beginner,5,Asia,Average,0
+36,Female,False,True,4,-1,Single,1,Dial-Up,4,Full-time,Native,31,Antarctica,Good,1
+34,Male,False,True,2,-1,Married,4,None,4,Flexible,Native,5,Africa,Average,1
+39,Non-Binary,False,True,2,-1,Widowed,4,High-Speed,2,Full-time,Advanced,23,South America,Average,1
+39,Female,False,True,0,-1,Single,6,High-Speed,1,Part-time,Native,20,North America,Good,0
+31,Female,False,True,2,-1,Widowed,1,High-Speed,1,Part-time,Advanced,37,Antarctica,Poor,1
+41,Non-Binary,True,False,5,2,Single,5,High-Speed,4,Part-time,Intermediate,14,North America,Excellent,1
+45,Non-Binary,True,False,4,1,Widowed,8,None,4,Part-time,Beginner,30,Africa,Average,0
+26,Female,True,False,1,4,Divorced,4,Dial-Up,4,Flexible,Advanced,24,South America,Excellent,1
+27,Non-Binary,True,False,2,1,Single,3,High-Speed,2,Part-time,Beginner,18,North America,Good,0
+31,Non-Binary,False,True,0,-1,Widowed,6,None,2,Part-time,Beginner,7,Asia,Good,0
+32,Female,True,False,1,1,Widowed,0,High-Speed,0,Full-time,Beginner,38,Africa,Poor,1
+29,Non-Binary,True,False,4,1,Single,3,Dial-Up,0,Part-time,Advanced,34,Antarctica,Poor,0
+22,Female,True,False,5,3,Single,4,Dial-Up,4,Full-time,Advanced,36,Europe,Average,1
+26,Male,False,True,4,-1,Single,4,High-Speed,3,Part-time,Intermediate,7,Asia,Average,1
+41,Non-Binary,False,True,3,-1,Married,7,High-Speed,0,Flexible,Native,19,Asia,Good,0
+22,Male,False,True,5,-1,Divorced,3,None,2,Part-time,Intermediate,11,South America,Good,1
+26,Non-Binary,True,False,2,2,Widowed,5,High-Speed,2,Flexible,Advanced,21,Asia,Good,0
+46,Male,False,True,5,-1,Single,5,None,1,Full-time,Advanced,15,Europe,Good,0
+32,Male,False,True,4,-1,Married,8,None,3,Flexible,Native,22,Asia,Excellent,1
+23,Male,False,True,0,-1,Divorced,3,High-Speed,0,Part-time,Advanced,39,Africa,Excellent,1
+46,Female,True,False,3,2,Divorced,9,Dial-Up,4,Part-time,Beginner,28,Australia,Good,1
+37,Non-Binary,True,False,0,4,Single,9,High-Speed,3,Flexible,Advanced,11,Europe,Excellent,0
+44,Non-Binary,False,True,0,-1,Single,9,None,2,Flexible,Native,6,Antarctica,Poor,1
+29,Female,True,False,3,4,Divorced,2,High-Speed,4,Flexible,Beginner,10,Antarctica,Poor,1
+31,Male,False,True,3,-1,Married,0,None,4,Full-time,Intermediate,31,Antarctica,Poor,0
+29,Female,False,True,5,-1,Married,9,High-Speed,2,Part-time,Advanced,18,North America,Good,1
+22,Female,True,False,3,3,Married,9,High-Speed,4,Part-time,Beginner,33,Africa,Poor,0
+48,Male,False,True,2,-1,Divorced,9,None,2,Flexible,Intermediate,29,Africa,Good,0
+41,Non-Binary,False,True,0,-1,Widowed,1,High-Speed,4,Full-time,Native,22,Africa,Poor,1
+39,Female,True,False,0,3,Divorced,2,None,3,Flexible,Advanced,26,Antarctica,Average,0
+40,Female,True,False,4,3,Divorced,8,Dial-Up,3,Part-time,Advanced,12,Antarctica,Poor,0
+21,Non-Binary,True,False,4,2,Married,8,Dial-Up,0,Flexible,Beginner,32,Europe,Poor,0
+31,Non-Binary,False,True,1,-1,Married,5,High-Speed,1,Full-time,Intermediate,17,South America,Good,1
+40,Female,False,True,2,-1,Single,2,Dial-Up,2,Part-time,Native,17,Europe,Poor,1
+43,Non-Binary,True,False,2,2,Single,2,None,3,Part-time,Intermediate,38,South America,Poor,0
+18,Female,True,False,2,2,Divorced,5,Dial-Up,1,Part-time,Beginner,8,Antarctica,Average,0
+44,Female,True,False,0,4,Widowed,4,High-Speed,2,Part-time,Native,31,Antarctica,Excellent,0
+36,Male,False,True,4,-1,Widowed,4,High-Speed,3,Part-time,Beginner,37,Asia,Excellent,0
+24,Male,False,True,1,-1,Married,4,Dial-Up,2,Full-time,Intermediate,23,Africa,Good,0
+37,Non-Binary,False,True,4,-1,Divorced,5,None,3,Part-time,Intermediate,27,Africa,Excellent,1
+34,Female,False,True,3,-1,Divorced,9,Dial-Up,2,Full-time,Native,12,Africa,Average,0
+38,Non-Binary,True,False,0,3,Divorced,0,None,0,Part-time,Advanced,8,Antarctica,Excellent,1
+36,Male,False,True,2,-1,Single,3,None,2,Full-time,Beginner,26,Africa,Excellent,1
+27,Male,False,True,1,-1,Single,9,None,3,Flexible,Native,10,South America,Excellent,1
+29,Male,True,False,5,1,Divorced,0,High-Speed,2,Full-time,Native,8,Antarctica,Poor,1
+27,Male,True,False,4,3,Single,3,Dial-Up,4,Full-time,Native,11,Africa,Good,1
+18,Non-Binary,True,False,1,4,Single,5,None,0,Full-time,Intermediate,15,Europe,Poor,0
+37,Male,False,True,2,-1,Married,6,Dial-Up,4,Flexible,Native,28,Asia,Good,0
+25,Male,True,False,2,2,Divorced,9,None,0,Part-time,Intermediate,36,Asia,Good,1
+39,Female,False,True,0,-1,Widowed,9,High-Speed,2,Flexible,Advanced,22,South America,Average,1
+44,Male,True,False,3,4,Single,9,None,1,Full-time,Beginner,12,North America,Average,1
+28,Non-Binary,True,False,2,2,Widowed,9,None,1,Full-time,Intermediate,6,Europe,Average,1
+19,Non-Binary,True,False,0,4,Married,7,None,0,Part-time,Beginner,25,South America,Excellent,0
+42,Male,False,True,2,-1,Single,5,Dial-Up,0,Flexible,Advanced,12,Europe,Average,1
+38,Non-Binary,True,False,1,1,Divorced,7,Dial-Up,4,Part-time,Advanced,12,Europe,Good,1
+49,Non-Binary,True,False,2,2,Widowed,3,None,1,Part-time,Intermediate,5,Australia,Average,0
+32,Male,False,True,1,-1,Single,0,None,0,Part-time,Advanced,24,Africa,Excellent,0
+19,Male,False,True,1,-1,Single,7,High-Speed,4,Full-time,Native,28,Antarctica,Good,1
+28,Non-Binary,True,False,4,2,Single,7,None,2,Full-time,Beginner,27,Australia,Good,1
+31,Female,False,True,5,-1,Married,2,None,0,Full-time,Intermediate,5,North America,Good,1
+33,Male,True,False,4,1,Divorced,5,Dial-Up,3,Part-time,Advanced,12,North America,Good,0
+27,Female,False,True,3,-1,Married,0,Dial-Up,2,Flexible,Intermediate,14,Asia,Average,0
+41,Male,False,True,2,-1,Widowed,5,Dial-Up,1,Part-time,Intermediate,33,Africa,Average,0
+20,Male,False,True,2,-1,Widowed,3,High-Speed,0,Part-time,Native,15,Antarctica,Poor,1
+46,Female,False,True,4,-1,Single,5,None,4,Part-time,Native,15,Antarctica,Excellent,1
+29,Male,True,False,4,4,Widowed,4,High-Speed,4,Part-time,Beginner,19,South America,Excellent,1
+28,Male,False,True,3,-1,Single,7,Dial-Up,1,Part-time,Native,39,Australia,Average,1
+27,Non-Binary,False,True,5,-1,Divorced,6,Dial-Up,2,Full-time,Native,16,Asia,Excellent,1
+32,Female,True,False,3,1,Single,0,High-Speed,4,Part-time,Beginner,35,South America,Poor,1
+44,Non-Binary,True,False,1,3,Divorced,7,Dial-Up,2,Flexible,Native,35,Africa,Good,0
+37,Non-Binary,True,False,1,2,Widowed,7,Dial-Up,2,Flexible,Native,13,Asia,Average,1
+22,Female,True,False,2,4,Divorced,2,None,2,Flexible,Beginner,30,Asia,Good,0
+42,Female,True,False,5,1,Single,3,Dial-Up,4,Full-time,Native,6,North America,Poor,1
+49,Female,True,False,5,1,Single,9,High-Speed,2,Part-time,Native,9,Asia,Poor,1
+43,Non-Binary,False,True,0,-1,Divorced,6,Dial-Up,3,Part-time,Native,34,Africa,Good,0
+37,Male,False,True,3,-1,Divorced,0,None,2,Full-time,Beginner,6,Europe,Poor,0
+46,Female,True,False,3,4,Divorced,5,Dial-Up,2,Flexible,Intermediate,25,Australia,Average,1
+43,Non-Binary,True,False,4,2,Single,5,High-Speed,3,Full-time,Native,27,South America,Good,1
+47,Female,False,True,5,-1,Divorced,5,High-Speed,1,Full-time,Native,26,North America,Excellent,1
+37,Male,False,True,3,-1,Divorced,8,None,2,Full-time,Beginner,17,North America,Average,0
+34,Male,True,False,5,1,Married,2,None,4,Flexible,Advanced,28,Australia,Poor,1
+25,Female,False,True,0,-1,Married,4,High-Speed,1,Part-time,Native,20,Africa,Average,1
+48,Non-Binary,False,True,3,-1,Divorced,7,Dial-Up,2,Part-time,Beginner,22,Africa,Excellent,0
+48,Non-Binary,True,False,5,3,Widowed,2,None,3,Full-time,Native,14,Antarctica,Excellent,1
+49,Female,False,True,5,-1,Divorced,2,High-Speed,3,Full-time,Advanced,29,Europe,Average,0
+45,Female,True,False,2,1,Widowed,0,Dial-Up,3,Full-time,Advanced,28,Europe,Poor,1
+18,Female,False,True,2,-1,Married,0,None,3,Flexible,Advanced,35,North America,Good,1
+45,Female,True,False,1,3,Divorced,9,Dial-Up,2,Flexible,Native,26,North America,Average,1
+20,Female,True,False,2,4,Single,9,None,0,Full-time,Intermediate,22,Antarctica,Excellent,1
+46,Female,False,True,2,-1,Single,4,Dial-Up,2,Flexible,Beginner,10,Antarctica,Average,0
+47,Non-Binary,True,False,3,1,Married,8,High-Speed,4,Flexible,Beginner,18,Europe,Excellent,1
+26,Non-Binary,True,False,4,3,Widowed,3,Dial-Up,0,Full-time,Native,28,Europe,Average,1
+48,Male,True,False,3,1,Divorced,3,None,0,Flexible,Beginner,14,South America,Average,0
+27,Male,False,True,1,-1,Single,1,High-Speed,0,Full-time,Native,30,Australia,Excellent,1
+37,Male,True,False,4,1,Divorced,8,Dial-Up,2,Full-time,Native,7,Australia,Average,1
+37,Female,False,True,1,-1,Widowed,0,High-Speed,3,Full-time,Intermediate,27,Antarctica,Good,0
+44,Female,False,True,1,-1,Married,3,None,3,Part-time,Beginner,24,North America,Average,0
+49,Male,False,True,5,-1,Single,8,None,4,Full-time,Intermediate,39,South America,Poor,0
+35,Male,False,True,2,-1,Single,5,Dial-Up,0,Part-time,Intermediate,27,South America,Excellent,0
+35,Male,True,False,0,2,Married,2,High-Speed,3,Part-time,Intermediate,19,Europe,Excellent,1
+32,Male,True,False,1,4,Widowed,5,None,0,Flexible,Intermediate,39,South America,Average,0
+40,Female,True,False,5,1,Widowed,2,None,4,Flexible,Beginner,16,Antarctica,Poor,0
+36,Male,False,True,2,-1,Divorced,5,Dial-Up,2,Full-time,Advanced,16,Africa,Good,1
+42,Male,False,True,3,-1,Single,2,Dial-Up,1,Part-time,Advanced,38,Europe,Average,1
+25,Female,False,True,5,-1,Widowed,3,None,2,Part-time,Native,36,Asia,Excellent,1
+46,Male,True,False,0,1,Widowed,6,None,2,Flexible,Beginner,33,Africa,Good,0
+23,Non-Binary,True,False,0,2,Divorced,8,None,2,Flexible,Beginner,7,Africa,Poor,0
+34,Non-Binary,True,False,5,1,Widowed,4,Dial-Up,4,Part-time,Intermediate,18,Africa,Excellent,0
+35,Female,True,False,1,3,Single,2,High-Speed,2,Full-time,Advanced,30,Australia,Average,0
+20,Non-Binary,False,True,4,-1,Married,7,Dial-Up,2,Part-time,Intermediate,25,South America,Good,1
+30,Male,False,True,5,-1,Married,8,High-Speed,4,Full-time,Advanced,29,North America,Average,1
+25,Female,False,True,0,-1,Divorced,4,Dial-Up,3,Part-time,Native,25,North America,Excellent,1
+22,Female,True,False,5,1,Divorced,1,None,1,Full-time,Intermediate,30,Antarctica,Good,0
+18,Non-Binary,False,True,2,-1,Widowed,7,Dial-Up,0,Part-time,Beginner,11,Europe,Good,1
+45,Female,False,True,0,-1,Widowed,3,High-Speed,2,Part-time,Beginner,20,Antarctica,Poor,0
+19,Male,True,False,2,4,Widowed,9,Dial-Up,2,Full-time,Beginner,39,Africa,Excellent,1
+35,Male,True,False,4,4,Single,3,None,4,Flexible,Advanced,24,Antarctica,Poor,1
+21,Male,False,True,4,-1,Single,6,None,4,Flexible,Native,20,Australia,Good,0
+30,Male,False,True,4,-1,Single,9,Dial-Up,4,Full-time,Intermediate,30,Australia,Poor,0
+18,Female,True,False,4,4,Married,9,None,0,Flexible,Native,21,Asia,Poor,1
+31,Female,True,False,5,3,Single,9,Dial-Up,2,Full-time,Beginner,5,Africa,Good,1
+49,Non-Binary,True,False,0,3,Widowed,4,None,4,Part-time,Beginner,14,Australia,Excellent,0
+26,Male,False,True,5,-1,Widowed,9,Dial-Up,0,Full-time,Intermediate,22,Europe,Poor,0
+48,Male,False,True,5,-1,Single,5,High-Speed,2,Full-time,Beginner,18,Europe,Poor,1
+33,Male,False,True,4,-1,Widowed,3,High-Speed,0,Full-time,Advanced,16,Antarctica,Good,0
+20,Female,False,True,1,-1,Married,1,None,4,Part-time,Advanced,36,Antarctica,Average,1
+38,Female,False,True,5,-1,Married,4,High-Speed,4,Part-time,Advanced,36,Europe,Excellent,1
+36,Female,False,True,5,-1,Divorced,1,High-Speed,0,Part-time,Beginner,11,North America,Excellent,1
+47,Male,False,True,4,-1,Married,1,High-Speed,4,Part-time,Intermediate,23,Australia,Good,1
+34,Non-Binary,False,True,3,-1,Divorced,2,Dial-Up,4,Flexible,Intermediate,6,Asia,Poor,0
+36,Female,True,False,1,3,Divorced,4,None,1,Part-time,Intermediate,24,Asia,Poor,0
+30,Non-Binary,False,True,0,-1,Widowed,0,None,1,Full-time,Advanced,20,Africa,Average,0
+27,Non-Binary,False,True,2,-1,Divorced,2,Dial-Up,2,Flexible,Advanced,11,Asia,Poor,1
+46,Non-Binary,True,False,0,1,Widowed,0,Dial-Up,4,Full-time,Beginner,37,Antarctica,Poor,0
+44,Non-Binary,False,True,1,-1,Widowed,9,High-Speed,4,Flexible,Beginner,7,Africa,Good,1
+47,Male,True,False,1,4,Divorced,8,None,2,Full-time,Beginner,16,Europe,Poor,0
+35,Female,True,False,3,3,Divorced,6,Dial-Up,2,Full-time,Intermediate,25,Australia,Poor,1
+27,Non-Binary,True,False,2,4,Single,4,None,3,Full-time,Advanced,36,Antarctica,Excellent,1
+34,Non-Binary,True,False,0,3,Widowed,0,Dial-Up,2,Full-time,Intermediate,29,Australia,Good,1
+35,Female,False,True,3,-1,Single,9,High-Speed,3,Full-time,Native,8,Europe,Poor,1
+45,Non-Binary,True,False,1,3,Widowed,7,High-Speed,3,Flexible,Intermediate,18,North America,Excellent,0
+19,Non-Binary,False,True,3,-1,Widowed,3,None,0,Flexible,Advanced,5,Europe,Excellent,1
+25,Non-Binary,True,False,2,2,Widowed,1,Dial-Up,1,Flexible,Intermediate,14,South America,Average,0
+20,Female,True,False,3,1,Married,8,High-Speed,1,Full-time,Beginner,32,North America,Good,1
+19,Male,False,True,4,-1,Divorced,4,None,3,Part-time,Beginner,36,Africa,Good,1
+46,Male,False,True,1,-1,Married,7,High-Speed,0,Full-time,Intermediate,25,Antarctica,Good,1
+47,Male,True,False,3,2,Widowed,4,Dial-Up,1,Flexible,Beginner,27,Asia,Poor,1
+30,Non-Binary,True,False,0,3,Single,8,None,4,Flexible,Intermediate,30,South America,Poor,0
+27,Female,False,True,3,-1,Divorced,2,Dial-Up,2,Full-time,Beginner,37,North America,Excellent,1
+47,Male,True,False,3,4,Single,4,None,3,Full-time,Advanced,28,Antarctica,Good,1
+41,Female,True,False,5,2,Single,1,Dial-Up,1,Part-time,Native,10,Antarctica,Poor,0
+35,Male,False,True,0,-1,Single,7,High-Speed,2,Flexible,Beginner,7,Asia,Average,0
+36,Female,False,True,0,-1,Married,8,High-Speed,0,Part-time,Beginner,25,Africa,Excellent,1
+34,Female,True,False,1,2,Single,3,None,1,Flexible,Advanced,33,South America,Average,1
+19,Female,True,False,2,3,Divorced,8,High-Speed,4,Flexible,Intermediate,24,Asia,Good,1
+19,Male,False,True,2,-1,Married,5,High-Speed,2,Part-time,Advanced,19,Europe,Poor,1
+19,Female,True,False,3,4,Widowed,7,Dial-Up,3,Part-time,Advanced,36,Antarctica,Average,1
+22,Non-Binary,True,False,3,3,Married,2,High-Speed,3,Part-time,Native,5,Australia,Average,1
+35,Non-Binary,True,False,3,2,Single,1,None,3,Full-time,Advanced,21,Africa,Poor,0
+27,Male,True,False,4,3,Widowed,4,High-Speed,2,Flexible,Native,34,Europe,Good,0
+31,Non-Binary,True,False,4,3,Married,9,None,1,Flexible,Intermediate,20,North America,Poor,0
+38,Female,True,False,5,1,Widowed,7,None,3,Flexible,Beginner,16,South America,Good,1
+29,Female,True,False,3,4,Married,2,None,4,Full-time,Beginner,34,South America,Poor,0
+47,Non-Binary,True,False,0,1,Married,9,None,1,Full-time,Native,5,Africa,Good,1
+28,Male,False,True,1,-1,Married,7,High-Speed,3,Flexible,Advanced,19,South America,Excellent,1
+41,Male,False,True,0,-1,Widowed,5,None,3,Flexible,Native,25,North America,Excellent,1
+29,Male,True,False,0,1,Single,0,High-Speed,1,Part-time,Beginner,16,South America,Excellent,1
+29,Non-Binary,False,True,1,-1,Single,4,Dial-Up,1,Part-time,Advanced,28,Antarctica,Good,1
+49,Female,True,False,4,2,Single,2,High-Speed,0,Flexible,Native,17,Asia,Good,1
+26,Female,False,True,2,-1,Widowed,7,High-Speed,4,Part-time,Advanced,31,South America,Excellent,1
+29,Male,False,True,3,-1,Married,4,Dial-Up,0,Part-time,Intermediate,39,Asia,Average,0
+34,Male,True,False,5,3,Divorced,6,High-Speed,0,Full-time,Beginner,23,Asia,Excellent,1
+35,Non-Binary,False,True,4,-1,Single,1,Dial-Up,3,Flexible,Advanced,32,South America,Poor,1
+36,Female,False,True,2,-1,Widowed,2,Dial-Up,2,Flexible,Intermediate,8,Australia,Good,1
+49,Female,False,True,0,-1,Single,0,High-Speed,2,Part-time,Intermediate,13,Antarctica,Good,1
+41,Female,False,True,2,-1,Divorced,4,Dial-Up,1,Flexible,Advanced,31,Asia,Good,0
+20,Female,False,True,2,-1,Widowed,9,Dial-Up,1,Part-time,Beginner,24,North America,Average,0
+26,Female,False,True,2,-1,Divorced,3,High-Speed,3,Full-time,Advanced,38,Europe,Poor,1
+49,Male,True,False,0,4,Divorced,2,High-Speed,1,Full-time,Native,6,Australia,Average,0
+20,Female,True,False,2,1,Single,8,None,4,Full-time,Native,31,Europe,Average,1
+37,Male,False,True,1,-1,Widowed,0,High-Speed,1,Part-time,Native,26,Antarctica,Good,1
+42,Non-Binary,True,False,1,3,Widowed,8,Dial-Up,4,Full-time,Advanced,34,Europe,Poor,1
+45,Non-Binary,True,False,5,4,Married,2,None,4,Full-time,Intermediate,20,Australia,Good,0
+19,Female,False,True,2,-1,Widowed,8,Dial-Up,1,Full-time,Native,25,Africa,Average,1
+21,Male,True,False,1,4,Single,5,None,4,Part-time,Intermediate,39,Antarctica,Good,1
+21,Non-Binary,True,False,0,1,Widowed,4,None,2,Flexible,Intermediate,13,North America,Poor,0
+39,Non-Binary,True,False,3,3,Married,1,Dial-Up,4,Part-time,Advanced,6,South America,Average,0
+27,Female,True,False,2,4,Married,6,Dial-Up,3,Full-time,Beginner,34,Australia,Good,1
+39,Male,False,True,5,-1,Divorced,9,Dial-Up,3,Full-time,Native,18,South America,Excellent,1
+49,Female,False,True,2,-1,Single,4,Dial-Up,0,Part-time,Beginner,24,Antarctica,Poor,0
+32,Female,True,False,0,3,Single,9,High-Speed,4,Flexible,Beginner,37,Asia,Good,1
+41,Male,False,True,1,-1,Single,2,Dial-Up,3,Full-time,Beginner,22,Asia,Good,1
+32,Female,False,True,5,-1,Widowed,0,High-Speed,1,Full-time,Intermediate,17,Antarctica,Good,1
+38,Non-Binary,True,False,0,4,Single,5,High-Speed,3,Full-time,Native,29,North America,Excellent,1
+44,Female,False,True,1,-1,Married,6,Dial-Up,1,Flexible,Intermediate,27,Asia,Good,1
+36,Non-Binary,False,True,4,-1,Single,3,None,4,Full-time,Native,38,Australia,Excellent,0
+34,Non-Binary,True,False,4,4,Divorced,0,None,3,Full-time,Intermediate,22,Asia,Good,1
+37,Non-Binary,False,True,4,-1,Married,3,High-Speed,3,Flexible,Intermediate,34,South America,Good,1
+20,Non-Binary,True,False,3,2,Single,3,None,0,Part-time,Native,9,Asia,Poor,0
+24,Male,True,False,0,1,Divorced,9,High-Speed,3,Flexible,Beginner,18,Antarctica,Poor,0
+44,Male,False,True,4,-1,Divorced,7,Dial-Up,2,Full-time,Beginner,35,North America,Poor,0
+27,Female,True,False,0,2,Single,9,None,3,Full-time,Native,35,Africa,Excellent,1
+35,Male,False,True,1,-1,Divorced,9,Dial-Up,3,Full-time,Native,38,Asia,Good,0
+38,Non-Binary,False,True,4,-1,Widowed,0,High-Speed,3,Part-time,Native,38,Antarctica,Excellent,0
+22,Non-Binary,True,False,2,2,Married,0,High-Speed,3,Full-time,Intermediate,18,Africa,Average,0
+18,Non-Binary,False,True,3,-1,Married,9,High-Speed,2,Part-time,Beginner,39,South America,Excellent,1
+21,Non-Binary,True,False,0,1,Married,7,High-Speed,1,Flexible,Advanced,31,Africa,Excellent,1
+29,Male,False,True,3,-1,Single,7,High-Speed,4,Full-time,Intermediate,11,Africa,Good,0
+31,Female,False,True,1,-1,Married,6,Dial-Up,2,Part-time,Beginner,12,North America,Poor,0
+24,Female,True,False,5,1,Married,7,High-Speed,2,Flexible,Beginner,12,Australia,Excellent,0
+44,Non-Binary,False,True,3,-1,Divorced,9,None,3,Flexible,Intermediate,7,South America,Good,0
+32,Non-Binary,True,False,1,3,Widowed,5,None,0,Part-time,Intermediate,9,Australia,Average,0
+26,Non-Binary,True,False,5,2,Married,4,High-Speed,3,Part-time,Native,12,Australia,Average,1
+29,Non-Binary,True,False,2,4,Single,4,Dial-Up,2,Flexible,Advanced,36,North America,Good,1
+43,Male,True,False,5,3,Widowed,8,Dial-Up,2,Part-time,Advanced,12,Asia,Excellent,1
+33,Non-Binary,False,True,2,-1,Married,3,Dial-Up,1,Part-time,Intermediate,14,Africa,Average,0
+24,Male,True,False,5,4,Divorced,7,None,0,Full-time,Intermediate,25,Europe,Excellent,0
+23,Non-Binary,True,False,4,4,Divorced,1,Dial-Up,0,Flexible,Native,36,Asia,Good,1
+49,Female,False,True,5,-1,Widowed,7,Dial-Up,3,Full-time,Beginner,29,Africa,Average,0
+47,Female,False,True,2,-1,Widowed,0,None,3,Flexible,Native,10,Africa,Good,1
+26,Female,False,True,0,-1,Divorced,9,Dial-Up,2,Full-time,Beginner,22,South America,Average,1
+26,Non-Binary,True,False,1,3,Widowed,6,Dial-Up,4,Flexible,Native,34,Antarctica,Good,1
+20,Non-Binary,True,False,2,4,Married,5,None,1,Part-time,Intermediate,8,Africa,Excellent,1
+33,Male,True,False,5,3,Divorced,2,None,1,Flexible,Beginner,36,Africa,Excellent,1
+33,Non-Binary,True,False,0,3,Single,3,None,0,Flexible,Intermediate,12,Africa,Excellent,1
+49,Non-Binary,True,False,2,3,Single,1,None,4,Part-time,Advanced,39,Asia,Excellent,1
+37,Male,False,True,1,-1,Widowed,1,High-Speed,0,Part-time,Intermediate,25,North America,Good,1
+29,Female,False,True,4,-1,Widowed,6,None,2,Flexible,Native,28,Europe,Average,1
+30,Non-Binary,True,False,3,1,Divorced,2,None,2,Full-time,Advanced,37,North America,Excellent,1
+40,Non-Binary,False,True,3,-1,Divorced,5,Dial-Up,3,Flexible,Advanced,16,Europe,Average,1
+20,Non-Binary,False,True,1,-1,Divorced,7,None,1,Part-time,Intermediate,12,Antarctica,Good,0
+39,Female,False,True,1,-1,Single,5,High-Speed,2,Full-time,Advanced,25,Europe,Average,1
+48,Male,False,True,4,-1,Widowed,9,Dial-Up,1,Part-time,Intermediate,23,North America,Poor,0
+36,Female,True,False,1,3,Married,8,High-Speed,3,Part-time,Native,7,Europe,Average,1
+27,Male,True,False,3,2,Widowed,8,High-Speed,3,Full-time,Native,12,Antarctica,Excellent,1
+25,Male,False,True,2,-1,Married,2,None,0,Full-time,Beginner,34,Africa,Good,1
+19,Female,True,False,5,2,Widowed,9,High-Speed,2,Full-time,Advanced,37,North America,Good,0
+43,Male,True,False,3,4,Married,6,Dial-Up,3,Flexible,Native,37,Asia,Average,1
+36,Female,True,False,2,3,Single,1,Dial-Up,1,Part-time,Advanced,9,North America,Good,0
+37,Male,False,True,3,-1,Divorced,3,High-Speed,1,Part-time,Intermediate,27,Antarctica,Good,1
+49,Female,False,True,5,-1,Single,4,Dial-Up,2,Part-time,Native,31,Africa,Average,0
+23,Female,True,False,2,3,Single,9,Dial-Up,3,Full-time,Advanced,10,Antarctica,Poor,1
+46,Male,False,True,1,-1,Divorced,5,Dial-Up,2,Full-time,Native,36,Antarctica,Average,1
+42,Male,False,True,0,-1,Married,5,None,1,Part-time,Beginner,24,Africa,Poor,0
+43,Non-Binary,False,True,2,-1,Married,8,Dial-Up,2,Part-time,Beginner,34,South America,Excellent,1
+29,Male,False,True,4,-1,Married,5,None,3,Part-time,Beginner,9,South America,Poor,1
+42,Male,True,False,3,1,Single,3,None,4,Full-time,Advanced,34,Africa,Poor,1
+45,Female,True,False,5,3,Widowed,4,None,0,Part-time,Beginner,8,Antarctica,Good,1
+42,Female,False,True,5,-1,Married,7,None,2,Part-time,Intermediate,32,Antarctica,Poor,0
+20,Non-Binary,False,True,4,-1,Divorced,5,None,4,Full-time,Advanced,34,Asia,Average,1
+39,Male,False,True,2,-1,Divorced,0,Dial-Up,0,Part-time,Intermediate,9,North America,Good,0
+47,Non-Binary,False,True,5,-1,Divorced,9,None,0,Part-time,Intermediate,27,Asia,Good,1
+41,Non-Binary,True,False,0,2,Married,4,Dial-Up,2,Flexible,Beginner,24,Antarctica,Average,0
+49,Female,False,True,1,-1,Single,0,None,3,Full-time,Beginner,22,Africa,Average,0
+31,Female,False,True,0,-1,Single,3,High-Speed,1,Part-time,Advanced,20,North America,Good,1
+29,Male,False,True,3,-1,Widowed,6,None,3,Flexible,Advanced,29,Europe,Average,1
+34,Non-Binary,True,False,5,1,Divorced,4,High-Speed,4,Flexible,Intermediate,16,Europe,Excellent,1
+20,Female,True,False,5,3,Divorced,2,High-Speed,2,Part-time,Advanced,29,Europe,Poor,0
+21,Male,False,True,4,-1,Divorced,2,Dial-Up,1,Part-time,Beginner,14,Africa,Poor,0
+29,Female,True,False,3,4,Divorced,1,Dial-Up,1,Full-time,Advanced,29,South America,Average,1
+37,Male,True,False,0,1,Married,4,Dial-Up,3,Full-time,Beginner,7,Antarctica,Excellent,1
+41,Non-Binary,False,True,4,-1,Widowed,2,High-Speed,3,Full-time,Intermediate,12,North America,Average,1
+26,Male,False,True,0,-1,Single,0,High-Speed,2,Flexible,Beginner,29,South America,Excellent,1
+30,Female,True,False,1,4,Divorced,2,Dial-Up,0,Part-time,Intermediate,26,Australia,Excellent,1
+22,Male,False,True,1,-1,Widowed,5,None,3,Flexible,Advanced,16,Antarctica,Good,1
+44,Non-Binary,False,True,3,-1,Single,5,None,4,Part-time,Intermediate,25,Australia,Excellent,1
+29,Female,True,False,4,1,Single,9,Dial-Up,0,Full-time,Beginner,22,South America,Excellent,0
+28,Non-Binary,True,False,3,3,Widowed,7,None,1,Flexible,Advanced,35,North America,Excellent,1
+19,Female,True,False,1,3,Married,0,High-Speed,4,Flexible,Advanced,25,Australia,Poor,0
+28,Female,True,False,2,1,Married,4,Dial-Up,0,Flexible,Native,15,North America,Excellent,0
+47,Male,True,False,5,1,Widowed,4,High-Speed,2,Part-time,Advanced,9,Europe,Good,1
+47,Non-Binary,False,True,3,-1,Married,5,Dial-Up,1,Full-time,Native,16,Asia,Poor,0
+46,Non-Binary,True,False,1,3,Married,9,None,0,Full-time,Beginner,12,Europe,Poor,0
+41,Male,False,True,1,-1,Widowed,6,Dial-Up,0,Full-time,Intermediate,7,South America,Poor,1
+47,Non-Binary,False,True,1,-1,Single,1,High-Speed,0,Full-time,Advanced,26,North America,Excellent,1
+26,Non-Binary,False,True,3,-1,Single,5,Dial-Up,3,Flexible,Beginner,26,South America,Good,1
+22,Male,True,False,1,4,Single,3,High-Speed,1,Full-time,Intermediate,38,Antarctica,Excellent,1
+46,Male,True,False,0,2,Widowed,2,High-Speed,2,Full-time,Beginner,33,Australia,Excellent,1
+49,Non-Binary,True,False,1,1,Single,3,High-Speed,0,Part-time,Beginner,38,Asia,Good,1
+34,Male,True,False,3,4,Married,9,Dial-Up,2,Part-time,Intermediate,24,South America,Good,1
+35,Female,True,False,4,1,Widowed,8,None,2,Full-time,Native,34,Europe,Average,0
+24,Male,False,True,4,-1,Married,7,None,4,Part-time,Advanced,29,Europe,Average,0
+35,Male,False,True,1,-1,Widowed,8,None,0,Flexible,Beginner,20,North America,Poor,0
+19,Female,True,False,4,4,Single,9,Dial-Up,3,Flexible,Beginner,16,North America,Good,1
+29,Male,False,True,1,-1,Married,8,High-Speed,0,Part-time,Advanced,21,Asia,Excellent,1
+21,Non-Binary,False,True,3,-1,Single,2,High-Speed,1,Full-time,Beginner,16,Europe,Good,0
+38,Male,False,True,5,-1,Divorced,1,High-Speed,3,Flexible,Intermediate,35,Africa,Poor,1
+25,Non-Binary,False,True,5,-1,Divorced,8,None,3,Full-time,Native,30,Europe,Poor,1
+25,Female,False,True,4,-1,Divorced,4,High-Speed,1,Flexible,Intermediate,24,Antarctica,Average,1
+40,Non-Binary,True,False,2,4,Widowed,6,None,2,Flexible,Intermediate,5,Antarctica,Poor,1
+29,Non-Binary,True,False,0,2,Divorced,2,High-Speed,4,Full-time,Native,13,Africa,Good,1
+40,Non-Binary,False,True,0,-1,Divorced,5,Dial-Up,3,Full-time,Advanced,19,Antarctica,Poor,0
+40,Male,False,True,4,-1,Divorced,9,High-Speed,1,Part-time,Native,36,South America,Excellent,1
+38,Female,True,False,1,1,Married,9,High-Speed,2,Full-time,Native,17,Europe,Good,1
+32,Female,True,False,3,1,Married,7,High-Speed,4,Full-time,Native,13,South America,Good,1
+32,Male,False,True,5,-1,Widowed,4,Dial-Up,1,Full-time,Beginner,5,Africa,Excellent,1
+29,Female,False,True,5,-1,Widowed,2,Dial-Up,2,Flexible,Native,6,Australia,Excellent,1
+47,Female,True,False,2,1,Married,6,High-Speed,1,Full-time,Intermediate,21,Africa,Good,1
+26,Male,True,False,5,1,Widowed,0,Dial-Up,3,Part-time,Advanced,33,Europe,Good,0
+49,Male,False,True,3,-1,Married,1,None,0,Part-time,Beginner,28,Europe,Average,0
+48,Male,True,False,3,4,Widowed,3,None,0,Flexible,Advanced,34,Australia,Poor,1
+28,Non-Binary,False,True,5,-1,Single,8,None,3,Part-time,Intermediate,18,Africa,Average,1
+33,Non-Binary,False,True,2,-1,Widowed,8,None,1,Full-time,Intermediate,23,Africa,Good,1
+36,Non-Binary,True,False,0,2,Married,9,High-Speed,3,Flexible,Native,12,Africa,Poor,1
+48,Non-Binary,True,False,4,2,Divorced,3,Dial-Up,4,Flexible,Beginner,14,Africa,Average,0
+31,Female,False,True,1,-1,Single,6,None,4,Flexible,Native,21,Australia,Poor,1
+36,Male,False,True,5,-1,Single,1,None,4,Full-time,Advanced,23,North America,Excellent,1
+19,Male,True,False,5,3,Widowed,2,High-Speed,0,Full-time,Native,24,South America,Poor,1
+26,Female,False,True,0,-1,Divorced,0,None,0,Part-time,Advanced,15,Australia,Poor,0
+48,Male,False,True,0,-1,Widowed,8,Dial-Up,3,Part-time,Beginner,27,South America,Good,1
+44,Non-Binary,True,False,1,1,Widowed,6,High-Speed,3,Flexible,Intermediate,12,Australia,Excellent,1
+29,Male,False,True,4,-1,Widowed,7,Dial-Up,2,Full-time,Beginner,5,Australia,Poor,0
+33,Female,True,False,0,2,Divorced,3,Dial-Up,2,Flexible,Intermediate,29,Australia,Good,1
+40,Female,True,False,1,4,Single,8,Dial-Up,0,Flexible,Intermediate,14,Australia,Good,1
+31,Non-Binary,False,True,2,-1,Single,5,High-Speed,2,Part-time,Intermediate,39,Australia,Excellent,1
+45,Male,True,False,4,2,Single,4,Dial-Up,4,Flexible,Intermediate,38,Australia,Good,1
+43,Female,True,False,3,3,Divorced,9,High-Speed,3,Full-time,Native,34,Antarctica,Excellent,1
+31,Non-Binary,True,False,2,4,Widowed,2,None,4,Flexible,Advanced,16,Africa,Excellent,0
+44,Non-Binary,False,True,4,-1,Divorced,6,Dial-Up,3,Flexible,Beginner,25,Africa,Average,0
+48,Female,False,True,5,-1,Single,9,Dial-Up,3,Full-time,Intermediate,35,Africa,Average,0
+20,Non-Binary,False,True,2,-1,Single,0,Dial-Up,1,Part-time,Beginner,22,Australia,Poor,0
+38,Male,False,True,5,-1,Divorced,4,High-Speed,1,Part-time,Advanced,36,Africa,Poor,1
+41,Male,False,True,5,-1,Married,7,Dial-Up,4,Full-time,Beginner,35,South America,Poor,1
+26,Female,True,False,5,4,Divorced,5,None,0,Part-time,Beginner,23,Australia,Excellent,1
+31,Non-Binary,False,True,2,-1,Widowed,4,None,4,Flexible,Intermediate,15,South America,Good,1
+25,Female,False,True,3,-1,Single,1,None,1,Part-time,Advanced,36,Antarctica,Good,1
+20,Female,False,True,4,-1,Widowed,5,Dial-Up,2,Full-time,Beginner,10,Asia,Excellent,0
+39,Female,True,False,5,4,Single,6,High-Speed,0,Full-time,Beginner,34,Asia,Average,0
+40,Non-Binary,True,False,2,1,Married,6,None,3,Full-time,Beginner,20,Antarctica,Poor,0
+47,Male,True,False,4,3,Single,0,High-Speed,1,Flexible,Native,29,Europe,Average,1
+39,Male,False,True,1,-1,Widowed,3,Dial-Up,1,Full-time,Native,23,Australia,Poor,1
+29,Male,False,True,3,-1,Married,4,High-Speed,4,Flexible,Advanced,14,South America,Poor,1
+35,Non-Binary,True,False,3,3,Divorced,7,None,4,Full-time,Native,11,Asia,Good,0
+40,Non-Binary,True,False,2,4,Divorced,9,Dial-Up,3,Flexible,Intermediate,32,North America,Good,1
+19,Female,False,True,2,-1,Married,1,High-Speed,3,Flexible,Beginner,9,North America,Good,1
+26,Female,True,False,4,3,Single,6,High-Speed,4,Flexible,Intermediate,38,South America,Good,1
+20,Male,True,False,1,2,Widowed,8,None,0,Part-time,Advanced,21,Antarctica,Average,1
+47,Non-Binary,False,True,1,-1,Widowed,5,Dial-Up,3,Flexible,Intermediate,31,Europe,Average,0
+47,Female,False,True,1,-1,Married,8,None,3,Part-time,Beginner,18,Asia,Poor,0
+21,Female,True,False,1,1,Widowed,3,High-Speed,2,Full-time,Beginner,36,Antarctica,Excellent,1
+41,Male,True,False,5,4,Widowed,9,High-Speed,4,Full-time,Advanced,27,Asia,Good,1
+46,Non-Binary,True,False,1,3,Single,7,High-Speed,4,Flexible,Advanced,28,North America,Average,1
+31,Male,False,True,5,-1,Single,2,High-Speed,0,Full-time,Intermediate,33,Africa,Average,0
+40,Non-Binary,False,True,5,-1,Single,4,None,3,Flexible,Intermediate,26,Europe,Poor,1
+32,Female,False,True,3,-1,Single,8,Dial-Up,3,Full-time,Native,8,Africa,Average,1
+21,Non-Binary,True,False,1,3,Widowed,5,None,0,Part-time,Beginner,16,Antarctica,Good,1
+31,Female,False,True,1,-1,Married,5,None,2,Part-time,Advanced,9,North America,Poor,1
+35,Male,True,False,4,1,Widowed,6,High-Speed,0,Full-time,Beginner,7,Europe,Poor,1
+20,Male,True,False,1,2,Widowed,1,High-Speed,1,Flexible,Intermediate,23,Asia,Average,1
+26,Male,True,False,5,2,Single,1,Dial-Up,4,Flexible,Beginner,23,Asia,Poor,0
+20,Male,True,False,2,4,Married,5,Dial-Up,1,Part-time,Advanced,19,Europe,Poor,0
+27,Male,True,False,2,3,Married,4,High-Speed,1,Part-time,Native,18,South America,Average,0
+41,Female,False,True,0,-1,Single,4,Dial-Up,4,Part-time,Native,15,Africa,Average,1
+48,Male,False,True,2,-1,Married,8,Dial-Up,2,Flexible,Advanced,14,Africa,Good,1
+21,Female,False,True,5,-1,Married,9,Dial-Up,4,Part-time,Advanced,5,Asia,Good,0
+46,Female,True,False,0,3,Divorced,1,High-Speed,0,Part-time,Beginner,27,Australia,Average,0
+36,Male,False,True,0,-1,Single,4,Dial-Up,1,Full-time,Beginner,28,Australia,Average,1
+43,Female,True,False,5,2,Single,9,High-Speed,1,Full-time,Intermediate,33,Europe,Excellent,0
+23,Male,False,True,5,-1,Married,7,None,3,Full-time,Native,7,Africa,Excellent,1
+37,Non-Binary,False,True,3,-1,Married,5,High-Speed,0,Part-time,Native,10,Europe,Good,1
+38,Female,False,True,1,-1,Widowed,2,High-Speed,0,Full-time,Advanced,17,Europe,Good,1
+28,Female,True,False,4,1,Divorced,5,High-Speed,4,Flexible,Beginner,6,Australia,Good,1
+48,Female,True,False,3,1,Single,2,High-Speed,4,Flexible,Native,27,Europe,Average,1
+42,Non-Binary,True,False,1,1,Single,8,High-Speed,0,Part-time,Beginner,25,South America,Average,1
+43,Female,False,True,5,-1,Single,5,None,1,Part-time,Beginner,31,Africa,Good,1
+37,Female,True,False,5,4,Married,9,None,1,Part-time,Native,10,South America,Excellent,1
+21,Non-Binary,True,False,3,2,Widowed,9,Dial-Up,0,Part-time,Intermediate,12,Africa,Excellent,1
+29,Male,False,True,0,-1,Divorced,4,Dial-Up,3,Full-time,Native,35,Africa,Average,1
+42,Non-Binary,False,True,1,-1,Widowed,8,High-Speed,3,Full-time,Native,34,South America,Good,1
+23,Male,True,False,5,3,Single,2,High-Speed,2,Part-time,Advanced,5,Australia,Good,1
+43,Non-Binary,True,False,0,2,Married,5,None,2,Part-time,Native,38,Antarctica,Poor,1
+33,Male,False,True,5,-1,Married,8,None,3,Full-time,Native,13,North America,Poor,1
+41,Female,True,False,2,1,Divorced,4,Dial-Up,1,Flexible,Native,16,Australia,Good,0
+48,Non-Binary,False,True,2,-1,Single,8,None,4,Full-time,Advanced,31,Africa,Good,1
+43,Male,False,True,1,-1,Divorced,2,None,2,Part-time,Intermediate,7,Antarctica,Average,1
+30,Non-Binary,True,False,4,4,Widowed,9,Dial-Up,2,Full-time,Intermediate,37,South America,Average,0
+28,Female,True,False,3,2,Married,8,High-Speed,0,Full-time,Advanced,11,Europe,Good,1
+41,Non-Binary,False,True,5,-1,Widowed,7,Dial-Up,0,Full-time,Beginner,21,South America,Poor,0
+29,Non-Binary,True,False,3,3,Divorced,6,High-Speed,1,Full-time,Native,13,Europe,Good,1
+37,Female,True,False,2,4,Married,4,High-Speed,0,Flexible,Advanced,20,South America,Excellent,1
+35,Female,False,True,0,-1,Divorced,0,High-Speed,4,Flexible,Intermediate,16,Asia,Average,1
+19,Non-Binary,False,True,2,-1,Divorced,9,High-Speed,4,Full-time,Native,31,Antarctica,Good,1
+35,Non-Binary,False,True,1,-1,Single,4,Dial-Up,1,Part-time,Advanced,26,Africa,Poor,0
+43,Female,True,False,1,3,Married,4,None,4,Part-time,Native,11,Asia,Excellent,0
+28,Male,False,True,4,-1,Single,4,None,3,Part-time,Intermediate,17,Europe,Average,0
+32,Male,False,True,0,-1,Married,0,High-Speed,3,Flexible,Beginner,8,South America,Poor,1
+49,Male,False,True,0,-1,Widowed,7,Dial-Up,0,Flexible,Intermediate,22,Europe,Poor,0
+49,Male,False,True,1,-1,Single,4,None,0,Full-time,Beginner,15,Africa,Poor,0
+19,Non-Binary,True,False,5,1,Divorced,5,Dial-Up,4,Part-time,Intermediate,13,Asia,Average,1
+28,Non-Binary,True,False,3,2,Divorced,4,Dial-Up,3,Flexible,Beginner,5,Australia,Excellent,0
+23,Female,True,False,4,2,Widowed,9,Dial-Up,1,Flexible,Native,18,North America,Poor,1
+35,Non-Binary,True,False,3,4,Divorced,7,None,0,Part-time,Intermediate,39,Asia,Average,1
+19,Male,True,False,4,3,Widowed,5,Dial-Up,3,Part-time,Native,11,Europe,Good,1
+19,Female,True,False,2,1,Single,3,None,3,Part-time,Intermediate,20,Asia,Good,0
+24,Female,False,True,1,-1,Widowed,3,High-Speed,2,Part-time,Beginner,20,South America,Excellent,1
+41,Male,False,True,1,-1,Divorced,4,None,3,Part-time,Native,27,Antarctica,Good,1
+47,Male,True,False,1,2,Single,6,None,0,Part-time,Beginner,28,South America,Good,1
+19,Female,True,False,4,3,Divorced,9,High-Speed,0,Part-time,Native,21,Asia,Average,1
+25,Male,True,False,2,4,Divorced,6,None,3,Full-time,Intermediate,20,North America,Excellent,0
+18,Male,True,False,0,1,Married,2,None,0,Flexible,Beginner,8,South America,Good,1
+25,Male,False,True,3,-1,Widowed,1,None,0,Flexible,Intermediate,16,North America,Average,0
+34,Non-Binary,True,False,1,3,Single,9,Dial-Up,4,Full-time,Beginner,31,South America,Average,0
+40,Female,True,False,2,1,Single,6,Dial-Up,1,Flexible,Native,6,Australia,Good,1
+31,Non-Binary,False,True,0,-1,Divorced,3,None,3,Full-time,Advanced,24,Asia,Good,1
+46,Female,True,False,4,2,Single,0,High-Speed,4,Full-time,Beginner,13,Africa,Poor,0
+33,Female,False,True,3,-1,Divorced,7,High-Speed,4,Flexible,Native,39,Asia,Poor,1
+39,Non-Binary,False,True,3,-1,Divorced,9,High-Speed,2,Part-time,Intermediate,11,Africa,Average,0
+34,Non-Binary,False,True,0,-1,Married,3,High-Speed,2,Flexible,Advanced,17,Africa,Poor,1
+22,Non-Binary,True,False,5,4,Single,5,High-Speed,4,Full-time,Advanced,9,South America,Good,0
+38,Male,True,False,1,4,Divorced,9,High-Speed,4,Part-time,Advanced,18,Australia,Average,1
+20,Non-Binary,True,False,5,3,Divorced,1,None,3,Flexible,Intermediate,39,Africa,Good,1
+48,Male,True,False,5,3,Widowed,4,High-Speed,0,Part-time,Native,34,Australia,Good,1
+30,Male,True,False,4,1,Divorced,8,High-Speed,2,Full-time,Advanced,31,Asia,Good,0
+47,Non-Binary,True,False,3,3,Divorced,3,None,2,Part-time,Advanced,34,Africa,Good,1
+44,Female,False,True,4,-1,Divorced,4,High-Speed,1,Flexible,Intermediate,39,Antarctica,Excellent,0
+21,Female,False,True,2,-1,Single,8,Dial-Up,3,Full-time,Intermediate,27,Asia,Excellent,1
+41,Male,False,True,0,-1,Single,9,None,1,Part-time,Advanced,9,Antarctica,Poor,0
+29,Non-Binary,False,True,1,-1,Widowed,1,High-Speed,3,Part-time,Native,18,South America,Excellent,0
+45,Non-Binary,True,False,0,3,Divorced,0,None,3,Full-time,Beginner,17,South America,Good,1
+45,Male,True,False,3,2,Widowed,0,None,2,Part-time,Beginner,19,North America,Average,0
+40,Female,False,True,1,-1,Married,6,High-Speed,1,Flexible,Advanced,19,South America,Poor,1
+33,Female,False,True,4,-1,Widowed,9,High-Speed,2,Flexible,Native,19,Africa,Excellent,0
+34,Female,False,True,4,-1,Widowed,0,High-Speed,4,Full-time,Advanced,10,Europe,Poor,1
+22,Female,True,False,5,4,Married,7,High-Speed,0,Full-time,Advanced,20,North America,Good,1
+28,Male,True,False,2,1,Widowed,0,High-Speed,4,Flexible,Native,13,Asia,Poor,1
+46,Non-Binary,True,False,1,2,Single,6,Dial-Up,0,Flexible,Advanced,31,Africa,Excellent,1
+39,Female,True,False,2,3,Widowed,9,Dial-Up,0,Part-time,Native,20,Asia,Poor,1
+19,Male,False,True,5,-1,Married,1,None,2,Full-time,Native,39,Europe,Poor,1
+19,Male,True,False,0,2,Divorced,2,None,3,Part-time,Intermediate,10,Asia,Average,0
+21,Non-Binary,True,False,5,3,Single,4,None,3,Part-time,Native,11,Antarctica,Good,1
+27,Male,False,True,0,-1,Widowed,3,High-Speed,4,Flexible,Advanced,5,Africa,Average,0
+23,Male,False,True,0,-1,Single,7,High-Speed,3,Flexible,Advanced,16,Asia,Average,1
+38,Male,False,True,2,-1,Married,5,Dial-Up,1,Flexible,Beginner,30,North America,Average,1
+18,Male,True,False,4,1,Divorced,5,Dial-Up,0,Flexible,Intermediate,12,South America,Excellent,1
+42,Female,False,True,1,-1,Divorced,5,None,3,Part-time,Advanced,33,Antarctica,Poor,1
+41,Non-Binary,False,True,2,-1,Single,4,None,0,Flexible,Intermediate,13,South America,Good,0
+25,Male,False,True,4,-1,Divorced,3,High-Speed,4,Part-time,Beginner,32,South America,Good,1
+41,Non-Binary,True,False,5,2,Married,8,High-Speed,0,Part-time,Advanced,5,North America,Good,1
+38,Female,False,True,0,-1,Single,9,None,3,Flexible,Native,39,Australia,Average,1
+18,Female,True,False,3,3,Divorced,2,High-Speed,4,Full-time,Beginner,37,Africa,Average,1
+28,Non-Binary,True,False,3,3,Divorced,7,Dial-Up,2,Full-time,Advanced,39,Asia,Excellent,0
+19,Non-Binary,False,True,2,-1,Married,8,Dial-Up,3,Flexible,Native,19,Africa,Excellent,0
+37,Non-Binary,True,False,2,2,Married,7,Dial-Up,1,Full-time,Native,11,Europe,Average,0
+27,Non-Binary,False,True,4,-1,Divorced,2,High-Speed,4,Part-time,Beginner,5,Africa,Average,1
+49,Male,True,False,4,2,Married,0,High-Speed,4,Part-time,Advanced,17,Asia,Excellent,1
+25,Female,False,True,4,-1,Widowed,3,None,2,Full-time,Beginner,30,Asia,Average,0
+28,Male,True,False,2,4,Widowed,2,None,2,Flexible,Beginner,21,Australia,Excellent,0
+28,Non-Binary,False,True,2,-1,Single,9,Dial-Up,4,Part-time,Native,12,South America,Average,1
+49,Female,False,True,2,-1,Single,7,None,1,Flexible,Advanced,24,Europe,Good,0
+32,Male,True,False,1,1,Single,7,High-Speed,0,Part-time,Intermediate,26,Asia,Average,0
+46,Female,True,False,4,2,Widowed,0,Dial-Up,4,Flexible,Beginner,33,Antarctica,Poor,0
+41,Female,True,False,3,3,Single,6,Dial-Up,1,Flexible,Beginner,37,Asia,Good,1
+32,Non-Binary,True,False,4,3,Divorced,2,High-Speed,4,Part-time,Beginner,8,South America,Poor,1
+36,Female,False,True,0,-1,Married,6,High-Speed,1,Part-time,Intermediate,27,Australia,Average,1
+38,Non-Binary,True,False,4,1,Divorced,9,High-Speed,2,Part-time,Beginner,23,North America,Poor,1
+32,Female,False,True,4,-1,Widowed,9,None,2,Full-time,Advanced,21,Africa,Poor,1
+19,Male,True,False,4,2,Married,8,None,1,Full-time,Native,38,Asia,Excellent,1
+22,Non-Binary,True,False,4,3,Married,2,None,4,Flexible,Beginner,20,North America,Poor,1
+29,Non-Binary,False,True,3,-1,Single,7,Dial-Up,2,Full-time,Intermediate,5,Europe,Good,1
+24,Male,False,True,1,-1,Divorced,2,Dial-Up,4,Full-time,Intermediate,29,Australia,Average,1
+29,Non-Binary,False,True,5,-1,Single,6,Dial-Up,0,Full-time,Beginner,32,Europe,Average,1
+47,Non-Binary,True,False,3,2,Single,3,High-Speed,4,Part-time,Advanced,24,South America,Good,1
+25,Female,True,False,3,3,Widowed,2,None,2,Part-time,Intermediate,34,South America,Excellent,1
+22,Female,True,False,3,2,Divorced,3,None,0,Full-time,Advanced,17,Africa,Good,1
+41,Male,True,False,5,4,Married,2,Dial-Up,0,Full-time,Intermediate,7,North America,Good,1
+18,Male,True,False,3,3,Single,1,None,2,Part-time,Native,18,Australia,Good,1
+26,Male,True,False,3,2,Married,6,None,1,Full-time,Advanced,7,Africa,Poor,0
+21,Male,False,True,3,-1,Single,7,High-Speed,3,Full-time,Beginner,7,South America,Excellent,1
+26,Male,False,True,3,-1,Married,8,None,3,Full-time,Native,8,Australia,Average,1
+26,Female,False,True,3,-1,Divorced,0,None,0,Full-time,Native,19,Asia,Average,1
+23,Male,True,False,2,4,Single,9,None,4,Flexible,Advanced,35,North America,Poor,1
+23,Female,False,True,0,-1,Divorced,4,High-Speed,3,Full-time,Native,34,North America,Good,1
+37,Male,False,True,2,-1,Divorced,9,None,1,Part-time,Native,14,South America,Excellent,1
+42,Non-Binary,False,True,0,-1,Widowed,7,None,0,Full-time,Advanced,38,Australia,Good,0
+47,Non-Binary,False,True,5,-1,Widowed,9,None,4,Flexible,Intermediate,10,South America,Average,0
+35,Non-Binary,True,False,2,3,Widowed,3,High-Speed,4,Flexible,Intermediate,8,South America,Poor,1
+30,Female,False,True,4,-1,Married,5,High-Speed,1,Part-time,Advanced,17,North America,Average,1
+38,Non-Binary,True,False,0,2,Divorced,6,High-Speed,0,Flexible,Native,19,Antarctica,Poor,1
+46,Male,True,False,0,2,Married,5,Dial-Up,3,Part-time,Intermediate,27,North America,Good,1
+31,Male,True,False,1,4,Divorced,2,None,2,Part-time,Advanced,8,Europe,Excellent,0
+23,Female,False,True,3,-1,Married,3,None,1,Full-time,Intermediate,31,Asia,Average,1
+18,Male,True,False,0,1,Single,9,None,3,Part-time,Advanced,9,Africa,Average,1
+23,Male,True,False,0,3,Married,1,Dial-Up,2,Flexible,Beginner,28,Africa,Poor,0
+24,Non-Binary,True,False,2,3,Divorced,4,Dial-Up,4,Part-time,Native,5,Australia,Poor,1
+23,Male,False,True,0,-1,Single,9,None,2,Full-time,Advanced,25,South America,Poor,1
+33,Female,False,True,1,-1,Divorced,1,High-Speed,0,Flexible,Intermediate,11,Australia,Excellent,1
+45,Male,True,False,2,4,Widowed,7,High-Speed,4,Full-time,Native,38,North America,Average,1
+22,Female,True,False,4,2,Divorced,4,Dial-Up,0,Part-time,Intermediate,33,Europe,Poor,1
+31,Non-Binary,False,True,0,-1,Divorced,2,High-Speed,2,Full-time,Native,26,Europe,Average,1
+42,Non-Binary,True,False,3,1,Single,1,High-Speed,4,Flexible,Native,24,North America,Poor,1
+40,Female,False,True,4,-1,Divorced,2,Dial-Up,2,Flexible,Native,7,North America,Excellent,1
+44,Male,True,False,1,3,Divorced,1,None,3,Part-time,Beginner,32,Australia,Excellent,1
+23,Non-Binary,True,False,1,4,Widowed,5,Dial-Up,4,Part-time,Native,5,Europe,Excellent,1
+21,Non-Binary,True,False,3,1,Single,0,Dial-Up,4,Flexible,Advanced,31,Antarctica,Excellent,1
+34,Male,True,False,0,1,Single,1,Dial-Up,4,Full-time,Beginner,20,South America,Good,1
+38,Non-Binary,False,True,2,-1,Married,2,None,4,Part-time,Native,5,North America,Poor,1
+46,Female,True,False,3,3,Married,7,None,1,Flexible,Beginner,23,Asia,Average,0
+47,Male,False,True,5,-1,Widowed,1,Dial-Up,3,Full-time,Intermediate,21,Africa,Good,0
+47,Male,True,False,0,1,Single,2,Dial-Up,4,Part-time,Beginner,27,Asia,Excellent,1
+44,Male,False,True,2,-1,Divorced,5,High-Speed,3,Full-time,Native,20,South America,Average,1
+35,Non-Binary,True,False,3,1,Divorced,9,Dial-Up,3,Flexible,Beginner,22,Australia,Good,0
+28,Female,False,True,0,-1,Single,5,High-Speed,0,Full-time,Intermediate,7,Europe,Average,1
+32,Male,True,False,0,2,Single,1,High-Speed,0,Part-time,Intermediate,21,North America,Poor,1
+35,Non-Binary,False,True,3,-1,Single,7,Dial-Up,1,Flexible,Intermediate,32,South America,Excellent,0
+30,Female,False,True,3,-1,Married,9,None,2,Full-time,Advanced,23,Antarctica,Excellent,0
+28,Female,True,False,0,1,Widowed,3,Dial-Up,1,Flexible,Beginner,23,South America,Good,1
+46,Female,True,False,1,3,Divorced,2,None,4,Part-time,Intermediate,32,South America,Excellent,0
+47,Female,False,True,5,-1,Widowed,7,High-Speed,2,Full-time,Advanced,18,Europe,Poor,1
+35,Female,False,True,0,-1,Divorced,9,High-Speed,0,Flexible,Native,21,Europe,Average,1
+35,Female,True,False,3,3,Single,5,High-Speed,0,Part-time,Intermediate,30,Antarctica,Excellent,1
+42,Male,False,True,4,-1,Single,1,Dial-Up,1,Full-time,Beginner,7,Antarctica,Excellent,1
+30,Female,False,True,1,-1,Divorced,6,Dial-Up,3,Flexible,Intermediate,7,South America,Average,0
+25,Non-Binary,True,False,3,4,Single,4,High-Speed,1,Flexible,Native,25,North America,Poor,0
+30,Male,True,False,4,3,Single,0,Dial-Up,2,Part-time,Advanced,7,Antarctica,Excellent,1
+19,Female,False,True,0,-1,Divorced,1,High-Speed,1,Part-time,Native,36,Europe,Good,1
+24,Male,True,False,1,2,Married,8,Dial-Up,0,Flexible,Advanced,29,Australia,Average,1
+43,Female,True,False,0,4,Single,2,None,4,Part-time,Native,11,Asia,Poor,1
+20,Female,False,True,4,-1,Single,9,None,0,Part-time,Native,9,Antarctica,Good,1
+35,Non-Binary,False,True,3,-1,Divorced,2,High-Speed,2,Full-time,Beginner,35,Asia,Average,0
+46,Male,True,False,5,1,Widowed,4,None,4,Part-time,Advanced,11,Europe,Good,1
+20,Male,False,True,4,-1,Single,1,None,3,Full-time,Beginner,36,Africa,Poor,1
+29,Non-Binary,False,True,4,-1,Divorced,8,High-Speed,2,Flexible,Advanced,34,North America,Good,0
+45,Non-Binary,True,False,4,2,Divorced,8,Dial-Up,4,Part-time,Beginner,22,Europe,Average,0
+43,Female,True,False,2,4,Divorced,1,Dial-Up,3,Full-time,Advanced,10,South America,Good,1
+22,Female,True,False,1,1,Widowed,4,None,2,Flexible,Native,5,South America,Average,1
+28,Female,False,True,5,-1,Single,3,High-Speed,3,Full-time,Native,8,Australia,Poor,0
+42,Female,False,True,0,-1,Married,4,Dial-Up,2,Flexible,Intermediate,19,Europe,Excellent,0
+40,Male,False,True,0,-1,Married,7,None,2,Full-time,Intermediate,34,Australia,Good,1
+45,Male,False,True,2,-1,Widowed,0,High-Speed,2,Part-time,Beginner,37,Asia,Excellent,0
+34,Non-Binary,True,False,0,4,Single,5,Dial-Up,1,Part-time,Intermediate,10,Antarctica,Good,1
+22,Non-Binary,True,False,1,2,Widowed,6,Dial-Up,0,Full-time,Beginner,29,Europe,Excellent,1
+33,Non-Binary,False,True,0,-1,Married,8,None,4,Full-time,Intermediate,9,Africa,Good,1
+18,Male,True,False,0,4,Divorced,3,Dial-Up,0,Part-time,Advanced,11,Europe,Poor,0
+26,Non-Binary,True,False,0,3,Divorced,9,High-Speed,4,Part-time,Native,17,Antarctica,Good,1
+45,Male,True,False,0,3,Single,3,None,1,Full-time,Native,26,Africa,Good,1
+30,Non-Binary,False,True,4,-1,Divorced,9,Dial-Up,3,Flexible,Intermediate,31,Asia,Excellent,1
+18,Female,False,True,0,-1,Divorced,3,High-Speed,3,Part-time,Advanced,25,Antarctica,Poor,1
+19,Non-Binary,False,True,5,-1,Widowed,8,None,2,Flexible,Native,19,Asia,Good,1
+35,Male,False,True,1,-1,Widowed,8,None,4,Part-time,Beginner,29,Europe,Good,1
+30,Male,False,True,2,-1,Widowed,8,High-Speed,4,Part-time,Native,36,Europe,Poor,0
+45,Female,False,True,3,-1,Divorced,9,High-Speed,4,Part-time,Beginner,29,Antarctica,Poor,1
+25,Male,False,True,3,-1,Married,7,None,2,Flexible,Native,30,Antarctica,Good,1
+49,Female,False,True,3,-1,Divorced,3,None,3,Full-time,Native,21,Africa,Poor,1
+44,Non-Binary,False,True,0,-1,Single,5,Dial-Up,3,Flexible,Beginner,33,Africa,Excellent,1
+32,Male,False,True,4,-1,Widowed,0,Dial-Up,3,Full-time,Intermediate,29,Europe,Excellent,1
+39,Non-Binary,False,True,3,-1,Married,4,High-Speed,2,Part-time,Native,37,South America,Average,0
+40,Male,True,False,1,1,Married,1,Dial-Up,4,Full-time,Native,35,South America,Good,1
+32,Male,True,False,4,3,Divorced,7,High-Speed,0,Part-time,Intermediate,38,Africa,Good,1
+38,Female,True,False,4,2,Single,7,Dial-Up,4,Flexible,Native,7,Africa,Average,1
+29,Female,False,True,2,-1,Married,9,Dial-Up,0,Part-time,Beginner,5,Australia,Average,0
+38,Non-Binary,False,True,3,-1,Divorced,2,None,0,Full-time,Native,7,Australia,Excellent,1
+43,Male,False,True,1,-1,Widowed,7,Dial-Up,3,Flexible,Advanced,27,South America,Average,1
+28,Male,True,False,0,2,Divorced,8,None,1,Part-time,Native,38,Europe,Average,1
+34,Male,True,False,0,2,Widowed,9,High-Speed,0,Flexible,Advanced,36,North America,Poor,1
+32,Non-Binary,False,True,3,-1,Married,0,High-Speed,3,Flexible,Advanced,27,Africa,Excellent,1
+49,Female,True,False,0,1,Widowed,2,None,1,Full-time,Native,18,South America,Average,1
+33,Non-Binary,False,True,4,-1,Widowed,3,High-Speed,2,Full-time,Intermediate,18,South America,Poor,1
+33,Non-Binary,True,False,4,4,Widowed,9,None,0,Part-time,Native,31,North America,Good,1
+29,Male,True,False,5,4,Married,9,High-Speed,1,Full-time,Native,38,South America,Average,1
+43,Non-Binary,False,True,2,-1,Widowed,4,Dial-Up,3,Part-time,Beginner,33,South America,Good,1
+30,Female,True,False,2,1,Married,8,High-Speed,1,Part-time,Intermediate,33,North America,Poor,1
+30,Male,False,True,5,-1,Single,9,Dial-Up,0,Flexible,Native,34,Australia,Average,1
+39,Female,False,True,5,-1,Married,6,Dial-Up,1,Full-time,Intermediate,35,South America,Excellent,1
+47,Male,False,True,0,-1,Single,2,High-Speed,2,Full-time,Beginner,33,Europe,Good,0
+24,Male,True,False,5,4,Widowed,1,Dial-Up,2,Flexible,Intermediate,29,Europe,Poor,1
+45,Non-Binary,True,False,4,3,Married,5,None,4,Part-time,Beginner,21,Africa,Excellent,1
+27,Non-Binary,True,False,1,3,Divorced,3,High-Speed,2,Full-time,Native,19,Antarctica,Excellent,1
+30,Female,False,True,3,-1,Married,9,High-Speed,1,Flexible,Advanced,36,South America,Good,1
+45,Non-Binary,True,False,1,4,Married,5,Dial-Up,3,Flexible,Intermediate,28,South America,Average,0
+33,Male,True,False,3,4,Widowed,4,High-Speed,4,Part-time,Native,32,Asia,Good,0
+44,Female,True,False,1,2,Divorced,2,None,2,Flexible,Beginner,28,Africa,Poor,0
+46,Female,False,True,3,-1,Married,9,Dial-Up,3,Flexible,Intermediate,39,Australia,Excellent,1
+48,Female,True,False,5,3,Divorced,4,Dial-Up,2,Part-time,Native,29,North America,Poor,1
+18,Non-Binary,True,False,3,1,Married,9,None,4,Flexible,Intermediate,26,Australia,Average,0
+27,Female,True,False,2,1,Divorced,9,None,0,Flexible,Native,25,Antarctica,Good,1
+49,Female,True,False,0,3,Widowed,6,Dial-Up,1,Part-time,Beginner,33,Africa,Good,1
+47,Male,False,True,4,-1,Divorced,1,Dial-Up,4,Full-time,Advanced,28,Australia,Average,1
+37,Male,False,True,2,-1,Widowed,7,High-Speed,2,Full-time,Intermediate,31,Africa,Good,1
+19,Male,True,False,2,1,Single,5,High-Speed,3,Flexible,Intermediate,11,Europe,Excellent,1
+43,Male,False,True,1,-1,Single,7,Dial-Up,3,Part-time,Beginner,39,Australia,Good,1
+21,Non-Binary,True,False,4,1,Divorced,7,Dial-Up,3,Part-time,Beginner,17,South America,Good,1
+26,Non-Binary,True,False,4,2,Widowed,1,None,4,Full-time,Intermediate,11,Africa,Excellent,1
+30,Female,False,True,1,-1,Married,1,None,1,Part-time,Native,34,South America,Average,1
+41,Male,False,True,1,-1,Married,4,High-Speed,2,Full-time,Advanced,35,Africa,Excellent,1
+37,Female,True,False,5,2,Divorced,3,High-Speed,4,Full-time,Native,38,South America,Poor,1
+39,Male,False,True,4,-1,Single,5,Dial-Up,4,Part-time,Beginner,19,Europe,Excellent,1
+29,Female,False,True,4,-1,Married,3,None,4,Flexible,Advanced,35,South America,Average,1
+28,Male,False,True,1,-1,Married,2,None,0,Part-time,Advanced,15,Europe,Excellent,1
+29,Female,False,True,5,-1,Widowed,1,Dial-Up,3,Flexible,Beginner,25,Africa,Excellent,1
+23,Non-Binary,True,False,4,2,Divorced,3,None,2,Full-time,Advanced,33,South America,Poor,0
+42,Non-Binary,False,True,3,-1,Divorced,8,High-Speed,0,Part-time,Beginner,22,Australia,Average,1
+43,Female,False,True,3,-1,Single,5,None,3,Flexible,Native,32,Africa,Poor,1
+18,Non-Binary,True,False,4,4,Widowed,3,None,3,Full-time,Advanced,22,North America,Average,1
+29,Female,True,False,4,1,Single,1,Dial-Up,4,Part-time,Native,15,Africa,Poor,0
+49,Female,False,True,1,-1,Divorced,8,High-Speed,3,Flexible,Beginner,16,Australia,Excellent,0
+40,Female,False,True,4,-1,Widowed,6,Dial-Up,1,Full-time,Beginner,9,South America,Good,0
+39,Male,True,False,2,2,Widowed,8,None,3,Flexible,Beginner,31,Asia,Good,0
+47,Female,True,False,2,4,Divorced,8,None,4,Part-time,Beginner,19,Antarctica,Average,0
+46,Female,False,True,0,-1,Widowed,2,Dial-Up,2,Flexible,Native,11,South America,Poor,0
+32,Male,True,False,5,1,Single,3,High-Speed,3,Flexible,Native,9,Europe,Excellent,1
+28,Male,False,True,3,-1,Divorced,5,High-Speed,3,Part-time,Beginner,15,Antarctica,Excellent,1
+37,Female,False,True,1,-1,Single,2,None,3,Flexible,Intermediate,23,Europe,Good,1
+28,Non-Binary,True,False,0,2,Single,9,None,3,Part-time,Beginner,35,South America,Average,0
+40,Female,False,True,4,-1,Single,1,Dial-Up,3,Part-time,Advanced,16,Antarctica,Good,0
+39,Male,False,True,3,-1,Single,9,None,3,Full-time,Native,9,Europe,Poor,1
+24,Male,True,False,4,2,Divorced,5,Dial-Up,1,Flexible,Native,13,Africa,Poor,1
+28,Male,True,False,5,2,Divorced,6,None,0,Full-time,Native,21,Australia,Excellent,1
+35,Male,False,True,0,-1,Widowed,3,Dial-Up,2,Flexible,Intermediate,17,Australia,Average,1
+41,Female,False,True,2,-1,Married,8,High-Speed,0,Part-time,Beginner,30,Europe,Good,1
+44,Female,False,True,4,-1,Married,7,None,4,Flexible,Beginner,16,North America,Poor,0
+48,Non-Binary,False,True,4,-1,Widowed,1,High-Speed,3,Flexible,Beginner,23,Asia,Excellent,1
+25,Non-Binary,False,True,1,-1,Married,6,Dial-Up,0,Flexible,Beginner,21,Europe,Poor,1
+39,Male,False,True,3,-1,Divorced,9,None,4,Flexible,Beginner,36,Africa,Poor,0
+23,Male,True,False,4,3,Married,9,Dial-Up,3,Part-time,Intermediate,9,Australia,Poor,0
+39,Male,True,False,1,4,Single,5,High-Speed,2,Flexible,Native,36,Antarctica,Average,1
+40,Female,False,True,4,-1,Single,5,None,4,Flexible,Intermediate,32,Australia,Good,0
+39,Non-Binary,True,False,5,2,Married,8,Dial-Up,0,Flexible,Native,33,Australia,Average,1
+39,Male,True,False,1,4,Divorced,6,High-Speed,0,Full-time,Advanced,9,South America,Poor,1
+24,Non-Binary,False,True,4,-1,Married,9,None,3,Part-time,Native,29,Australia,Poor,1
+46,Female,True,False,3,3,Widowed,1,Dial-Up,0,Full-time,Native,17,Africa,Good,0
+45,Female,True,False,0,2,Divorced,6,None,0,Part-time,Native,19,North America,Excellent,0
+26,Male,False,True,4,-1,Divorced,8,High-Speed,3,Part-time,Beginner,31,Australia,Average,1
+47,Female,False,True,2,-1,Single,0,None,0,Part-time,Advanced,11,Africa,Excellent,1
+49,Non-Binary,False,True,1,-1,Widowed,3,None,3,Full-time,Intermediate,10,Africa,Average,0
+44,Female,True,False,0,2,Widowed,4,High-Speed,2,Flexible,Intermediate,30,South America,Good,0
+46,Non-Binary,True,False,3,1,Divorced,5,High-Speed,2,Part-time,Native,13,North America,Good,1
+46,Non-Binary,False,True,5,-1,Single,9,High-Speed,2,Flexible,Native,13,Europe,Poor,1
+27,Non-Binary,True,False,5,1,Divorced,8,Dial-Up,3,Flexible,Advanced,35,Antarctica,Average,1
+34,Non-Binary,False,True,5,-1,Single,7,None,1,Part-time,Intermediate,21,Asia,Poor,1
+40,Female,True,False,0,1,Single,4,High-Speed,4,Full-time,Advanced,33,North America,Excellent,1
+19,Female,False,True,0,-1,Married,2,Dial-Up,0,Part-time,Beginner,11,Antarctica,Good,1
+30,Non-Binary,True,False,5,2,Divorced,0,Dial-Up,1,Full-time,Intermediate,15,Africa,Good,0
+48,Male,True,False,1,3,Single,8,High-Speed,4,Full-time,Beginner,30,South America,Poor,1
+20,Male,False,True,5,-1,Divorced,2,Dial-Up,2,Flexible,Beginner,22,Europe,Poor,0
+28,Male,False,True,1,-1,Married,8,High-Speed,1,Part-time,Beginner,12,South America,Good,1
+46,Non-Binary,True,False,4,4,Divorced,0,High-Speed,3,Part-time,Intermediate,28,Antarctica,Poor,1
+46,Non-Binary,True,False,5,4,Single,9,Dial-Up,2,Flexible,Beginner,26,Europe,Good,1
+23,Male,False,True,1,-1,Married,8,None,4,Flexible,Intermediate,9,Australia,Average,1
+19,Non-Binary,False,True,3,-1,Divorced,6,High-Speed,4,Full-time,Native,21,Africa,Average,1
+29,Female,True,False,3,2,Widowed,3,High-Speed,4,Full-time,Intermediate,28,Europe,Average,1
+33,Male,False,True,4,-1,Widowed,1,Dial-Up,1,Flexible,Advanced,10,North America,Excellent,1
+41,Female,True,False,4,2,Divorced,9,Dial-Up,2,Part-time,Beginner,8,South America,Average,0
+37,Male,False,True,2,-1,Widowed,2,Dial-Up,4,Part-time,Advanced,23,North America,Excellent,0
+24,Female,False,True,3,-1,Divorced,7,High-Speed,4,Flexible,Advanced,30,Africa,Good,0
+45,Non-Binary,True,False,5,4,Divorced,4,None,2,Flexible,Beginner,24,South America,Average,0
+21,Male,True,False,5,3,Married,1,High-Speed,0,Part-time,Beginner,38,Australia,Average,1
+31,Female,True,False,5,1,Married,1,High-Speed,0,Part-time,Native,11,Africa,Good,1
+29,Non-Binary,False,True,1,-1,Single,1,Dial-Up,1,Full-time,Native,31,Asia,Excellent,1
+49,Female,True,False,0,2,Single,6,High-Speed,0,Full-time,Intermediate,26,Australia,Poor,1
+20,Female,True,False,2,4,Single,5,High-Speed,4,Part-time,Intermediate,37,Asia,Poor,0
+37,Non-Binary,True,False,5,3,Widowed,6,None,1,Part-time,Native,33,Africa,Average,1
+45,Male,True,False,4,3,Widowed,0,None,0,Part-time,Native,9,South America,Good,0
+18,Male,True,False,1,3,Married,1,None,1,Part-time,Native,23,North America,Average,1
+42,Female,False,True,2,-1,Married,1,Dial-Up,3,Flexible,Intermediate,29,Australia,Poor,0
+23,Male,False,True,3,-1,Divorced,7,High-Speed,3,Part-time,Advanced,5,Asia,Good,0
+31,Female,False,True,0,-1,Divorced,8,High-Speed,2,Part-time,Native,10,Europe,Average,1
+29,Male,False,True,0,-1,Single,7,None,2,Flexible,Intermediate,6,Asia,Good,0
+18,Female,True,False,0,3,Widowed,7,Dial-Up,1,Full-time,Intermediate,13,Asia,Good,0
+28,Male,True,False,1,4,Widowed,1,Dial-Up,4,Part-time,Intermediate,6,Australia,Excellent,1
+22,Female,True,False,1,2,Married,6,High-Speed,3,Full-time,Intermediate,14,Europe,Poor,0
+44,Female,False,True,2,-1,Widowed,1,Dial-Up,0,Flexible,Advanced,38,Antarctica,Average,1
+49,Female,True,False,3,2,Married,2,Dial-Up,2,Part-time,Intermediate,24,Asia,Average,0
+20,Female,True,False,4,2,Single,9,High-Speed,3,Flexible,Advanced,7,Asia,Good,1
+29,Female,True,False,0,1,Single,5,Dial-Up,2,Part-time,Advanced,17,Africa,Excellent,1
+18,Non-Binary,False,True,0,-1,Divorced,6,High-Speed,4,Part-time,Intermediate,34,Australia,Excellent,1
+37,Non-Binary,True,False,2,1,Married,6,High-Speed,0,Flexible,Advanced,5,South America,Average,1
+30,Non-Binary,True,False,3,3,Widowed,0,None,0,Part-time,Beginner,36,Europe,Poor,0
+33,Male,True,False,1,3,Single,6,None,2,Full-time,Native,9,Asia,Average,1
+25,Non-Binary,True,False,5,2,Single,3,Dial-Up,0,Full-time,Native,35,Asia,Average,1
+20,Male,True,False,1,3,Married,6,Dial-Up,1,Flexible,Beginner,9,Asia,Average,0
+45,Non-Binary,True,False,3,3,Divorced,1,None,3,Part-time,Advanced,32,Asia,Good,1
+46,Male,True,False,0,2,Divorced,2,High-Speed,0,Part-time,Native,32,Africa,Average,1
+41,Male,True,False,0,3,Single,7,Dial-Up,3,Part-time,Beginner,28,Africa,Average,0
+21,Male,True,False,5,2,Single,8,None,0,Part-time,Intermediate,10,Asia,Average,0
+38,Female,False,True,2,-1,Widowed,2,None,0,Part-time,Intermediate,28,Europe,Average,1
+28,Female,False,True,5,-1,Single,8,High-Speed,0,Full-time,Native,16,North America,Good,1
+25,Female,True,False,3,2,Married,5,None,3,Part-time,Intermediate,12,North America,Excellent,1
+37,Non-Binary,False,True,0,-1,Married,2,None,2,Flexible,Intermediate,39,North America,Poor,1
+20,Female,False,True,2,-1,Married,1,High-Speed,0,Full-time,Intermediate,34,Antarctica,Poor,1
+49,Non-Binary,True,False,3,1,Widowed,5,None,1,Full-time,Advanced,9,Asia,Excellent,0
+23,Non-Binary,False,True,4,-1,Widowed,6,Dial-Up,0,Flexible,Advanced,26,Antarctica,Good,1
+29,Non-Binary,True,False,0,1,Widowed,7,None,2,Flexible,Advanced,22,South America,Good,0
+44,Male,True,False,5,4,Divorced,8,High-Speed,2,Part-time,Intermediate,7,North America,Average,1
+34,Non-Binary,False,True,4,-1,Single,5,High-Speed,4,Flexible,Intermediate,25,North America,Good,1
+41,Non-Binary,False,True,5,-1,Divorced,8,High-Speed,1,Flexible,Native,32,North America,Poor,0
+36,Male,True,False,2,4,Single,8,Dial-Up,3,Flexible,Beginner,7,Africa,Good,0
+19,Non-Binary,False,True,5,-1,Single,7,None,1,Flexible,Intermediate,32,North America,Poor,1
+45,Female,True,False,4,4,Widowed,7,High-Speed,2,Full-time,Intermediate,6,Asia,Average,0
+21,Male,True,False,0,2,Divorced,3,None,1,Flexible,Intermediate,10,Africa,Good,1
+42,Non-Binary,False,True,3,-1,Single,0,None,1,Full-time,Intermediate,14,Australia,Excellent,0
+26,Male,False,True,3,-1,Divorced,1,None,4,Full-time,Intermediate,28,Africa,Average,1
+44,Female,False,True,4,-1,Single,1,None,3,Full-time,Advanced,21,South America,Average,0
+47,Male,False,True,0,-1,Single,0,None,2,Flexible,Beginner,39,Europe,Good,1
+28,Non-Binary,False,True,5,-1,Married,7,Dial-Up,1,Full-time,Advanced,12,Antarctica,Poor,1
+26,Male,False,True,4,-1,Widowed,3,Dial-Up,4,Flexible,Beginner,6,North America,Poor,1
+46,Female,True,False,5,3,Widowed,8,High-Speed,4,Flexible,Beginner,20,Australia,Excellent,1
+38,Male,False,True,4,-1,Single,5,None,4,Flexible,Beginner,29,South America,Average,0
+35,Non-Binary,False,True,0,-1,Single,9,None,4,Flexible,Advanced,37,North America,Poor,1
+35,Non-Binary,False,True,5,-1,Widowed,2,None,0,Part-time,Beginner,12,Asia,Poor,0
+22,Male,True,False,4,1,Single,5,None,0,Full-time,Beginner,25,Asia,Poor,0
+25,Male,False,True,5,-1,Single,2,High-Speed,0,Full-time,Intermediate,6,Africa,Excellent,1
+26,Male,True,False,5,4,Widowed,0,High-Speed,1,Full-time,Advanced,14,Asia,Average,1
+49,Non-Binary,True,False,3,2,Married,6,High-Speed,3,Full-time,Advanced,14,Africa,Excellent,0
+18,Female,False,True,4,-1,Widowed,3,Dial-Up,1,Full-time,Native,39,Asia,Average,1
+43,Non-Binary,True,False,3,3,Widowed,7,High-Speed,3,Flexible,Advanced,37,North America,Good,1
+47,Non-Binary,True,False,4,3,Married,7,High-Speed,0,Flexible,Advanced,33,Asia,Excellent,1
+47,Male,False,True,0,-1,Married,8,High-Speed,2,Part-time,Intermediate,36,North America,Poor,1
+32,Female,False,True,2,-1,Divorced,2,Dial-Up,2,Flexible,Advanced,37,Australia,Excellent,0
+47,Non-Binary,True,False,1,2,Divorced,7,Dial-Up,0,Part-time,Native,26,Africa,Poor,1
+28,Non-Binary,False,True,0,-1,Divorced,7,Dial-Up,4,Flexible,Beginner,35,Europe,Poor,1
+30,Male,True,False,3,1,Single,3,Dial-Up,1,Full-time,Advanced,13,Africa,Average,1
+18,Female,True,False,1,1,Divorced,0,None,4,Part-time,Advanced,24,Asia,Good,1
+48,Male,True,False,2,2,Widowed,1,None,0,Flexible,Native,18,Australia,Poor,1
+31,Male,False,True,0,-1,Divorced,0,High-Speed,0,Part-time,Native,34,Australia,Average,1
+25,Female,False,True,4,-1,Single,1,Dial-Up,2,Full-time,Advanced,35,Africa,Average,1
+27,Male,True,False,0,2,Widowed,4,None,2,Part-time,Beginner,33,South America,Excellent,1
+18,Male,False,True,0,-1,Single,8,None,3,Flexible,Intermediate,17,Australia,Average,0
+24,Non-Binary,True,False,3,1,Divorced,5,High-Speed,1,Full-time,Native,21,Asia,Average,1
+27,Male,False,True,0,-1,Divorced,2,None,4,Full-time,Advanced,6,Australia,Good,0
+31,Non-Binary,False,True,5,-1,Married,7,Dial-Up,2,Flexible,Beginner,32,North America,Poor,0
+34,Female,True,False,3,4,Single,3,None,1,Full-time,Advanced,22,Australia,Poor,1
+44,Male,False,True,0,-1,Divorced,2,Dial-Up,2,Part-time,Beginner,38,South America,Excellent,1
+48,Female,True,False,5,4,Widowed,5,Dial-Up,4,Part-time,Beginner,33,Africa,Average,1
+20,Non-Binary,False,True,3,-1,Married,4,None,2,Flexible,Advanced,32,Europe,Average,1
+39,Male,False,True,4,-1,Single,4,None,3,Flexible,Native,34,South America,Excellent,0
+44,Female,True,False,2,1,Divorced,8,None,0,Part-time,Advanced,15,Antarctica,Good,1
+46,Non-Binary,True,False,1,2,Widowed,8,None,1,Part-time,Advanced,10,Australia,Good,1
+19,Female,True,False,4,2,Single,0,Dial-Up,1,Part-time,Intermediate,5,Europe,Excellent,0
+20,Male,True,False,2,1,Single,9,Dial-Up,2,Flexible,Native,10,Antarctica,Average,0
+49,Non-Binary,True,False,0,1,Single,0,None,3,Part-time,Advanced,29,Antarctica,Good,0
+26,Male,False,True,2,-1,Single,5,High-Speed,3,Flexible,Beginner,19,Asia,Good,1
+44,Non-Binary,True,False,5,3,Single,3,None,1,Part-time,Native,39,Australia,Excellent,1
+46,Male,True,False,1,3,Married,2,High-Speed,2,Part-time,Intermediate,27,Africa,Good,1
+27,Female,True,False,4,1,Divorced,2,None,2,Part-time,Beginner,35,Europe,Good,1
+26,Non-Binary,False,True,3,-1,Single,0,High-Speed,0,Full-time,Native,29,Asia,Excellent,1
+22,Female,True,False,0,1,Single,4,High-Speed,0,Full-time,Beginner,35,Africa,Excellent,1
+25,Male,False,True,3,-1,Divorced,8,Dial-Up,3,Part-time,Advanced,15,South America,Excellent,0
+47,Non-Binary,True,False,2,1,Divorced,5,High-Speed,2,Full-time,Beginner,34,Africa,Poor,1
+18,Non-Binary,False,True,3,-1,Widowed,9,None,0,Flexible,Advanced,37,Africa,Poor,1
+26,Male,False,True,3,-1,Widowed,3,Dial-Up,2,Part-time,Advanced,6,North America,Excellent,1
+22,Female,False,True,2,-1,Single,3,High-Speed,2,Flexible,Intermediate,14,Antarctica,Excellent,0
+26,Non-Binary,False,True,0,-1,Single,7,Dial-Up,0,Part-time,Intermediate,14,Africa,Good,1
+44,Female,False,True,0,-1,Married,8,None,4,Flexible,Advanced,32,Europe,Good,1
+32,Male,True,False,1,3,Widowed,9,None,1,Part-time,Advanced,27,North America,Poor,1
+41,Female,False,True,3,-1,Widowed,7,High-Speed,1,Flexible,Beginner,7,Asia,Good,1
+32,Male,False,True,4,-1,Single,9,Dial-Up,2,Part-time,Native,13,South America,Average,1
+49,Female,True,False,5,2,Widowed,9,None,0,Full-time,Beginner,34,Asia,Good,0
+27,Non-Binary,True,False,2,4,Widowed,4,None,4,Part-time,Native,32,Antarctica,Good,0
+38,Male,False,True,5,-1,Single,7,None,4,Full-time,Native,21,Europe,Average,1
+32,Male,False,True,0,-1,Widowed,4,High-Speed,3,Flexible,Native,21,Asia,Good,1
+45,Male,False,True,4,-1,Divorced,6,High-Speed,2,Flexible,Native,28,South America,Average,1
+40,Male,False,True,4,-1,Widowed,1,High-Speed,1,Flexible,Advanced,26,Asia,Good,1
+31,Male,False,True,0,-1,Single,9,Dial-Up,2,Part-time,Native,26,Europe,Average,1
+25,Non-Binary,True,False,5,4,Widowed,3,None,3,Flexible,Advanced,29,North America,Excellent,1
+35,Male,True,False,5,1,Married,0,Dial-Up,1,Full-time,Native,30,Europe,Good,0
+44,Male,True,False,1,3,Married,6,None,4,Flexible,Native,5,Africa,Poor,1
+42,Female,False,True,2,-1,Widowed,1,Dial-Up,2,Part-time,Native,37,Australia,Excellent,1
+34,Female,True,False,3,4,Divorced,9,None,3,Part-time,Intermediate,18,Asia,Poor,0
+39,Non-Binary,True,False,5,2,Single,8,High-Speed,4,Full-time,Advanced,22,Asia,Poor,1
+47,Non-Binary,False,True,3,-1,Divorced,3,None,0,Flexible,Intermediate,22,North America,Excellent,0
+40,Male,True,False,2,3,Single,5,Dial-Up,3,Full-time,Native,31,South America,Poor,1
+30,Male,True,False,5,4,Divorced,5,Dial-Up,0,Flexible,Native,36,North America,Good,1
+18,Male,True,False,3,2,Divorced,9,High-Speed,4,Full-time,Advanced,9,Europe,Good,1
+24,Male,True,False,0,3,Divorced,2,Dial-Up,0,Part-time,Native,25,Australia,Excellent,0
+19,Male,False,True,5,-1,Divorced,3,High-Speed,4,Flexible,Native,16,Africa,Average,0
+32,Male,True,False,1,2,Widowed,6,Dial-Up,0,Full-time,Native,5,South America,Average,0
+37,Female,False,True,3,-1,Divorced,6,Dial-Up,1,Full-time,Advanced,5,North America,Poor,1
+20,Non-Binary,True,False,5,1,Divorced,8,Dial-Up,4,Full-time,Beginner,14,North America,Excellent,1
+39,Non-Binary,True,False,0,2,Single,6,Dial-Up,3,Part-time,Advanced,35,South America,Average,1
+43,Female,True,False,4,2,Widowed,7,None,2,Flexible,Native,9,Antarctica,Poor,1
+43,Female,True,False,4,4,Single,4,Dial-Up,1,Full-time,Intermediate,19,Antarctica,Good,0
+24,Male,True,False,0,4,Single,3,High-Speed,1,Flexible,Beginner,38,North America,Good,1
+47,Male,False,True,0,-1,Single,8,High-Speed,1,Flexible,Native,33,North America,Excellent,1
+41,Male,False,True,5,-1,Widowed,0,None,4,Flexible,Intermediate,9,Europe,Excellent,0
+18,Female,True,False,3,1,Widowed,0,Dial-Up,3,Part-time,Intermediate,37,Asia,Poor,0
+46,Male,True,False,5,1,Widowed,7,High-Speed,2,Flexible,Advanced,28,Antarctica,Poor,1
+21,Non-Binary,True,False,1,1,Married,6,None,4,Part-time,Beginner,11,North America,Average,0
+28,Male,False,True,5,-1,Married,8,High-Speed,4,Part-time,Intermediate,28,Africa,Good,1
+22,Female,True,False,0,1,Widowed,2,None,1,Part-time,Beginner,18,Asia,Excellent,1
+28,Female,False,True,0,-1,Single,4,None,2,Full-time,Native,21,South America,Average,0
+41,Male,False,True,3,-1,Widowed,0,None,1,Full-time,Intermediate,21,Australia,Poor,1
+39,Male,False,True,0,-1,Single,7,None,0,Part-time,Advanced,17,Asia,Poor,1
+43,Female,False,True,5,-1,Divorced,5,High-Speed,3,Full-time,Advanced,31,Asia,Average,1
+46,Non-Binary,False,True,5,-1,Single,9,Dial-Up,0,Flexible,Beginner,18,Asia,Average,0
+32,Female,True,False,1,2,Widowed,1,Dial-Up,2,Flexible,Intermediate,8,North America,Good,0
+32,Male,False,True,1,-1,Married,1,Dial-Up,1,Full-time,Intermediate,22,North America,Excellent,0
+24,Male,True,False,1,2,Widowed,5,High-Speed,0,Flexible,Intermediate,6,Europe,Good,1
+49,Male,False,True,0,-1,Married,3,None,1,Full-time,Intermediate,10,South America,Good,1
+38,Female,False,True,0,-1,Widowed,0,None,1,Full-time,Intermediate,35,Africa,Excellent,1
+24,Female,False,True,5,-1,Married,9,High-Speed,4,Full-time,Advanced,17,Asia,Good,1
+19,Female,False,True,5,-1,Divorced,0,None,4,Flexible,Beginner,25,Asia,Average,0
+18,Female,False,True,4,-1,Widowed,1,Dial-Up,1,Part-time,Beginner,15,Antarctica,Average,0
+34,Female,True,False,0,2,Divorced,6,None,1,Flexible,Advanced,38,Africa,Average,1
+40,Female,True,False,5,1,Widowed,3,None,2,Part-time,Native,7,Australia,Good,1
+21,Non-Binary,True,False,2,3,Single,2,None,0,Full-time,Intermediate,9,Europe,Poor,0
+38,Male,True,False,2,1,Divorced,8,Dial-Up,2,Full-time,Native,31,South America,Poor,1
+40,Male,True,False,0,4,Divorced,4,None,0,Full-time,Advanced,16,Australia,Good,0
+36,Male,True,False,5,4,Single,6,High-Speed,4,Full-time,Native,26,North America,Good,1
+33,Female,True,False,0,4,Widowed,3,Dial-Up,3,Full-time,Advanced,28,Antarctica,Poor,1
+29,Female,False,True,5,-1,Single,6,High-Speed,1,Part-time,Advanced,14,South America,Excellent,1
+48,Non-Binary,False,True,5,-1,Widowed,1,High-Speed,0,Part-time,Native,34,Europe,Excellent,1
+29,Male,True,False,4,3,Divorced,9,Dial-Up,3,Flexible,Beginner,35,Africa,Excellent,1
+29,Male,True,False,4,1,Widowed,7,Dial-Up,1,Full-time,Beginner,38,Africa,Good,1
+26,Male,True,False,4,2,Divorced,3,None,2,Flexible,Beginner,31,Australia,Good,1
+24,Female,False,True,5,-1,Single,5,High-Speed,4,Part-time,Advanced,10,Asia,Average,1
+30,Non-Binary,False,True,5,-1,Married,1,Dial-Up,1,Flexible,Intermediate,16,South America,Average,0
+34,Non-Binary,True,False,3,3,Widowed,8,Dial-Up,2,Part-time,Native,14,Antarctica,Good,1
+28,Male,True,False,2,4,Married,4,High-Speed,1,Part-time,Intermediate,35,Asia,Poor,1
+41,Male,False,True,4,-1,Single,1,None,1,Part-time,Intermediate,28,North America,Average,0
+43,Non-Binary,False,True,0,-1,Married,3,None,2,Part-time,Native,26,Australia,Good,1
+33,Female,False,True,4,-1,Married,1,Dial-Up,2,Part-time,Native,13,South America,Poor,1
+36,Non-Binary,False,True,5,-1,Widowed,3,None,2,Flexible,Beginner,32,Asia,Average,1
+24,Male,True,False,0,3,Single,0,Dial-Up,3,Part-time,Intermediate,35,North America,Excellent,1
+21,Male,True,False,2,3,Single,0,Dial-Up,4,Part-time,Intermediate,6,Asia,Excellent,1
+43,Non-Binary,True,False,1,1,Divorced,1,None,4,Full-time,Intermediate,14,North America,Poor,1
+43,Male,False,True,4,-1,Single,3,Dial-Up,1,Flexible,Native,7,South America,Excellent,1
+25,Female,False,True,3,-1,Married,1,Dial-Up,1,Flexible,Intermediate,11,Asia,Poor,1
+25,Female,True,False,2,3,Married,9,High-Speed,4,Full-time,Intermediate,17,North America,Poor,0
+30,Non-Binary,False,True,5,-1,Married,4,None,1,Full-time,Beginner,37,Antarctica,Good,1
+38,Male,True,False,5,1,Divorced,2,High-Speed,3,Part-time,Native,34,Asia,Average,1
+32,Non-Binary,False,True,3,-1,Widowed,0,High-Speed,1,Part-time,Advanced,14,North America,Average,1
+34,Male,False,True,1,-1,Single,0,None,3,Part-time,Beginner,14,Asia,Average,0
+21,Female,False,True,2,-1,Widowed,2,Dial-Up,0,Flexible,Beginner,22,Europe,Good,1
+24,Male,True,False,2,4,Widowed,6,None,0,Full-time,Advanced,7,Australia,Poor,1
+23,Female,False,True,2,-1,Widowed,1,None,2,Full-time,Advanced,18,North America,Excellent,1
+43,Non-Binary,False,True,2,-1,Divorced,3,Dial-Up,4,Part-time,Native,39,Asia,Average,1
+23,Female,True,False,5,3,Married,2,None,2,Flexible,Intermediate,32,South America,Average,0
+38,Male,False,True,2,-1,Divorced,2,None,3,Full-time,Native,36,Antarctica,Excellent,0
+29,Male,False,True,2,-1,Widowed,1,Dial-Up,4,Part-time,Native,20,Africa,Poor,1
+39,Female,False,True,3,-1,Married,3,None,0,Flexible,Intermediate,26,Australia,Average,0
+37,Female,False,True,1,-1,Single,6,High-Speed,1,Part-time,Advanced,39,Africa,Good,1
+42,Female,True,False,2,2,Married,0,High-Speed,2,Part-time,Intermediate,8,Asia,Good,1
+22,Male,True,False,1,4,Married,4,High-Speed,2,Flexible,Beginner,14,Europe,Poor,0
+47,Female,False,True,0,-1,Single,7,None,2,Part-time,Intermediate,38,Asia,Excellent,1
+32,Non-Binary,False,True,1,-1,Widowed,4,None,2,Full-time,Intermediate,34,North America,Poor,0
+47,Non-Binary,True,False,5,2,Married,5,High-Speed,4,Flexible,Beginner,20,South America,Excellent,1
+42,Non-Binary,False,True,3,-1,Divorced,1,High-Speed,1,Full-time,Intermediate,35,Asia,Good,0
+42,Non-Binary,False,True,1,-1,Widowed,1,High-Speed,3,Flexible,Native,15,Africa,Average,1
+25,Female,False,True,3,-1,Married,7,Dial-Up,4,Flexible,Native,20,Africa,Good,1
+45,Female,True,False,0,4,Married,0,High-Speed,2,Flexible,Intermediate,30,Africa,Average,1
+49,Female,False,True,0,-1,Single,8,Dial-Up,0,Full-time,Native,15,North America,Poor,1
+29,Non-Binary,True,False,4,1,Single,5,Dial-Up,3,Part-time,Intermediate,31,Antarctica,Average,0
+46,Male,False,True,5,-1,Single,9,Dial-Up,2,Full-time,Advanced,33,Africa,Poor,1
+40,Non-Binary,False,True,2,-1,Divorced,9,None,2,Full-time,Beginner,14,South America,Excellent,1
+45,Non-Binary,False,True,5,-1,Married,4,None,0,Full-time,Beginner,9,Asia,Excellent,1
+33,Non-Binary,True,False,3,3,Widowed,0,Dial-Up,2,Flexible,Advanced,15,Africa,Good,0
+20,Male,True,False,0,4,Divorced,8,High-Speed,4,Flexible,Native,31,Asia,Excellent,0
+47,Female,True,False,3,2,Widowed,7,None,0,Full-time,Native,15,Asia,Poor,1
+49,Male,False,True,3,-1,Divorced,8,None,0,Part-time,Native,28,Europe,Poor,1
+32,Male,True,False,4,1,Divorced,1,Dial-Up,0,Full-time,Beginner,15,Africa,Good,1
+42,Female,False,True,2,-1,Widowed,5,Dial-Up,1,Part-time,Native,16,Asia,Average,1
+20,Non-Binary,False,True,2,-1,Widowed,9,None,3,Flexible,Advanced,14,South America,Excellent,1
+46,Female,False,True,3,-1,Single,2,Dial-Up,0,Flexible,Advanced,10,South America,Good,1
+38,Non-Binary,False,True,3,-1,Divorced,8,Dial-Up,1,Full-time,Intermediate,31,Africa,Average,0
+28,Male,True,False,5,1,Single,0,High-Speed,1,Full-time,Advanced,23,Antarctica,Excellent,0
+42,Non-Binary,False,True,0,-1,Divorced,6,High-Speed,4,Full-time,Beginner,16,South America,Average,1
+48,Female,True,False,5,3,Single,2,High-Speed,1,Full-time,Advanced,14,Asia,Good,1
+26,Female,True,False,2,3,Divorced,3,High-Speed,2,Flexible,Beginner,25,South America,Average,1
+25,Non-Binary,False,True,2,-1,Divorced,7,High-Speed,0,Flexible,Advanced,29,Antarctica,Excellent,1
+25,Non-Binary,False,True,0,-1,Single,3,Dial-Up,1,Flexible,Beginner,19,Europe,Poor,0
+39,Male,True,False,4,2,Single,4,Dial-Up,0,Flexible,Advanced,12,Europe,Good,0
+47,Male,False,True,0,-1,Divorced,3,Dial-Up,3,Flexible,Beginner,34,North America,Excellent,1
+37,Male,False,True,0,-1,Married,5,High-Speed,4,Full-time,Intermediate,34,Australia,Poor,1
+37,Non-Binary,True,False,2,2,Widowed,0,High-Speed,1,Full-time,Intermediate,15,Antarctica,Good,0
+46,Non-Binary,True,False,0,4,Married,9,Dial-Up,3,Full-time,Native,33,North America,Excellent,1
+35,Female,True,False,0,2,Single,0,Dial-Up,1,Part-time,Intermediate,33,Asia,Excellent,1
+35,Female,False,True,3,-1,Married,1,High-Speed,1,Part-time,Native,31,Asia,Average,1
+40,Male,True,False,2,4,Married,8,Dial-Up,1,Full-time,Advanced,30,Africa,Excellent,1
+46,Male,True,False,0,4,Single,0,High-Speed,3,Part-time,Beginner,31,Europe,Average,1
+27,Female,False,True,1,-1,Divorced,5,High-Speed,3,Full-time,Beginner,23,Asia,Excellent,1
+45,Female,False,True,0,-1,Widowed,9,None,4,Flexible,Native,5,Asia,Average,1
+31,Male,True,False,4,4,Widowed,5,High-Speed,0,Full-time,Advanced,13,North America,Good,1
+42,Female,False,True,0,-1,Married,0,High-Speed,4,Flexible,Advanced,30,North America,Excellent,1
+23,Female,True,False,1,4,Single,8,None,3,Part-time,Advanced,11,North America,Average,1
+28,Female,False,True,2,-1,Single,6,High-Speed,2,Part-time,Advanced,20,North America,Average,1
+19,Male,False,True,5,-1,Divorced,9,None,2,Part-time,Native,22,Europe,Poor,1
+49,Male,False,True,1,-1,Single,3,None,0,Part-time,Intermediate,25,Europe,Average,0
+27,Female,False,True,1,-1,Widowed,3,None,2,Flexible,Beginner,8,Africa,Good,1
+45,Male,True,False,2,3,Divorced,7,None,0,Part-time,Advanced,14,Antarctica,Good,1
+46,Female,False,True,5,-1,Single,4,High-Speed,2,Full-time,Beginner,14,Australia,Good,1
+35,Female,False,True,5,-1,Single,9,Dial-Up,3,Flexible,Intermediate,26,Antarctica,Good,1
+46,Male,False,True,0,-1,Married,6,High-Speed,3,Part-time,Beginner,7,Asia,Good,1
+42,Non-Binary,False,True,0,-1,Widowed,3,High-Speed,4,Part-time,Native,17,Europe,Good,1
+38,Male,False,True,5,-1,Widowed,1,None,0,Flexible,Native,29,Africa,Excellent,1
+36,Male,True,False,4,2,Widowed,5,None,4,Full-time,Intermediate,33,Australia,Good,1
+20,Male,True,False,1,2,Widowed,7,None,3,Part-time,Intermediate,26,Antarctica,Excellent,0
+25,Male,True,False,1,2,Married,0,None,4,Flexible,Native,33,Asia,Poor,1
+40,Female,False,True,5,-1,Married,2,High-Speed,0,Full-time,Intermediate,37,Africa,Average,1
+40,Female,True,False,5,3,Married,0,High-Speed,3,Full-time,Beginner,26,Australia,Excellent,1
+21,Non-Binary,False,True,5,-1,Married,3,None,2,Full-time,Native,31,Asia,Average,1
+46,Non-Binary,False,True,4,-1,Married,6,Dial-Up,4,Full-time,Advanced,21,Europe,Good,1
+36,Male,False,True,1,-1,Widowed,0,None,1,Flexible,Native,33,Europe,Average,1
+40,Female,False,True,4,-1,Widowed,2,None,4,Full-time,Beginner,38,North America,Poor,0
+40,Male,False,True,4,-1,Married,1,High-Speed,4,Full-time,Beginner,5,Africa,Average,0
+48,Male,True,False,1,4,Single,9,None,0,Full-time,Advanced,26,Europe,Excellent,1
+44,Female,True,False,3,2,Widowed,7,Dial-Up,1,Full-time,Native,13,Asia,Poor,1
+22,Non-Binary,False,True,1,-1,Married,2,Dial-Up,3,Flexible,Beginner,30,Asia,Poor,1
+33,Male,False,True,0,-1,Widowed,5,None,2,Full-time,Beginner,37,Antarctica,Average,0
+23,Male,False,True,5,-1,Married,5,None,1,Flexible,Beginner,15,Antarctica,Good,1
+19,Male,False,True,5,-1,Married,6,Dial-Up,0,Full-time,Beginner,20,Europe,Good,0
+47,Male,True,False,2,4,Widowed,1,High-Speed,1,Part-time,Advanced,29,South America,Excellent,1
+35,Male,True,False,4,2,Single,3,High-Speed,3,Flexible,Beginner,33,Australia,Excellent,1
+41,Female,True,False,3,4,Widowed,8,Dial-Up,1,Part-time,Advanced,13,Asia,Average,1
+31,Non-Binary,False,True,4,-1,Widowed,1,None,2,Full-time,Native,12,North America,Excellent,0
+48,Female,False,True,1,-1,Single,9,Dial-Up,1,Flexible,Native,20,Europe,Excellent,1
+25,Female,True,False,1,1,Divorced,2,None,4,Flexible,Native,10,Africa,Poor,1
+34,Male,True,False,0,3,Divorced,5,Dial-Up,1,Flexible,Beginner,32,Europe,Excellent,1
+26,Female,False,True,3,-1,Widowed,5,None,3,Part-time,Intermediate,19,South America,Average,1
+49,Male,True,False,2,1,Married,4,High-Speed,3,Part-time,Intermediate,24,Asia,Excellent,1
+49,Female,True,False,0,3,Single,1,Dial-Up,0,Full-time,Intermediate,27,North America,Average,0
+33,Male,True,False,4,4,Divorced,2,None,3,Full-time,Native,12,Antarctica,Poor,1
+28,Non-Binary,True,False,4,3,Married,1,High-Speed,3,Part-time,Beginner,34,Antarctica,Average,1
+40,Non-Binary,True,False,1,3,Widowed,9,None,4,Flexible,Native,24,Australia,Good,1
+44,Female,True,False,3,3,Widowed,7,None,2,Part-time,Beginner,10,Australia,Excellent,1
+39,Female,True,False,4,3,Divorced,4,High-Speed,1,Full-time,Native,30,South America,Poor,1
+28,Male,False,True,4,-1,Divorced,7,None,4,Part-time,Advanced,30,Australia,Excellent,1
+25,Non-Binary,True,False,4,2,Divorced,9,None,1,Part-time,Native,29,Australia,Poor,0
+44,Female,False,True,0,-1,Widowed,8,None,1,Flexible,Native,19,Australia,Good,1
+44,Female,False,True,1,-1,Widowed,0,None,4,Flexible,Native,11,Australia,Good,1
+26,Non-Binary,False,True,4,-1,Single,4,Dial-Up,1,Part-time,Intermediate,39,Asia,Good,1
+46,Male,False,True,1,-1,Married,9,None,3,Part-time,Intermediate,32,Asia,Excellent,1
+26,Male,False,True,1,-1,Single,9,Dial-Up,2,Flexible,Native,6,Africa,Good,1
+33,Male,False,True,0,-1,Single,8,Dial-Up,1,Flexible,Intermediate,10,South America,Excellent,0
+20,Female,True,False,4,3,Widowed,6,High-Speed,1,Full-time,Intermediate,29,Australia,Excellent,0
+30,Non-Binary,True,False,4,3,Divorced,7,Dial-Up,4,Full-time,Beginner,19,Africa,Good,0
+31,Male,True,False,3,1,Married,6,High-Speed,1,Part-time,Beginner,20,Africa,Good,1
+33,Female,True,False,5,3,Widowed,4,None,4,Full-time,Advanced,23,North America,Good,1
+40,Male,True,False,0,3,Married,5,None,0,Flexible,Intermediate,29,Asia,Poor,0
+45,Non-Binary,False,True,3,-1,Divorced,3,High-Speed,0,Full-time,Beginner,6,Europe,Excellent,1
+46,Non-Binary,True,False,1,2,Widowed,5,Dial-Up,4,Part-time,Native,26,Asia,Average,0
+34,Non-Binary,True,False,4,3,Married,6,None,3,Part-time,Beginner,18,Antarctica,Poor,1
+24,Female,False,True,1,-1,Widowed,4,Dial-Up,4,Part-time,Native,8,Africa,Excellent,1
+23,Male,False,True,3,-1,Divorced,4,High-Speed,4,Flexible,Beginner,24,Asia,Good,1
+22,Female,False,True,5,-1,Widowed,3,Dial-Up,0,Part-time,Intermediate,20,North America,Poor,1
+18,Male,True,False,0,3,Divorced,5,High-Speed,1,Flexible,Beginner,39,Europe,Poor,0
+34,Male,True,False,3,4,Single,7,High-Speed,2,Flexible,Intermediate,31,Antarctica,Poor,1
+33,Female,False,True,5,-1,Single,1,Dial-Up,1,Full-time,Beginner,28,Australia,Poor,0
+27,Non-Binary,True,False,1,2,Divorced,5,Dial-Up,0,Part-time,Intermediate,35,South America,Average,0
+21,Male,True,False,0,4,Married,4,High-Speed,1,Part-time,Native,38,South America,Poor,0
+38,Male,False,True,3,-1,Married,0,None,3,Part-time,Intermediate,34,North America,Excellent,1
+47,Female,False,True,0,-1,Divorced,3,Dial-Up,2,Part-time,Native,24,Asia,Good,1
+24,Non-Binary,False,True,4,-1,Divorced,2,Dial-Up,4,Flexible,Advanced,23,Antarctica,Poor,1
+21,Non-Binary,True,False,2,2,Single,7,Dial-Up,2,Flexible,Beginner,33,Antarctica,Poor,0
+36,Non-Binary,False,True,5,-1,Married,4,High-Speed,4,Flexible,Native,25,Africa,Good,1
+24,Male,True,False,2,3,Divorced,2,High-Speed,0,Part-time,Native,35,Australia,Good,1
+29,Non-Binary,False,True,4,-1,Single,8,Dial-Up,3,Full-time,Intermediate,25,North America,Poor,0
+25,Female,False,True,1,-1,Single,4,High-Speed,2,Flexible,Beginner,21,Europe,Good,1
+38,Male,True,False,4,2,Married,9,Dial-Up,2,Full-time,Beginner,24,South America,Excellent,1
+30,Female,False,True,2,-1,Married,9,High-Speed,1,Full-time,Native,22,North America,Good,1
+33,Non-Binary,False,True,1,-1,Married,9,High-Speed,1,Part-time,Advanced,35,Africa,Excellent,1
+41,Male,False,True,5,-1,Married,6,Dial-Up,3,Flexible,Advanced,20,North America,Average,1
+37,Female,False,True,4,-1,Married,9,None,0,Full-time,Advanced,28,Asia,Poor,0
+32,Male,True,False,3,4,Married,8,High-Speed,4,Part-time,Advanced,38,South America,Good,1
+26,Female,False,True,3,-1,Single,9,None,2,Part-time,Native,9,Africa,Good,1
+20,Female,True,False,2,2,Divorced,0,None,2,Flexible,Intermediate,13,North America,Average,1
+42,Female,True,False,5,3,Single,7,None,4,Flexible,Advanced,5,Asia,Average,0
+34,Female,False,True,2,-1,Married,3,Dial-Up,3,Part-time,Advanced,9,Australia,Good,1
+30,Male,False,True,2,-1,Married,1,High-Speed,0,Flexible,Beginner,10,Antarctica,Excellent,1
+39,Female,True,False,3,3,Widowed,5,None,4,Full-time,Native,38,Australia,Good,1
+28,Non-Binary,False,True,2,-1,Divorced,7,High-Speed,0,Full-time,Beginner,27,Africa,Poor,1
+23,Male,False,True,5,-1,Widowed,0,High-Speed,2,Full-time,Beginner,13,Australia,Excellent,0
+49,Female,True,False,2,4,Single,0,Dial-Up,4,Full-time,Native,7,Europe,Average,1
+20,Female,True,False,4,4,Divorced,3,High-Speed,3,Part-time,Native,20,Europe,Excellent,1
+19,Non-Binary,True,False,2,1,Widowed,8,Dial-Up,3,Full-time,Advanced,36,Asia,Good,1
+27,Female,False,True,4,-1,Widowed,1,High-Speed,1,Part-time,Native,36,North America,Average,1
+31,Female,True,False,3,2,Single,1,High-Speed,4,Flexible,Advanced,39,Europe,Poor,1
+23,Non-Binary,True,False,0,3,Single,9,None,0,Flexible,Beginner,8,Australia,Excellent,1
+38,Male,False,True,0,-1,Single,1,None,2,Part-time,Advanced,31,Africa,Average,0
+22,Male,False,True,4,-1,Widowed,7,Dial-Up,3,Flexible,Intermediate,21,Europe,Excellent,1
+27,Female,True,False,4,3,Single,9,High-Speed,3,Part-time,Advanced,18,Europe,Poor,0
+34,Female,False,True,1,-1,Married,7,High-Speed,1,Full-time,Advanced,14,North America,Excellent,1
+25,Female,True,False,0,1,Single,1,Dial-Up,0,Flexible,Advanced,28,Africa,Average,0
+45,Female,False,True,2,-1,Married,1,High-Speed,4,Flexible,Intermediate,19,Europe,Good,1
+18,Non-Binary,True,False,5,3,Divorced,6,Dial-Up,2,Part-time,Intermediate,37,Africa,Average,1
+46,Female,False,True,5,-1,Widowed,8,Dial-Up,4,Part-time,Beginner,10,North America,Excellent,1
+31,Non-Binary,True,False,4,1,Widowed,2,Dial-Up,3,Part-time,Intermediate,32,Australia,Average,0
+30,Non-Binary,False,True,4,-1,Married,7,None,3,Full-time,Advanced,14,Antarctica,Excellent,1
+24,Non-Binary,True,False,5,3,Married,0,None,4,Full-time,Intermediate,32,North America,Poor,0
+40,Male,False,True,0,-1,Single,3,Dial-Up,3,Flexible,Beginner,11,South America,Average,0
+44,Male,False,True,5,-1,Widowed,1,Dial-Up,4,Flexible,Native,27,South America,Good,1
+44,Non-Binary,False,True,4,-1,Married,6,None,3,Flexible,Beginner,19,North America,Average,0
+43,Male,False,True,0,-1,Married,7,None,1,Part-time,Advanced,27,Antarctica,Average,0
+46,Male,True,False,5,1,Widowed,8,None,2,Part-time,Native,15,South America,Average,1
+21,Male,False,True,1,-1,Single,2,High-Speed,4,Part-time,Beginner,15,North America,Average,1
+30,Female,False,True,2,-1,Single,4,None,3,Part-time,Beginner,25,Australia,Average,1
+29,Male,True,False,2,4,Single,0,High-Speed,1,Part-time,Native,35,Australia,Excellent,0
+20,Non-Binary,False,True,0,-1,Widowed,8,High-Speed,0,Full-time,Native,25,North America,Good,1
+19,Male,True,False,0,1,Married,5,High-Speed,3,Full-time,Advanced,7,Asia,Average,1
+21,Male,True,False,3,4,Divorced,0,Dial-Up,2,Flexible,Advanced,26,Australia,Average,0
+43,Female,False,True,1,-1,Divorced,6,None,3,Flexible,Intermediate,31,Africa,Poor,1
+18,Male,True,False,2,4,Married,0,High-Speed,0,Flexible,Beginner,22,Asia,Average,1
+45,Male,True,False,3,1,Widowed,3,None,2,Flexible,Intermediate,37,Europe,Excellent,1
+22,Male,True,False,3,2,Divorced,5,Dial-Up,4,Flexible,Intermediate,10,Africa,Good,1
+36,Male,False,True,3,-1,Single,5,High-Speed,0,Full-time,Advanced,12,Asia,Average,1
+49,Non-Binary,False,True,0,-1,Widowed,3,Dial-Up,3,Full-time,Advanced,5,Africa,Poor,0
+33,Female,True,False,0,2,Divorced,0,None,0,Part-time,Intermediate,17,Europe,Excellent,1
+22,Male,True,False,2,1,Single,4,None,2,Part-time,Advanced,35,North America,Average,0
+27,Non-Binary,False,True,1,-1,Divorced,0,None,3,Full-time,Intermediate,13,Africa,Poor,0
+44,Non-Binary,False,True,1,-1,Married,9,High-Speed,0,Full-time,Beginner,22,Antarctica,Average,1
+30,Non-Binary,True,False,1,2,Single,6,High-Speed,3,Flexible,Intermediate,20,Africa,Average,1
+25,Female,True,False,4,2,Married,2,Dial-Up,4,Flexible,Native,23,North America,Poor,1
+42,Female,True,False,5,4,Divorced,9,None,4,Part-time,Native,21,Africa,Good,0
+33,Female,True,False,4,1,Married,8,Dial-Up,3,Part-time,Advanced,26,Europe,Good,1
+24,Female,False,True,5,-1,Married,0,Dial-Up,2,Part-time,Intermediate,19,North America,Excellent,1
+46,Female,True,False,5,4,Divorced,4,Dial-Up,4,Part-time,Beginner,19,Australia,Poor,1
+43,Male,False,True,4,-1,Divorced,0,High-Speed,0,Full-time,Native,10,Africa,Poor,0
+39,Male,False,True,1,-1,Married,1,None,4,Flexible,Native,15,Europe,Excellent,0
+25,Male,True,False,4,3,Single,3,Dial-Up,4,Full-time,Native,35,North America,Good,1
+25,Non-Binary,False,True,3,-1,Married,7,High-Speed,1,Flexible,Native,15,South America,Poor,0
+31,Female,False,True,1,-1,Divorced,8,None,2,Part-time,Advanced,14,Australia,Good,1
+19,Non-Binary,False,True,5,-1,Single,4,Dial-Up,2,Full-time,Advanced,37,North America,Excellent,1
+35,Female,True,False,2,2,Married,4,High-Speed,1,Flexible,Intermediate,12,Africa,Average,1
+46,Male,True,False,5,3,Widowed,0,None,1,Part-time,Advanced,14,Antarctica,Excellent,1
+26,Male,False,True,5,-1,Divorced,8,None,3,Flexible,Beginner,25,South America,Poor,0
+29,Non-Binary,False,True,0,-1,Married,6,Dial-Up,1,Part-time,Native,17,South America,Average,1
+26,Female,False,True,1,-1,Married,6,High-Speed,1,Part-time,Intermediate,37,Asia,Excellent,1
+42,Female,False,True,0,-1,Widowed,9,None,0,Full-time,Native,34,South America,Good,1
+28,Male,False,True,1,-1,Married,7,Dial-Up,0,Full-time,Intermediate,34,South America,Good,0
+22,Male,True,False,1,3,Single,0,None,3,Part-time,Beginner,22,Antarctica,Excellent,1
+18,Female,False,True,2,-1,Single,3,Dial-Up,3,Full-time,Native,17,Australia,Poor,1
+47,Male,True,False,2,3,Widowed,9,High-Speed,2,Full-time,Intermediate,24,Australia,Good,0
+45,Male,False,True,1,-1,Divorced,8,Dial-Up,2,Part-time,Intermediate,8,South America,Poor,0
+31,Female,True,False,5,2,Widowed,5,High-Speed,3,Full-time,Advanced,29,South America,Excellent,0
+22,Female,False,True,0,-1,Widowed,3,High-Speed,0,Full-time,Intermediate,16,Europe,Good,0
+18,Male,False,True,4,-1,Widowed,8,None,0,Part-time,Intermediate,31,Antarctica,Excellent,1
+32,Female,False,True,4,-1,Married,4,High-Speed,4,Flexible,Advanced,29,North America,Excellent,0
+34,Non-Binary,True,False,1,1,Single,6,None,1,Flexible,Beginner,9,South America,Excellent,1
+36,Male,False,True,5,-1,Divorced,5,High-Speed,0,Part-time,Intermediate,37,North America,Excellent,1
+37,Female,True,False,4,4,Married,0,None,0,Full-time,Native,14,Antarctica,Good,1
+37,Female,True,False,3,1,Divorced,4,High-Speed,0,Full-time,Beginner,34,North America,Excellent,0
+39,Non-Binary,True,False,1,1,Widowed,6,High-Speed,1,Flexible,Advanced,5,Australia,Poor,1
+25,Non-Binary,True,False,3,3,Single,4,None,3,Part-time,Advanced,29,Africa,Good,0
+35,Male,False,True,4,-1,Married,1,Dial-Up,3,Full-time,Native,13,Africa,Good,1
+42,Female,True,False,0,4,Divorced,1,High-Speed,1,Flexible,Beginner,21,Europe,Good,1
+30,Female,False,True,4,-1,Married,5,Dial-Up,4,Full-time,Native,22,Antarctica,Average,1
+33,Female,False,True,4,-1,Married,4,Dial-Up,0,Flexible,Intermediate,35,North America,Poor,0
+37,Female,True,False,4,1,Divorced,9,None,3,Full-time,Intermediate,21,Australia,Average,0
+18,Non-Binary,True,False,4,3,Single,0,None,1,Full-time,Beginner,34,Australia,Excellent,0
+32,Non-Binary,False,True,0,-1,Single,6,None,0,Flexible,Native,8,North America,Excellent,1
+31,Male,False,True,1,-1,Single,2,None,4,Part-time,Advanced,33,Australia,Good,1
+39,Male,False,True,5,-1,Married,0,Dial-Up,1,Full-time,Intermediate,39,South America,Good,0
+41,Non-Binary,True,False,5,2,Widowed,1,Dial-Up,2,Part-time,Beginner,6,South America,Average,0
+32,Female,True,False,0,2,Divorced,6,High-Speed,3,Flexible,Native,36,South America,Excellent,1
+46,Male,True,False,4,3,Divorced,6,Dial-Up,2,Flexible,Advanced,31,North America,Poor,1
+42,Male,True,False,1,3,Divorced,3,High-Speed,1,Full-time,Beginner,18,North America,Excellent,0
+45,Non-Binary,False,True,1,-1,Married,0,None,0,Flexible,Beginner,5,Australia,Excellent,0
+18,Female,False,True,3,-1,Widowed,8,High-Speed,3,Full-time,Intermediate,14,Australia,Good,1
+41,Female,True,False,3,2,Widowed,2,High-Speed,1,Part-time,Advanced,33,North America,Good,0
+35,Non-Binary,True,False,3,1,Married,7,None,1,Flexible,Native,31,Africa,Excellent,0
+27,Female,True,False,2,3,Widowed,1,High-Speed,3,Part-time,Advanced,29,Australia,Good,0
+38,Male,True,False,4,2,Married,9,High-Speed,4,Full-time,Native,35,Asia,Poor,0
+36,Male,False,True,4,-1,Married,0,Dial-Up,0,Flexible,Advanced,19,Asia,Average,0
+47,Female,True,False,0,4,Married,7,High-Speed,0,Part-time,Beginner,5,Africa,Good,1
+19,Non-Binary,True,False,0,4,Married,1,High-Speed,0,Flexible,Beginner,26,Africa,Poor,1
+33,Female,True,False,1,2,Widowed,9,None,3,Full-time,Intermediate,7,Antarctica,Excellent,1
+28,Non-Binary,False,True,2,-1,Single,7,None,3,Part-time,Intermediate,23,North America,Good,1
+42,Non-Binary,False,True,2,-1,Widowed,7,High-Speed,0,Full-time,Native,28,Australia,Poor,1
+42,Non-Binary,True,False,4,1,Married,5,None,4,Full-time,Beginner,29,North America,Poor,0
+37,Male,False,True,5,-1,Single,1,None,3,Full-time,Advanced,5,Antarctica,Good,1
+24,Male,True,False,3,3,Single,4,Dial-Up,1,Flexible,Intermediate,17,Antarctica,Average,0
+48,Female,False,True,2,-1,Single,0,High-Speed,3,Flexible,Beginner,35,Africa,Good,1
+30,Female,False,True,2,-1,Widowed,0,Dial-Up,4,Part-time,Intermediate,19,Australia,Average,0
+26,Female,True,False,0,4,Married,8,None,1,Full-time,Beginner,33,Africa,Good,1
+43,Female,True,False,0,3,Widowed,9,High-Speed,2,Part-time,Beginner,16,North America,Excellent,1
+35,Female,True,False,0,1,Divorced,7,Dial-Up,0,Flexible,Intermediate,38,South America,Average,1
+49,Non-Binary,True,False,4,2,Single,0,Dial-Up,4,Part-time,Native,5,Africa,Excellent,1
+41,Female,False,True,0,-1,Married,6,High-Speed,4,Full-time,Beginner,24,Africa,Good,0
+19,Female,False,True,2,-1,Single,3,Dial-Up,3,Full-time,Intermediate,39,Europe,Average,0
+44,Male,True,False,1,2,Widowed,7,Dial-Up,0,Full-time,Intermediate,33,Europe,Excellent,0
+24,Female,False,True,5,-1,Married,8,Dial-Up,4,Flexible,Beginner,7,North America,Poor,0
+28,Male,True,False,0,3,Divorced,2,None,3,Flexible,Intermediate,28,Australia,Average,0
+25,Female,False,True,2,-1,Divorced,1,High-Speed,2,Flexible,Intermediate,28,Antarctica,Poor,1
+29,Non-Binary,True,False,2,2,Widowed,4,Dial-Up,1,Flexible,Advanced,17,Africa,Average,1
+20,Female,False,True,4,-1,Widowed,8,Dial-Up,1,Part-time,Beginner,27,Asia,Poor,0
+23,Non-Binary,True,False,2,2,Divorced,2,High-Speed,1,Flexible,Beginner,7,North America,Good,1
+41,Female,False,True,5,-1,Widowed,6,Dial-Up,0,Part-time,Beginner,25,Africa,Poor,0
+30,Female,False,True,5,-1,Married,0,None,3,Flexible,Native,10,North America,Poor,0
+21,Male,False,True,2,-1,Single,7,None,3,Flexible,Native,12,Antarctica,Poor,1
+45,Male,True,False,1,1,Widowed,3,High-Speed,2,Full-time,Advanced,39,Africa,Excellent,1
+34,Non-Binary,False,True,2,-1,Married,7,High-Speed,3,Part-time,Beginner,14,South America,Poor,1
+43,Female,False,True,0,-1,Single,3,None,3,Full-time,Intermediate,13,Antarctica,Average,0
+28,Non-Binary,False,True,1,-1,Divorced,2,Dial-Up,3,Flexible,Intermediate,33,North America,Average,0
+30,Male,True,False,1,4,Divorced,4,Dial-Up,4,Flexible,Beginner,10,Australia,Poor,0
+43,Non-Binary,False,True,3,-1,Married,0,High-Speed,2,Full-time,Beginner,34,Africa,Good,1
+28,Non-Binary,False,True,5,-1,Widowed,7,None,3,Full-time,Advanced,29,South America,Good,0
+26,Male,False,True,0,-1,Widowed,8,High-Speed,4,Flexible,Advanced,11,Europe,Good,1
+39,Female,False,True,2,-1,Married,1,High-Speed,0,Flexible,Native,9,South America,Average,0
+29,Non-Binary,False,True,4,-1,Divorced,6,None,4,Part-time,Beginner,34,South America,Excellent,1
+40,Non-Binary,False,True,4,-1,Married,5,None,0,Flexible,Advanced,28,North America,Good,1
+26,Non-Binary,False,True,5,-1,Single,3,Dial-Up,3,Flexible,Native,24,Antarctica,Poor,1
+42,Male,True,False,5,4,Married,8,Dial-Up,2,Part-time,Beginner,26,North America,Excellent,1
+26,Male,False,True,1,-1,Married,0,Dial-Up,0,Flexible,Advanced,33,Europe,Average,1
+39,Female,False,True,0,-1,Divorced,6,None,4,Part-time,Native,17,North America,Excellent,1
+39,Female,True,False,5,4,Widowed,9,Dial-Up,3,Flexible,Intermediate,24,Antarctica,Excellent,1
+28,Non-Binary,False,True,4,-1,Married,6,High-Speed,4,Full-time,Intermediate,12,Europe,Poor,1
+19,Male,False,True,1,-1,Widowed,9,None,3,Full-time,Intermediate,29,Australia,Good,0
+24,Male,True,False,5,1,Single,1,Dial-Up,0,Flexible,Beginner,8,Asia,Excellent,0
+28,Non-Binary,False,True,0,-1,Widowed,3,High-Speed,2,Flexible,Advanced,22,South America,Excellent,1
+21,Non-Binary,True,False,4,2,Divorced,8,High-Speed,0,Flexible,Advanced,25,North America,Good,1
+33,Female,False,True,3,-1,Widowed,1,None,1,Flexible,Beginner,32,Asia,Average,0
+25,Male,True,False,0,1,Divorced,6,None,4,Part-time,Intermediate,18,Africa,Poor,1
+45,Female,False,True,0,-1,Single,9,Dial-Up,4,Part-time,Native,28,South America,Poor,1
+37,Male,True,False,3,1,Married,9,High-Speed,0,Flexible,Advanced,24,South America,Average,0
+24,Female,True,False,1,2,Widowed,1,Dial-Up,2,Flexible,Beginner,16,South America,Excellent,1
+34,Male,False,True,5,-1,Married,0,None,4,Full-time,Native,10,Antarctica,Poor,0
+43,Female,False,True,1,-1,Divorced,6,High-Speed,2,Full-time,Beginner,22,Asia,Poor,1
+36,Male,True,False,0,1,Divorced,1,None,2,Part-time,Advanced,17,Antarctica,Excellent,1
+37,Male,True,False,2,4,Divorced,2,Dial-Up,1,Flexible,Native,12,North America,Good,1
+22,Male,True,False,4,4,Married,4,High-Speed,1,Full-time,Native,35,Europe,Excellent,1
+37,Male,False,True,3,-1,Married,5,Dial-Up,1,Flexible,Advanced,19,Antarctica,Good,0
+28,Non-Binary,False,True,3,-1,Divorced,1,High-Speed,1,Part-time,Advanced,12,Asia,Average,1
+25,Non-Binary,False,True,2,-1,Divorced,0,None,3,Part-time,Intermediate,10,South America,Poor,0
+44,Male,False,True,1,-1,Married,3,High-Speed,1,Part-time,Native,5,Asia,Excellent,0
+33,Female,False,True,4,-1,Single,7,None,2,Full-time,Native,30,Australia,Poor,1
+47,Female,False,True,0,-1,Married,4,Dial-Up,0,Flexible,Beginner,29,Australia,Poor,0
+38,Female,False,True,0,-1,Divorced,6,None,0,Full-time,Intermediate,33,Australia,Poor,1
+19,Male,False,True,0,-1,Single,3,None,0,Part-time,Native,27,Europe,Average,1
+34,Female,False,True,5,-1,Married,1,High-Speed,0,Full-time,Advanced,21,Asia,Average,0
+43,Male,True,False,5,1,Single,3,High-Speed,0,Full-time,Beginner,28,Australia,Average,1
+41,Female,True,False,3,3,Widowed,6,None,1,Part-time,Advanced,18,Asia,Poor,1
+24,Non-Binary,False,True,4,-1,Divorced,8,None,3,Full-time,Advanced,8,Asia,Average,1
+25,Female,False,True,0,-1,Married,5,High-Speed,0,Flexible,Native,5,Africa,Poor,1
+47,Female,False,True,4,-1,Married,2,None,4,Flexible,Beginner,25,Australia,Average,1
+49,Non-Binary,False,True,4,-1,Widowed,1,High-Speed,1,Full-time,Native,8,North America,Excellent,1
+34,Non-Binary,False,True,4,-1,Divorced,4,None,0,Flexible,Intermediate,28,Antarctica,Good,1
+20,Male,True,False,4,1,Single,6,None,1,Full-time,Advanced,21,Antarctica,Good,0
+19,Female,False,True,1,-1,Married,0,High-Speed,3,Full-time,Native,5,North America,Excellent,1
+47,Male,True,False,4,1,Widowed,7,High-Speed,3,Part-time,Intermediate,12,Antarctica,Good,0
+32,Female,False,True,3,-1,Widowed,2,High-Speed,0,Full-time,Advanced,28,Antarctica,Good,0
+18,Non-Binary,False,True,3,-1,Divorced,6,Dial-Up,4,Part-time,Intermediate,28,Antarctica,Poor,0
+24,Female,True,False,1,4,Single,3,Dial-Up,3,Full-time,Native,22,South America,Excellent,1
+30,Non-Binary,True,False,1,3,Widowed,7,None,0,Full-time,Intermediate,30,Australia,Poor,0
+27,Male,False,True,3,-1,Married,6,Dial-Up,2,Flexible,Native,11,Asia,Poor,1
+18,Non-Binary,True,False,2,4,Widowed,9,High-Speed,0,Part-time,Native,19,Africa,Good,1
+36,Female,True,False,1,3,Widowed,6,Dial-Up,4,Part-time,Beginner,7,Antarctica,Poor,0
+48,Male,True,False,2,4,Married,1,None,4,Flexible,Native,36,Asia,Excellent,1
+26,Female,True,False,5,4,Married,3,None,4,Full-time,Intermediate,21,North America,Average,0
+39,Male,False,True,0,-1,Married,2,High-Speed,0,Flexible,Beginner,9,Australia,Good,0
+49,Non-Binary,False,True,0,-1,Widowed,2,High-Speed,0,Part-time,Beginner,39,Australia,Good,1
+44,Male,True,False,0,3,Widowed,3,Dial-Up,3,Part-time,Native,10,North America,Average,1
+19,Non-Binary,False,True,1,-1,Divorced,5,None,2,Part-time,Native,18,South America,Average,0
+26,Non-Binary,False,True,2,-1,Single,3,None,0,Flexible,Intermediate,21,Asia,Excellent,1
+30,Female,True,False,4,1,Widowed,6,High-Speed,4,Part-time,Native,11,Asia,Good,0
+35,Female,False,True,0,-1,Divorced,2,Dial-Up,0,Flexible,Intermediate,11,Australia,Good,1
+24,Non-Binary,False,True,4,-1,Widowed,3,Dial-Up,1,Full-time,Advanced,26,Africa,Average,1
+22,Female,True,False,0,3,Married,5,High-Speed,4,Flexible,Native,25,Antarctica,Average,1
+24,Non-Binary,True,False,1,4,Married,1,None,0,Part-time,Intermediate,27,Australia,Good,0
+38,Male,True,False,1,4,Single,1,Dial-Up,0,Part-time,Intermediate,36,Europe,Average,0
+48,Non-Binary,True,False,2,1,Married,7,High-Speed,1,Full-time,Beginner,32,South America,Average,1
+32,Male,False,True,1,-1,Divorced,3,None,0,Flexible,Intermediate,8,Africa,Good,0
+49,Non-Binary,True,False,0,4,Divorced,1,Dial-Up,2,Full-time,Advanced,14,Europe,Poor,1
+30,Female,False,True,0,-1,Single,3,Dial-Up,3,Part-time,Advanced,18,Africa,Average,1
+35,Non-Binary,False,True,3,-1,Married,9,Dial-Up,4,Flexible,Intermediate,23,South America,Poor,1
+48,Male,True,False,3,2,Single,9,Dial-Up,2,Flexible,Native,35,South America,Poor,1
+21,Male,True,False,3,2,Divorced,9,None,4,Part-time,Native,26,Australia,Average,1
+37,Male,True,False,2,2,Married,1,Dial-Up,4,Part-time,Beginner,28,Europe,Excellent,0
+22,Male,False,True,4,-1,Widowed,7,None,2,Flexible,Advanced,21,North America,Excellent,1
+45,Male,False,True,3,-1,Divorced,0,Dial-Up,1,Flexible,Advanced,38,Asia,Average,1
+32,Female,False,True,1,-1,Single,3,Dial-Up,2,Part-time,Advanced,24,Antarctica,Poor,0
+40,Female,False,True,0,-1,Widowed,0,High-Speed,2,Full-time,Native,11,South America,Poor,1
+46,Male,False,True,2,-1,Divorced,8,None,3,Part-time,Advanced,23,Asia,Poor,0
+29,Female,False,True,3,-1,Single,5,Dial-Up,2,Flexible,Native,20,North America,Good,1
+30,Non-Binary,False,True,2,-1,Divorced,5,None,0,Part-time,Native,27,Australia,Excellent,1
+35,Non-Binary,True,False,5,4,Single,0,None,2,Full-time,Intermediate,24,Asia,Excellent,1
+23,Female,True,False,4,2,Widowed,7,High-Speed,2,Flexible,Advanced,37,Asia,Poor,1
+33,Male,True,False,0,2,Widowed,4,Dial-Up,4,Part-time,Beginner,31,Asia,Good,1
+19,Male,True,False,4,1,Single,6,Dial-Up,0,Flexible,Intermediate,18,North America,Good,1
+28,Female,True,False,1,2,Married,4,Dial-Up,0,Flexible,Beginner,18,Australia,Good,0
+35,Male,True,False,2,3,Married,3,High-Speed,1,Flexible,Native,8,Europe,Excellent,1
+33,Non-Binary,False,True,4,-1,Widowed,6,None,0,Full-time,Beginner,13,Europe,Good,1
+33,Female,True,False,5,3,Divorced,5,Dial-Up,1,Full-time,Beginner,6,Asia,Excellent,1
+30,Female,False,True,5,-1,Widowed,7,High-Speed,2,Flexible,Native,37,North America,Average,1
+28,Female,True,False,4,1,Widowed,1,Dial-Up,0,Full-time,Native,17,South America,Excellent,1
+40,Non-Binary,True,False,1,3,Married,2,High-Speed,1,Part-time,Native,26,Asia,Good,1
+44,Female,True,False,5,2,Divorced,7,Dial-Up,4,Flexible,Intermediate,5,Antarctica,Good,1
+24,Male,True,False,0,3,Divorced,5,High-Speed,1,Full-time,Intermediate,15,South America,Excellent,1
+49,Non-Binary,True,False,5,2,Divorced,9,Dial-Up,3,Part-time,Native,34,South America,Excellent,1
+37,Female,False,True,0,-1,Divorced,7,High-Speed,1,Full-time,Intermediate,17,Europe,Poor,1
+22,Male,True,False,0,1,Widowed,1,None,2,Full-time,Intermediate,33,Africa,Average,0
+31,Female,False,True,5,-1,Widowed,8,Dial-Up,4,Part-time,Beginner,35,Antarctica,Good,1
+26,Male,False,True,3,-1,Divorced,2,Dial-Up,1,Part-time,Beginner,28,Antarctica,Good,1
+40,Non-Binary,True,False,3,2,Divorced,2,High-Speed,3,Part-time,Advanced,27,South America,Excellent,1
+42,Non-Binary,False,True,2,-1,Single,0,None,4,Part-time,Beginner,21,South America,Average,1
+29,Male,True,False,1,4,Married,7,None,3,Full-time,Native,7,Africa,Average,0
+21,Female,True,False,2,3,Divorced,8,None,1,Flexible,Advanced,8,Antarctica,Average,0
+18,Female,True,False,0,4,Married,3,Dial-Up,2,Full-time,Advanced,33,Australia,Average,1
+36,Female,False,True,3,-1,Married,1,None,0,Part-time,Advanced,26,Australia,Poor,1
+23,Female,True,False,2,1,Divorced,4,High-Speed,2,Flexible,Beginner,27,North America,Good,1
+48,Male,True,False,0,2,Divorced,8,High-Speed,2,Flexible,Intermediate,11,North America,Average,1
+41,Female,True,False,3,2,Widowed,6,None,1,Flexible,Beginner,20,Europe,Good,0
+30,Male,True,False,0,3,Widowed,4,High-Speed,2,Part-time,Beginner,31,Europe,Poor,1
+36,Non-Binary,True,False,4,2,Divorced,7,Dial-Up,0,Flexible,Beginner,23,South America,Excellent,0
+36,Female,True,False,3,4,Married,5,None,1,Part-time,Advanced,32,South America,Poor,1
+49,Non-Binary,False,True,3,-1,Married,0,None,4,Full-time,Native,14,Antarctica,Average,0
+24,Male,True,False,1,2,Divorced,4,High-Speed,0,Full-time,Advanced,14,Africa,Average,1
+32,Male,True,False,1,4,Divorced,9,High-Speed,1,Part-time,Advanced,17,North America,Good,1
+30,Male,False,True,2,-1,Single,5,Dial-Up,1,Part-time,Advanced,24,Africa,Average,1
+26,Non-Binary,True,False,0,2,Married,9,Dial-Up,1,Flexible,Native,26,Antarctica,Good,1
+21,Non-Binary,True,False,3,1,Married,1,Dial-Up,2,Flexible,Advanced,27,South America,Good,1
+25,Male,False,True,4,-1,Divorced,2,None,3,Full-time,Beginner,36,Australia,Excellent,0
+35,Male,False,True,0,-1,Single,9,Dial-Up,4,Flexible,Beginner,37,North America,Excellent,0
+33,Non-Binary,True,False,1,3,Widowed,8,None,3,Full-time,Intermediate,15,Europe,Average,1
+20,Male,False,True,1,-1,Divorced,5,None,3,Flexible,Beginner,16,Africa,Excellent,1
+28,Non-Binary,True,False,4,2,Married,5,Dial-Up,3,Flexible,Advanced,20,Antarctica,Good,1
+30,Non-Binary,True,False,3,2,Divorced,2,Dial-Up,1,Part-time,Advanced,39,South America,Average,1
+28,Female,False,True,1,-1,Single,3,None,1,Flexible,Native,14,Asia,Good,1
+23,Male,False,True,1,-1,Married,9,High-Speed,2,Full-time,Native,33,South America,Excellent,1
+20,Female,False,True,1,-1,Married,5,High-Speed,1,Full-time,Native,6,North America,Good,0
+48,Male,False,True,4,-1,Widowed,9,High-Speed,3,Flexible,Beginner,30,Europe,Average,1
+21,Non-Binary,True,False,5,3,Single,5,None,1,Part-time,Advanced,8,Australia,Average,1
+49,Female,False,True,0,-1,Widowed,6,Dial-Up,3,Full-time,Native,8,South America,Excellent,1
+46,Female,False,True,0,-1,Widowed,9,None,3,Full-time,Intermediate,13,Asia,Excellent,1
+30,Male,False,True,3,-1,Married,2,High-Speed,2,Flexible,Intermediate,33,North America,Good,0
+18,Non-Binary,True,False,3,4,Single,9,None,2,Part-time,Intermediate,5,South America,Good,1
+44,Non-Binary,True,False,5,1,Divorced,4,High-Speed,0,Full-time,Advanced,23,South America,Good,1
+31,Male,False,True,3,-1,Single,1,Dial-Up,1,Flexible,Intermediate,27,Europe,Excellent,0
+36,Female,True,False,2,1,Married,5,None,0,Full-time,Beginner,29,Africa,Good,1
+37,Female,True,False,3,1,Divorced,5,None,0,Part-time,Beginner,14,North America,Poor,0
+37,Female,False,True,3,-1,Married,8,None,0,Full-time,Advanced,15,Antarctica,Good,1
+42,Female,True,False,4,3,Married,4,Dial-Up,3,Full-time,Native,34,Africa,Good,1
+32,Male,True,False,2,4,Single,8,High-Speed,2,Flexible,Beginner,13,Asia,Poor,1
+34,Non-Binary,False,True,0,-1,Married,7,None,0,Flexible,Native,31,Asia,Poor,1
+45,Non-Binary,True,False,3,2,Divorced,4,High-Speed,3,Part-time,Native,19,South America,Good,1
+24,Non-Binary,True,False,5,1,Divorced,0,None,4,Part-time,Advanced,25,Australia,Average,1
+34,Non-Binary,True,False,0,3,Widowed,0,High-Speed,4,Part-time,Intermediate,5,Australia,Excellent,1
+22,Male,True,False,3,1,Married,1,High-Speed,4,Flexible,Native,28,Antarctica,Average,0
+48,Non-Binary,True,False,4,3,Divorced,9,High-Speed,3,Flexible,Native,21,Asia,Excellent,1
+35,Female,True,False,3,4,Single,1,None,4,Part-time,Native,35,Australia,Excellent,1
+36,Non-Binary,True,False,2,4,Divorced,2,High-Speed,3,Flexible,Intermediate,27,Europe,Good,1
+47,Male,True,False,4,4,Single,3,None,4,Flexible,Intermediate,29,Asia,Poor,0
+32,Female,False,True,3,-1,Widowed,6,Dial-Up,3,Full-time,Native,31,Europe,Excellent,1
+48,Female,False,True,5,-1,Single,2,Dial-Up,1,Full-time,Native,29,Europe,Average,0
+20,Male,False,True,1,-1,Widowed,2,Dial-Up,1,Part-time,Advanced,35,South America,Poor,0
+18,Male,True,False,4,1,Widowed,1,None,2,Full-time,Intermediate,17,South America,Poor,1
+42,Female,True,False,4,1,Widowed,3,High-Speed,1,Flexible,Native,28,Africa,Good,1
+23,Female,True,False,4,3,Married,5,High-Speed,3,Part-time,Advanced,7,South America,Poor,0
+44,Male,False,True,2,-1,Widowed,1,High-Speed,0,Flexible,Beginner,27,Asia,Good,1
+23,Non-Binary,True,False,3,4,Single,9,High-Speed,1,Flexible,Native,7,Antarctica,Average,0
+44,Non-Binary,False,True,4,-1,Married,8,High-Speed,2,Flexible,Native,21,Asia,Good,1
+21,Female,False,True,3,-1,Single,6,Dial-Up,1,Part-time,Intermediate,18,Antarctica,Good,1
+30,Male,False,True,4,-1,Divorced,7,Dial-Up,2,Full-time,Beginner,10,Antarctica,Poor,1
+38,Non-Binary,False,True,2,-1,Widowed,9,None,4,Part-time,Intermediate,31,North America,Good,1
+19,Non-Binary,True,False,3,4,Single,5,None,2,Flexible,Intermediate,27,North America,Poor,1
+45,Female,True,False,0,2,Divorced,2,None,4,Part-time,Intermediate,37,Antarctica,Average,0
+29,Female,False,True,0,-1,Single,3,High-Speed,4,Flexible,Advanced,24,Europe,Poor,1
+30,Female,True,False,1,3,Single,8,Dial-Up,1,Flexible,Beginner,26,North America,Poor,0
+19,Male,False,True,5,-1,Single,5,Dial-Up,4,Full-time,Native,21,Antarctica,Good,1
+31,Male,True,False,5,2,Widowed,3,Dial-Up,0,Flexible,Native,14,Europe,Average,1
+45,Female,True,False,2,4,Divorced,3,Dial-Up,4,Full-time,Native,12,Australia,Average,1
+23,Non-Binary,False,True,2,-1,Single,4,High-Speed,3,Flexible,Intermediate,21,Australia,Average,1
+30,Female,True,False,4,2,Divorced,0,None,4,Part-time,Native,39,North America,Average,1
+49,Female,False,True,5,-1,Married,5,None,0,Part-time,Beginner,11,Africa,Average,0
+33,Female,False,True,3,-1,Divorced,2,Dial-Up,1,Part-time,Advanced,5,North America,Poor,0
+34,Male,True,False,0,1,Married,5,High-Speed,3,Part-time,Beginner,27,Europe,Average,1
+18,Non-Binary,True,False,1,1,Divorced,5,Dial-Up,4,Part-time,Beginner,12,North America,Average,0
+19,Male,False,True,1,-1,Widowed,5,Dial-Up,4,Part-time,Native,18,Europe,Average,0
+27,Non-Binary,False,True,2,-1,Divorced,9,None,0,Full-time,Intermediate,23,Antarctica,Poor,0
+28,Male,False,True,4,-1,Widowed,5,Dial-Up,4,Part-time,Beginner,17,Asia,Excellent,1
+30,Female,True,False,4,2,Single,9,Dial-Up,3,Full-time,Native,31,Asia,Good,1
+43,Non-Binary,True,False,3,3,Single,2,Dial-Up,1,Part-time,Beginner,30,Antarctica,Good,1
+37,Non-Binary,True,False,3,2,Widowed,1,None,3,Part-time,Beginner,30,Africa,Average,0
+34,Non-Binary,False,True,0,-1,Married,3,High-Speed,0,Full-time,Beginner,8,South America,Excellent,1
+38,Male,False,True,0,-1,Divorced,3,Dial-Up,2,Part-time,Native,37,Australia,Poor,0
+20,Male,True,False,4,4,Widowed,6,Dial-Up,4,Full-time,Beginner,10,Europe,Excellent,1
+32,Non-Binary,False,True,3,-1,Widowed,7,None,2,Flexible,Beginner,9,North America,Poor,0
+43,Female,True,False,1,1,Married,5,None,1,Part-time,Beginner,8,Europe,Average,0
+44,Male,True,False,0,1,Divorced,9,None,4,Full-time,Advanced,24,Europe,Good,0
+41,Female,True,False,3,3,Widowed,6,High-Speed,3,Flexible,Native,11,Africa,Good,1
+47,Non-Binary,True,False,4,1,Married,4,Dial-Up,4,Full-time,Intermediate,35,Asia,Excellent,1
+36,Female,False,True,1,-1,Single,2,None,2,Flexible,Advanced,24,Antarctica,Excellent,0
+23,Non-Binary,True,False,1,3,Married,9,Dial-Up,3,Flexible,Native,22,Asia,Excellent,1
+26,Female,True,False,0,3,Married,3,Dial-Up,0,Flexible,Intermediate,27,Asia,Excellent,1
+19,Male,True,False,3,1,Divorced,5,High-Speed,0,Full-time,Intermediate,7,South America,Poor,0
+25,Male,True,False,5,3,Divorced,3,None,2,Full-time,Intermediate,10,Europe,Average,0
+33,Female,True,False,1,1,Married,9,High-Speed,4,Full-time,Intermediate,37,Australia,Poor,1
+18,Non-Binary,False,True,3,-1,Single,0,None,3,Part-time,Intermediate,10,South America,Good,1
+36,Non-Binary,False,True,2,-1,Divorced,6,Dial-Up,3,Full-time,Native,9,Australia,Average,1
+24,Female,False,True,4,-1,Single,7,None,3,Flexible,Native,23,North America,Good,0
+31,Non-Binary,False,True,3,-1,Divorced,6,High-Speed,2,Part-time,Intermediate,17,Australia,Average,1
+20,Non-Binary,True,False,4,1,Widowed,0,None,4,Part-time,Advanced,39,Australia,Good,0
+38,Non-Binary,False,True,4,-1,Widowed,6,Dial-Up,4,Full-time,Intermediate,26,Antarctica,Excellent,0
+45,Female,False,True,2,-1,Married,6,Dial-Up,0,Full-time,Advanced,14,Africa,Poor,1
+22,Male,True,False,4,2,Married,1,Dial-Up,1,Part-time,Beginner,34,Africa,Good,1
+32,Male,True,False,2,2,Divorced,2,Dial-Up,1,Part-time,Beginner,12,Asia,Average,0
+44,Female,False,True,1,-1,Married,6,None,4,Flexible,Advanced,30,Antarctica,Good,0
+36,Male,False,True,3,-1,Divorced,5,Dial-Up,0,Part-time,Intermediate,29,North America,Excellent,1
+41,Non-Binary,False,True,5,-1,Married,0,Dial-Up,2,Part-time,Advanced,25,Antarctica,Good,1
+35,Female,False,True,1,-1,Widowed,0,Dial-Up,4,Part-time,Advanced,32,Asia,Poor,0
+35,Non-Binary,True,False,5,4,Divorced,4,High-Speed,1,Full-time,Native,26,Europe,Average,1
+40,Female,True,False,3,2,Single,6,High-Speed,2,Part-time,Native,31,South America,Excellent,1
+31,Female,True,False,5,3,Married,4,High-Speed,2,Full-time,Advanced,16,Australia,Poor,1
+34,Female,False,True,5,-1,Single,5,None,3,Full-time,Intermediate,17,North America,Excellent,1
+31,Female,True,False,2,4,Widowed,0,High-Speed,4,Part-time,Native,28,Australia,Poor,1
+28,Non-Binary,True,False,1,1,Widowed,9,None,3,Full-time,Beginner,13,Australia,Poor,0
+42,Non-Binary,True,False,5,1,Divorced,4,None,4,Part-time,Intermediate,22,North America,Excellent,0
+44,Non-Binary,False,True,5,-1,Single,3,None,0,Full-time,Native,29,Antarctica,Poor,1
+22,Non-Binary,False,True,3,-1,Widowed,7,High-Speed,0,Flexible,Native,26,Asia,Average,0
+45,Female,True,False,0,3,Divorced,7,Dial-Up,2,Part-time,Beginner,20,North America,Good,1
+21,Male,False,True,2,-1,Divorced,6,High-Speed,4,Part-time,Native,5,North America,Excellent,1
+22,Male,False,True,2,-1,Divorced,7,High-Speed,4,Part-time,Beginner,18,North America,Poor,1
+32,Female,False,True,3,-1,Single,5,None,2,Part-time,Advanced,32,North America,Poor,1
+19,Non-Binary,False,True,0,-1,Married,6,Dial-Up,3,Part-time,Advanced,25,Antarctica,Good,1
+22,Female,False,True,4,-1,Single,2,None,0,Full-time,Advanced,31,Asia,Average,1
+41,Male,True,False,2,4,Widowed,7,Dial-Up,4,Full-time,Intermediate,15,Australia,Excellent,1
+24,Female,True,False,4,1,Divorced,6,High-Speed,1,Full-time,Intermediate,39,Africa,Good,1
+28,Non-Binary,False,True,2,-1,Single,6,High-Speed,2,Full-time,Beginner,20,Europe,Excellent,0
+42,Male,True,False,3,4,Single,8,Dial-Up,3,Flexible,Native,37,North America,Poor,1
+37,Male,True,False,2,2,Divorced,6,None,4,Part-time,Beginner,13,South America,Average,0
+20,Male,False,True,5,-1,Married,8,None,2,Part-time,Intermediate,11,Africa,Poor,1
+44,Non-Binary,False,True,3,-1,Single,1,None,2,Part-time,Intermediate,9,Europe,Poor,0
+26,Male,True,False,1,3,Widowed,7,High-Speed,1,Flexible,Intermediate,21,Asia,Good,1
+40,Female,False,True,5,-1,Single,9,High-Speed,4,Full-time,Beginner,14,Africa,Good,1
+30,Male,True,False,1,2,Widowed,0,None,1,Flexible,Native,30,Asia,Poor,1
+20,Female,False,True,5,-1,Single,5,Dial-Up,2,Full-time,Native,16,Antarctica,Good,1
+31,Female,False,True,3,-1,Single,8,Dial-Up,2,Flexible,Native,7,Asia,Average,1
+28,Male,False,True,2,-1,Married,8,Dial-Up,4,Full-time,Native,34,Antarctica,Average,0
+19,Non-Binary,False,True,2,-1,Divorced,9,Dial-Up,1,Part-time,Advanced,37,South America,Excellent,1
+47,Male,False,True,3,-1,Single,0,None,4,Full-time,Native,12,Africa,Good,1
+44,Female,False,True,1,-1,Married,9,None,4,Flexible,Native,29,Africa,Good,1
+38,Non-Binary,True,False,5,2,Widowed,8,High-Speed,3,Flexible,Intermediate,37,Australia,Excellent,0
+39,Male,False,True,2,-1,Married,4,Dial-Up,0,Flexible,Intermediate,9,Asia,Good,1
+19,Non-Binary,False,True,4,-1,Married,9,High-Speed,0,Full-time,Advanced,38,Africa,Excellent,1
+24,Female,False,True,1,-1,Married,1,Dial-Up,3,Flexible,Intermediate,38,North America,Average,0
+42,Male,False,True,4,-1,Single,5,Dial-Up,0,Flexible,Advanced,38,South America,Poor,1
+31,Female,False,True,1,-1,Divorced,8,None,2,Full-time,Beginner,19,Europe,Excellent,0
+46,Female,True,False,2,1,Married,8,Dial-Up,3,Part-time,Beginner,34,Europe,Poor,0
+42,Female,False,True,2,-1,Single,2,None,4,Part-time,Native,32,South America,Excellent,1
+21,Male,True,False,2,3,Married,7,High-Speed,4,Part-time,Native,23,Australia,Poor,0
+26,Non-Binary,True,False,5,4,Divorced,3,Dial-Up,0,Full-time,Native,36,Asia,Average,1
+33,Non-Binary,False,True,4,-1,Divorced,2,Dial-Up,3,Full-time,Intermediate,10,North America,Good,1
+43,Non-Binary,False,True,4,-1,Single,1,High-Speed,1,Flexible,Advanced,9,Africa,Poor,0
+32,Non-Binary,True,False,0,4,Single,8,Dial-Up,0,Flexible,Advanced,25,Antarctica,Good,1
+22,Female,False,True,0,-1,Widowed,2,Dial-Up,3,Flexible,Intermediate,18,Africa,Average,0
+32,Female,True,False,2,1,Single,8,High-Speed,3,Flexible,Advanced,23,Africa,Average,1
+18,Non-Binary,False,True,5,-1,Divorced,4,High-Speed,2,Part-time,Intermediate,38,South America,Good,1
+37,Non-Binary,True,False,0,1,Divorced,6,Dial-Up,3,Full-time,Intermediate,28,North America,Good,1
+37,Female,False,True,5,-1,Widowed,0,Dial-Up,3,Part-time,Advanced,8,Antarctica,Average,0
+46,Female,False,True,1,-1,Married,1,High-Speed,3,Flexible,Advanced,35,Antarctica,Good,1
+48,Non-Binary,False,True,4,-1,Widowed,7,High-Speed,1,Part-time,Beginner,22,South America,Average,1
+41,Female,False,True,5,-1,Widowed,2,High-Speed,4,Full-time,Intermediate,28,Africa,Poor,1
+45,Male,True,False,3,2,Divorced,3,None,2,Part-time,Intermediate,26,Africa,Average,1
+48,Male,True,False,5,3,Married,3,Dial-Up,2,Flexible,Advanced,5,Africa,Good,0
+45,Male,True,False,1,3,Divorced,5,Dial-Up,1,Part-time,Advanced,5,Antarctica,Poor,0
+26,Male,False,True,1,-1,Widowed,6,None,2,Part-time,Beginner,37,Asia,Good,1
+36,Female,False,True,5,-1,Widowed,0,Dial-Up,0,Full-time,Advanced,5,Antarctica,Excellent,0
+48,Non-Binary,False,True,4,-1,Divorced,0,Dial-Up,4,Full-time,Advanced,26,Antarctica,Average,1
+26,Non-Binary,True,False,5,3,Widowed,8,None,4,Flexible,Native,21,Australia,Poor,1
+34,Female,True,False,2,2,Single,4,None,1,Flexible,Advanced,21,South America,Average,1
+32,Non-Binary,True,False,5,3,Single,8,None,3,Part-time,Intermediate,29,Europe,Poor,1
+41,Female,False,True,4,-1,Married,2,High-Speed,1,Flexible,Advanced,6,Europe,Average,1
+45,Male,True,False,5,3,Widowed,5,Dial-Up,1,Part-time,Native,12,Antarctica,Good,1
+48,Non-Binary,False,True,2,-1,Single,7,Dial-Up,3,Full-time,Intermediate,31,South America,Poor,0
+45,Non-Binary,True,False,1,3,Divorced,0,None,2,Full-time,Advanced,28,Australia,Average,1
+34,Non-Binary,True,False,5,1,Single,3,None,4,Full-time,Beginner,15,South America,Excellent,0
+45,Male,False,True,5,-1,Divorced,5,None,0,Part-time,Native,38,North America,Excellent,1
+41,Female,False,True,0,-1,Married,6,Dial-Up,0,Flexible,Intermediate,7,Australia,Good,0
+21,Non-Binary,True,False,3,1,Single,2,Dial-Up,3,Part-time,Beginner,36,Europe,Good,1
+48,Female,True,False,4,3,Married,4,None,4,Flexible,Beginner,32,North America,Excellent,1
+39,Female,False,True,0,-1,Married,6,High-Speed,2,Flexible,Beginner,37,Africa,Poor,1
+44,Male,False,True,3,-1,Widowed,1,High-Speed,4,Part-time,Advanced,5,Australia,Excellent,0
+30,Non-Binary,False,True,3,-1,Single,3,None,4,Part-time,Beginner,8,Europe,Excellent,1
+27,Non-Binary,False,True,0,-1,Widowed,8,Dial-Up,4,Part-time,Beginner,31,Antarctica,Excellent,1
+43,Non-Binary,True,False,5,2,Divorced,3,None,2,Flexible,Advanced,27,South America,Good,1
+32,Female,True,False,5,1,Single,6,High-Speed,0,Flexible,Native,34,North America,Poor,1
+29,Non-Binary,True,False,4,2,Single,4,High-Speed,1,Full-time,Native,31,Africa,Good,0
+48,Male,True,False,4,1,Divorced,9,None,4,Full-time,Advanced,21,South America,Good,1
+34,Female,False,True,3,-1,Single,1,None,1,Part-time,Advanced,29,Europe,Poor,1
+32,Male,True,False,5,2,Divorced,5,None,2,Part-time,Beginner,12,Asia,Good,1
+45,Male,True,False,2,3,Married,5,High-Speed,0,Full-time,Beginner,31,Europe,Poor,1
+44,Male,False,True,5,-1,Married,6,High-Speed,0,Part-time,Advanced,30,South America,Excellent,1
+41,Non-Binary,False,True,0,-1,Married,1,Dial-Up,4,Full-time,Advanced,38,Europe,Excellent,1
+31,Male,False,True,3,-1,Widowed,0,High-Speed,1,Full-time,Advanced,24,South America,Average,1
+30,Non-Binary,True,False,2,2,Widowed,1,Dial-Up,4,Full-time,Native,16,Africa,Excellent,1
+47,Male,True,False,4,4,Widowed,8,None,4,Full-time,Beginner,39,Australia,Good,1
+23,Non-Binary,True,False,3,2,Married,2,None,3,Flexible,Intermediate,34,Asia,Excellent,1
+37,Female,True,False,2,3,Married,3,None,1,Full-time,Advanced,10,North America,Average,0
+43,Female,False,True,5,-1,Widowed,4,High-Speed,1,Part-time,Beginner,24,Europe,Poor,0
+27,Male,False,True,2,-1,Married,3,None,3,Flexible,Intermediate,22,North America,Good,1
+28,Male,True,False,3,1,Widowed,2,High-Speed,3,Flexible,Advanced,32,Asia,Good,1
+18,Non-Binary,False,True,3,-1,Widowed,4,None,4,Part-time,Advanced,24,North America,Excellent,0
+25,Male,True,False,2,4,Widowed,6,High-Speed,4,Part-time,Native,27,Europe,Average,1
+36,Male,False,True,2,-1,Widowed,7,None,3,Full-time,Intermediate,17,Europe,Excellent,1
+45,Non-Binary,False,True,3,-1,Divorced,8,High-Speed,2,Full-time,Beginner,34,North America,Average,0
+37,Male,True,False,2,2,Widowed,6,High-Speed,4,Flexible,Intermediate,9,Asia,Poor,1
+47,Non-Binary,True,False,0,4,Married,4,High-Speed,3,Part-time,Intermediate,17,Antarctica,Average,0
+19,Male,False,True,1,-1,Single,5,High-Speed,0,Full-time,Beginner,33,North America,Average,1
+45,Female,True,False,4,3,Married,9,Dial-Up,0,Full-time,Advanced,24,Antarctica,Poor,1
+32,Non-Binary,True,False,4,3,Single,1,None,4,Full-time,Native,39,Europe,Good,1
+24,Non-Binary,False,True,1,-1,Single,4,None,4,Part-time,Advanced,20,Europe,Poor,1
+39,Male,False,True,2,-1,Widowed,3,None,4,Part-time,Advanced,17,Africa,Average,1
+34,Non-Binary,False,True,2,-1,Divorced,8,None,0,Full-time,Intermediate,23,Asia,Excellent,1
+45,Female,False,True,2,-1,Married,8,High-Speed,2,Full-time,Advanced,17,South America,Good,1
+40,Female,True,False,3,2,Married,9,Dial-Up,2,Full-time,Beginner,24,Africa,Poor,0
+27,Non-Binary,True,False,2,1,Widowed,6,Dial-Up,2,Flexible,Beginner,34,South America,Poor,1
+40,Male,False,True,5,-1,Married,2,High-Speed,1,Part-time,Beginner,15,Africa,Good,1
+19,Male,True,False,0,3,Single,3,High-Speed,1,Part-time,Beginner,9,Australia,Average,0
+35,Non-Binary,True,False,5,2,Widowed,4,None,3,Full-time,Advanced,9,Africa,Poor,0
+36,Male,True,False,2,3,Single,0,None,4,Part-time,Native,18,Antarctica,Good,1
+20,Male,False,True,4,-1,Married,0,None,0,Part-time,Intermediate,34,North America,Average,0
+42,Non-Binary,False,True,3,-1,Married,4,High-Speed,3,Part-time,Native,15,South America,Average,1
+38,Non-Binary,True,False,3,2,Divorced,2,None,0,Flexible,Intermediate,6,North America,Poor,1
+45,Non-Binary,False,True,2,-1,Widowed,4,High-Speed,2,Full-time,Beginner,34,South America,Average,1
+34,Non-Binary,False,True,5,-1,Widowed,6,Dial-Up,2,Flexible,Intermediate,8,Africa,Good,1
+38,Female,False,True,0,-1,Married,9,High-Speed,2,Part-time,Native,29,South America,Average,1
+22,Non-Binary,True,False,5,1,Single,4,Dial-Up,3,Part-time,Advanced,19,Australia,Poor,1
+49,Male,True,False,5,1,Single,4,High-Speed,0,Part-time,Advanced,30,Antarctica,Excellent,1
+46,Female,False,True,2,-1,Widowed,7,Dial-Up,4,Flexible,Native,15,North America,Average,1
+27,Male,False,True,4,-1,Single,0,None,0,Full-time,Native,19,Europe,Average,1
+18,Female,True,False,1,2,Single,3,High-Speed,1,Full-time,Native,32,Africa,Average,1
+31,Non-Binary,True,False,4,4,Single,4,None,2,Full-time,Intermediate,12,North America,Average,0
+20,Female,False,True,2,-1,Divorced,1,High-Speed,4,Part-time,Native,15,Europe,Average,0
+33,Non-Binary,True,False,4,4,Married,3,None,0,Flexible,Beginner,28,Europe,Excellent,1
+46,Female,False,True,2,-1,Married,0,Dial-Up,3,Flexible,Beginner,9,North America,Good,0
+18,Non-Binary,True,False,4,3,Single,3,None,4,Flexible,Native,33,Europe,Average,1
+33,Female,True,False,3,1,Widowed,4,None,1,Full-time,Advanced,39,North America,Good,1
+40,Female,False,True,2,-1,Divorced,6,High-Speed,4,Part-time,Beginner,29,Europe,Good,1
+18,Non-Binary,True,False,5,1,Divorced,3,Dial-Up,0,Full-time,Intermediate,15,Antarctica,Good,1
+32,Female,True,False,2,4,Widowed,7,High-Speed,1,Part-time,Beginner,33,Asia,Excellent,1
+35,Female,False,True,4,-1,Married,5,None,1,Full-time,Native,27,Africa,Poor,0
+31,Female,False,True,1,-1,Single,9,Dial-Up,2,Flexible,Advanced,36,Australia,Good,0
+29,Male,False,True,3,-1,Divorced,9,Dial-Up,1,Full-time,Beginner,28,Australia,Poor,0
+45,Non-Binary,True,False,5,3,Married,9,High-Speed,0,Part-time,Advanced,14,Australia,Poor,0
+18,Female,True,False,0,3,Single,3,Dial-Up,2,Part-time,Advanced,32,Europe,Poor,1
+20,Non-Binary,False,True,4,-1,Married,1,High-Speed,1,Full-time,Intermediate,21,North America,Average,1
+22,Female,False,True,3,-1,Widowed,7,High-Speed,2,Part-time,Intermediate,17,Australia,Poor,1
+36,Female,True,False,3,4,Married,7,High-Speed,0,Flexible,Intermediate,8,Antarctica,Good,1
+34,Male,True,False,1,1,Married,0,High-Speed,1,Full-time,Intermediate,7,South America,Excellent,0
+48,Non-Binary,True,False,5,1,Widowed,4,High-Speed,1,Flexible,Native,9,Europe,Average,0
+20,Female,True,False,5,2,Married,4,None,3,Full-time,Advanced,16,Africa,Poor,1
+35,Male,True,False,5,1,Widowed,1,High-Speed,4,Part-time,Beginner,15,Australia,Poor,1
+39,Female,True,False,5,3,Widowed,6,Dial-Up,0,Flexible,Beginner,34,Asia,Average,0
+31,Male,False,True,1,-1,Married,6,None,1,Part-time,Beginner,38,Australia,Average,0
+40,Male,False,True,4,-1,Widowed,7,High-Speed,2,Flexible,Advanced,28,Antarctica,Poor,1
+37,Female,True,False,4,1,Widowed,4,Dial-Up,2,Full-time,Advanced,24,Australia,Average,1
+33,Non-Binary,False,True,0,-1,Single,3,None,0,Flexible,Intermediate,17,Antarctica,Poor,0
+35,Male,False,True,0,-1,Widowed,3,Dial-Up,2,Part-time,Advanced,22,South America,Excellent,1
+20,Non-Binary,False,True,2,-1,Widowed,0,High-Speed,0,Part-time,Advanced,7,Europe,Poor,1
+26,Female,True,False,4,3,Single,4,None,4,Full-time,Beginner,12,Europe,Poor,1
+46,Non-Binary,False,True,2,-1,Widowed,1,High-Speed,0,Part-time,Native,12,South America,Poor,1
+27,Non-Binary,True,False,1,4,Divorced,7,Dial-Up,0,Flexible,Beginner,33,South America,Excellent,1
+19,Female,True,False,3,1,Married,5,None,3,Part-time,Intermediate,20,South America,Good,1
+43,Male,False,True,3,-1,Widowed,0,High-Speed,4,Full-time,Intermediate,19,Africa,Average,1
+32,Non-Binary,True,False,2,3,Married,5,Dial-Up,3,Part-time,Native,28,Asia,Poor,0
+43,Male,True,False,4,2,Single,4,None,0,Part-time,Intermediate,14,Australia,Average,0
+20,Male,True,False,1,3,Single,1,High-Speed,3,Full-time,Intermediate,6,Antarctica,Average,1
+21,Female,False,True,0,-1,Married,2,High-Speed,3,Part-time,Advanced,15,Australia,Good,1
+48,Male,True,False,5,4,Divorced,1,High-Speed,2,Full-time,Advanced,8,Asia,Average,1
+40,Non-Binary,True,False,3,3,Divorced,1,Dial-Up,1,Part-time,Native,12,Antarctica,Average,0
+21,Non-Binary,True,False,5,3,Married,3,Dial-Up,4,Full-time,Intermediate,15,Africa,Good,1
+18,Male,True,False,3,4,Divorced,2,High-Speed,2,Part-time,Native,38,Australia,Average,1
+21,Non-Binary,True,False,3,4,Widowed,0,High-Speed,3,Full-time,Native,31,Australia,Poor,1
+34,Male,True,False,1,4,Divorced,2,High-Speed,0,Full-time,Native,28,Africa,Good,1
+43,Male,True,False,4,4,Divorced,8,Dial-Up,2,Part-time,Intermediate,16,Australia,Excellent,1
+39,Female,False,True,5,-1,Married,3,Dial-Up,3,Part-time,Beginner,28,Africa,Excellent,1
+18,Female,True,False,5,2,Single,8,High-Speed,1,Part-time,Advanced,13,Australia,Average,1
+45,Non-Binary,False,True,2,-1,Married,5,Dial-Up,0,Full-time,Beginner,13,Australia,Excellent,1
+19,Male,True,False,1,4,Widowed,7,None,2,Part-time,Native,29,Africa,Good,1
+47,Non-Binary,True,False,4,3,Widowed,5,Dial-Up,2,Flexible,Intermediate,17,Africa,Poor,0
+22,Non-Binary,True,False,5,3,Divorced,2,Dial-Up,3,Flexible,Native,13,Asia,Good,1
+36,Female,True,False,5,2,Married,8,Dial-Up,2,Part-time,Intermediate,19,Europe,Average,0
+49,Male,True,False,1,2,Divorced,6,High-Speed,4,Full-time,Beginner,16,Africa,Good,1
+39,Non-Binary,False,True,5,-1,Widowed,3,Dial-Up,4,Flexible,Advanced,19,Asia,Average,1
+45,Male,False,True,0,-1,Single,6,Dial-Up,3,Full-time,Intermediate,22,Antarctica,Good,1
+23,Male,True,False,2,4,Divorced,3,Dial-Up,4,Full-time,Native,39,North America,Good,1
+46,Female,False,True,1,-1,Divorced,2,None,0,Part-time,Advanced,24,Australia,Excellent,1
+24,Female,False,True,1,-1,Married,6,Dial-Up,0,Part-time,Intermediate,25,Antarctica,Excellent,0
+48,Female,False,True,2,-1,Divorced,0,None,1,Part-time,Advanced,7,North America,Poor,0
+34,Female,True,False,0,1,Married,5,None,3,Flexible,Beginner,34,North America,Average,0
+37,Non-Binary,False,True,3,-1,Divorced,6,High-Speed,1,Full-time,Beginner,25,Africa,Excellent,0
+29,Non-Binary,False,True,0,-1,Married,2,None,2,Part-time,Advanced,20,Australia,Good,1
+47,Male,True,False,4,1,Widowed,1,None,2,Full-time,Beginner,30,North America,Average,0
+19,Male,True,False,5,4,Widowed,1,Dial-Up,1,Flexible,Intermediate,21,North America,Excellent,1
+28,Female,False,True,5,-1,Single,9,Dial-Up,3,Full-time,Intermediate,7,Europe,Good,1
+23,Female,False,True,1,-1,Divorced,8,High-Speed,0,Part-time,Native,15,Europe,Average,1
+45,Male,False,True,5,-1,Married,2,Dial-Up,0,Full-time,Beginner,18,Antarctica,Excellent,1
+24,Female,True,False,2,4,Widowed,4,None,3,Part-time,Advanced,35,Antarctica,Good,0
+33,Non-Binary,False,True,5,-1,Single,2,None,1,Part-time,Beginner,15,South America,Excellent,1
+23,Non-Binary,False,True,2,-1,Widowed,7,None,3,Full-time,Advanced,25,Europe,Excellent,1
+24,Non-Binary,False,True,2,-1,Widowed,4,High-Speed,4,Part-time,Beginner,8,South America,Poor,0
+30,Female,False,True,3,-1,Married,1,Dial-Up,2,Flexible,Intermediate,8,Australia,Excellent,0
+20,Female,False,True,1,-1,Divorced,0,None,1,Flexible,Native,38,Asia,Excellent,0
+40,Male,True,False,4,3,Single,6,None,3,Part-time,Intermediate,18,Australia,Poor,0
+37,Female,True,False,0,4,Widowed,7,None,3,Flexible,Advanced,6,Australia,Good,1
+43,Male,True,False,3,4,Divorced,4,None,0,Part-time,Intermediate,28,North America,Poor,0
+38,Male,True,False,5,2,Divorced,3,Dial-Up,1,Full-time,Beginner,7,Australia,Average,0
+27,Female,False,True,4,-1,Married,1,None,2,Full-time,Advanced,24,South America,Poor,0
+21,Non-Binary,False,True,3,-1,Divorced,9,Dial-Up,3,Part-time,Beginner,26,Asia,Average,0
+48,Non-Binary,False,True,2,-1,Married,0,High-Speed,2,Part-time,Beginner,16,South America,Average,1
+22,Non-Binary,False,True,1,-1,Divorced,3,Dial-Up,1,Full-time,Native,23,Asia,Average,1
+49,Female,False,True,2,-1,Widowed,5,None,2,Full-time,Native,21,Africa,Average,0
+41,Female,False,True,0,-1,Married,5,None,1,Flexible,Intermediate,35,South America,Average,0
+38,Male,True,False,3,3,Married,3,Dial-Up,1,Flexible,Beginner,32,Asia,Excellent,1
+38,Female,True,False,0,3,Single,0,Dial-Up,1,Full-time,Beginner,20,Antarctica,Good,1
+26,Male,True,False,1,1,Married,7,High-Speed,0,Part-time,Beginner,17,Australia,Average,0
+31,Female,False,True,1,-1,Widowed,9,High-Speed,3,Full-time,Native,19,Africa,Average,1
+31,Non-Binary,True,False,4,4,Widowed,1,High-Speed,0,Flexible,Beginner,32,Asia,Poor,1
+41,Non-Binary,True,False,2,2,Divorced,6,None,3,Part-time,Beginner,25,Africa,Excellent,0
+40,Male,True,False,5,4,Divorced,2,Dial-Up,4,Part-time,Intermediate,18,Asia,Excellent,1
+19,Male,True,False,1,2,Widowed,6,None,4,Flexible,Intermediate,12,Asia,Average,1
+20,Female,True,False,0,2,Divorced,4,Dial-Up,1,Part-time,Advanced,19,Europe,Poor,0
+34,Female,False,True,3,-1,Widowed,8,Dial-Up,3,Part-time,Advanced,14,Australia,Average,1
+32,Non-Binary,False,True,0,-1,Divorced,3,None,4,Part-time,Native,21,Asia,Average,0
+31,Male,True,False,3,3,Widowed,3,Dial-Up,1,Full-time,Intermediate,7,Antarctica,Poor,0
+24,Non-Binary,False,True,4,-1,Single,6,Dial-Up,3,Full-time,Intermediate,14,South America,Good,1
+19,Non-Binary,True,False,2,2,Single,9,High-Speed,1,Full-time,Intermediate,17,Europe,Poor,1
+19,Female,True,False,1,1,Married,8,Dial-Up,2,Part-time,Native,22,North America,Good,0
+41,Female,True,False,2,2,Single,4,None,4,Flexible,Advanced,24,Antarctica,Average,1
+24,Female,False,True,3,-1,Divorced,7,None,0,Flexible,Intermediate,16,North America,Average,0
+38,Non-Binary,True,False,4,3,Widowed,7,Dial-Up,2,Full-time,Advanced,29,Asia,Poor,1
+27,Male,True,False,3,1,Divorced,1,Dial-Up,4,Part-time,Intermediate,16,North America,Excellent,1
+28,Female,True,False,5,1,Married,2,High-Speed,1,Part-time,Native,22,Europe,Poor,1
+25,Non-Binary,True,False,4,3,Single,0,High-Speed,3,Full-time,Beginner,39,North America,Good,1
+45,Non-Binary,False,True,1,-1,Widowed,4,None,1,Flexible,Beginner,7,Africa,Excellent,1
+36,Female,True,False,3,4,Divorced,2,Dial-Up,4,Part-time,Intermediate,15,North America,Excellent,0
+28,Male,True,False,2,4,Divorced,7,High-Speed,4,Full-time,Beginner,9,Asia,Poor,1
+19,Female,False,True,2,-1,Married,9,None,3,Flexible,Native,19,Europe,Excellent,1
+41,Male,True,False,4,3,Widowed,8,Dial-Up,4,Full-time,Intermediate,24,Europe,Good,1
+47,Female,True,False,0,1,Single,7,High-Speed,3,Part-time,Native,18,Africa,Good,1
+21,Non-Binary,False,True,5,-1,Married,2,Dial-Up,1,Full-time,Native,38,North America,Average,1
+36,Male,False,True,1,-1,Divorced,6,None,2,Full-time,Intermediate,26,Australia,Good,1
+40,Non-Binary,False,True,2,-1,Widowed,9,None,4,Full-time,Beginner,23,Africa,Good,1
+42,Male,False,True,2,-1,Single,1,High-Speed,3,Flexible,Beginner,25,Asia,Poor,0
+21,Male,True,False,1,3,Single,8,None,2,Full-time,Intermediate,29,Africa,Good,1
+22,Non-Binary,True,False,5,4,Divorced,0,High-Speed,3,Part-time,Intermediate,37,Asia,Excellent,1
+32,Male,True,False,1,1,Widowed,1,High-Speed,2,Full-time,Native,39,Antarctica,Average,1
+41,Non-Binary,False,True,0,-1,Single,8,None,1,Part-time,Advanced,37,Antarctica,Average,1
+29,Non-Binary,False,True,1,-1,Widowed,1,None,3,Flexible,Native,20,Asia,Poor,0
+23,Female,False,True,5,-1,Married,1,High-Speed,2,Flexible,Beginner,6,North America,Excellent,1
+23,Male,True,False,0,4,Divorced,8,High-Speed,4,Flexible,Beginner,28,Africa,Good,0
+34,Female,True,False,5,4,Married,5,None,4,Flexible,Advanced,19,Antarctica,Poor,1
+30,Non-Binary,False,True,5,-1,Divorced,9,None,1,Full-time,Native,10,Asia,Poor,1
+24,Female,False,True,3,-1,Married,4,None,2,Flexible,Advanced,9,North America,Excellent,1
+22,Male,True,False,0,2,Widowed,0,High-Speed,1,Full-time,Advanced,7,Antarctica,Good,0
+31,Female,True,False,0,1,Single,1,High-Speed,0,Flexible,Intermediate,33,Asia,Poor,1
+21,Female,False,True,2,-1,Married,9,Dial-Up,4,Part-time,Advanced,5,Asia,Average,0
+34,Female,False,True,3,-1,Single,2,None,0,Part-time,Beginner,13,Africa,Excellent,1
+32,Female,True,False,2,4,Single,0,Dial-Up,3,Flexible,Native,18,North America,Poor,0
+18,Female,True,False,1,4,Divorced,7,High-Speed,0,Part-time,Advanced,26,Europe,Good,1
+43,Non-Binary,True,False,4,3,Divorced,4,High-Speed,4,Flexible,Beginner,32,South America,Excellent,1
+41,Non-Binary,False,True,4,-1,Divorced,0,High-Speed,2,Part-time,Intermediate,16,Africa,Excellent,0
+21,Male,True,False,5,1,Widowed,3,None,3,Part-time,Advanced,7,Asia,Good,1
+45,Female,False,True,5,-1,Married,8,None,4,Full-time,Intermediate,37,Africa,Poor,0
+32,Male,False,True,2,-1,Divorced,7,None,0,Part-time,Intermediate,35,Africa,Average,0
+39,Non-Binary,False,True,5,-1,Single,2,High-Speed,0,Full-time,Advanced,14,North America,Average,1
+30,Non-Binary,False,True,1,-1,Single,6,Dial-Up,3,Full-time,Beginner,13,Europe,Poor,1
+43,Female,True,False,0,3,Widowed,8,None,4,Full-time,Advanced,33,South America,Excellent,1
+38,Non-Binary,False,True,5,-1,Single,5,None,2,Full-time,Native,37,Europe,Poor,1
+27,Male,True,False,1,2,Married,2,High-Speed,2,Part-time,Beginner,8,Asia,Poor,1
+43,Non-Binary,False,True,0,-1,Widowed,5,Dial-Up,3,Part-time,Beginner,5,Europe,Good,1
+40,Non-Binary,False,True,2,-1,Single,2,None,4,Full-time,Native,29,Australia,Poor,1
+36,Female,True,False,3,1,Married,6,High-Speed,1,Full-time,Beginner,23,Antarctica,Excellent,1
+28,Female,False,True,2,-1,Married,2,High-Speed,0,Full-time,Advanced,10,Europe,Good,1
+20,Female,False,True,4,-1,Divorced,9,Dial-Up,1,Part-time,Intermediate,9,Asia,Excellent,1
+29,Non-Binary,False,True,5,-1,Married,6,None,3,Flexible,Intermediate,13,Africa,Average,0
+36,Female,False,True,1,-1,Divorced,9,High-Speed,0,Flexible,Advanced,34,Australia,Poor,1
+19,Non-Binary,True,False,4,3,Single,5,Dial-Up,3,Flexible,Advanced,21,Asia,Good,1
+44,Male,False,True,0,-1,Divorced,7,None,1,Flexible,Intermediate,23,South America,Average,0
+24,Female,True,False,1,4,Married,1,Dial-Up,3,Full-time,Native,5,North America,Average,0
+28,Female,False,True,2,-1,Married,2,High-Speed,4,Part-time,Intermediate,11,South America,Poor,1
+37,Non-Binary,False,True,3,-1,Married,3,High-Speed,3,Full-time,Intermediate,18,Australia,Good,1
+34,Female,True,False,0,3,Single,7,Dial-Up,3,Full-time,Beginner,16,South America,Average,0
+35,Non-Binary,False,True,0,-1,Divorced,5,Dial-Up,4,Flexible,Beginner,7,South America,Excellent,1
+36,Male,False,True,0,-1,Single,2,None,0,Part-time,Advanced,35,Asia,Excellent,0
+40,Female,True,False,3,4,Divorced,5,High-Speed,2,Full-time,Intermediate,22,Australia,Average,1
+39,Non-Binary,True,False,3,3,Married,6,High-Speed,0,Full-time,Advanced,18,Antarctica,Excellent,1
+44,Non-Binary,False,True,4,-1,Widowed,2,None,3,Flexible,Advanced,21,Australia,Poor,1
+42,Female,False,True,3,-1,Single,0,High-Speed,2,Full-time,Intermediate,35,Asia,Good,1
+22,Non-Binary,True,False,3,4,Married,2,None,4,Full-time,Intermediate,23,South America,Excellent,0
+38,Female,True,False,1,2,Married,3,None,4,Part-time,Intermediate,22,Europe,Average,0
+45,Male,False,True,3,-1,Married,3,Dial-Up,3,Part-time,Native,17,Asia,Average,0
+20,Non-Binary,True,False,5,4,Divorced,5,High-Speed,0,Full-time,Beginner,13,South America,Average,0
+40,Non-Binary,True,False,0,4,Married,1,Dial-Up,2,Part-time,Intermediate,33,Africa,Average,1
+18,Female,False,True,0,-1,Widowed,6,Dial-Up,3,Full-time,Beginner,19,Africa,Poor,1
+26,Male,True,False,1,4,Married,5,None,4,Flexible,Native,28,Europe,Excellent,0
+39,Non-Binary,False,True,4,-1,Widowed,3,High-Speed,2,Full-time,Intermediate,29,Africa,Good,1
+20,Non-Binary,False,True,1,-1,Married,1,None,3,Full-time,Intermediate,9,Australia,Average,0
+40,Male,False,True,3,-1,Divorced,2,Dial-Up,1,Flexible,Advanced,9,Australia,Excellent,0
+34,Male,False,True,4,-1,Married,1,Dial-Up,3,Part-time,Intermediate,35,Europe,Good,0
+28,Male,False,True,0,-1,Single,9,None,3,Full-time,Advanced,26,Australia,Excellent,1
+33,Non-Binary,True,False,1,4,Married,8,None,0,Full-time,Beginner,25,South America,Excellent,1
+37,Female,False,True,1,-1,Widowed,3,Dial-Up,2,Part-time,Native,9,Australia,Excellent,1
+28,Female,True,False,4,1,Married,5,Dial-Up,3,Flexible,Advanced,5,Europe,Poor,1
+47,Female,True,False,3,4,Widowed,5,None,2,Full-time,Beginner,29,Antarctica,Excellent,1
+35,Male,True,False,0,2,Single,2,Dial-Up,4,Flexible,Advanced,39,Antarctica,Poor,1
+24,Male,False,True,0,-1,Widowed,2,High-Speed,1,Part-time,Beginner,6,South America,Good,0
+30,Non-Binary,False,True,0,-1,Single,4,None,1,Full-time,Native,36,Asia,Poor,1
+24,Non-Binary,False,True,1,-1,Widowed,7,None,3,Full-time,Intermediate,12,North America,Excellent,1
+35,Non-Binary,False,True,4,-1,Married,4,None,1,Full-time,Intermediate,37,Asia,Excellent,1
+42,Female,False,True,5,-1,Single,0,High-Speed,4,Flexible,Beginner,24,Asia,Poor,0
+45,Male,False,True,2,-1,Married,6,High-Speed,3,Part-time,Beginner,36,Asia,Poor,1
+36,Non-Binary,False,True,1,-1,Widowed,5,High-Speed,2,Full-time,Beginner,29,Australia,Excellent,1
+41,Male,True,False,0,1,Single,9,None,0,Flexible,Beginner,25,Africa,Average,0
+30,Male,False,True,2,-1,Widowed,8,Dial-Up,1,Flexible,Beginner,27,Australia,Excellent,1
+32,Male,False,True,4,-1,Widowed,4,Dial-Up,1,Full-time,Advanced,6,Antarctica,Average,1
+38,Female,False,True,1,-1,Divorced,4,High-Speed,4,Full-time,Native,8,Asia,Poor,1
+25,Male,False,True,2,-1,Single,8,High-Speed,3,Flexible,Native,23,South America,Average,1
+45,Female,True,False,1,2,Divorced,7,None,0,Full-time,Intermediate,14,Australia,Excellent,1
+26,Male,True,False,1,3,Divorced,3,Dial-Up,4,Part-time,Beginner,6,Asia,Good,1
+36,Male,True,False,3,2,Divorced,1,None,4,Flexible,Advanced,15,Africa,Excellent,1
+46,Male,False,True,3,-1,Married,3,None,0,Part-time,Advanced,34,Asia,Excellent,1
+32,Non-Binary,False,True,3,-1,Single,7,High-Speed,1,Flexible,Beginner,25,Asia,Average,1
+37,Female,True,False,2,1,Married,6,Dial-Up,4,Full-time,Advanced,5,Asia,Average,0
+32,Non-Binary,False,True,3,-1,Single,0,None,0,Flexible,Advanced,28,North America,Average,1
+47,Non-Binary,True,False,0,3,Widowed,3,None,2,Flexible,Advanced,35,South America,Excellent,1
+19,Male,True,False,4,2,Single,0,None,4,Full-time,Advanced,27,Africa,Poor,1
+41,Male,True,False,3,2,Married,8,Dial-Up,4,Full-time,Intermediate,20,Australia,Good,1
+20,Female,False,True,2,-1,Married,4,Dial-Up,4,Flexible,Advanced,15,South America,Good,1
+29,Female,True,False,3,1,Widowed,2,Dial-Up,1,Full-time,Native,34,Antarctica,Average,0
+48,Female,True,False,3,3,Divorced,9,None,4,Flexible,Advanced,30,South America,Good,0
+28,Female,True,False,0,4,Married,3,None,0,Part-time,Beginner,20,Antarctica,Average,1
+19,Non-Binary,True,False,2,1,Widowed,4,None,1,Full-time,Native,11,Australia,Average,1
+44,Male,True,False,5,4,Single,6,None,1,Flexible,Intermediate,33,Asia,Good,0
+33,Male,False,True,5,-1,Single,0,High-Speed,2,Full-time,Beginner,18,Antarctica,Average,1
+36,Female,False,True,4,-1,Widowed,8,Dial-Up,0,Full-time,Intermediate,9,Europe,Average,1
+27,Non-Binary,False,True,2,-1,Single,4,High-Speed,2,Flexible,Beginner,15,North America,Excellent,0
+34,Male,False,True,2,-1,Divorced,1,High-Speed,1,Flexible,Native,20,Antarctica,Good,0
+23,Female,False,True,5,-1,Single,7,Dial-Up,1,Flexible,Beginner,18,Europe,Average,0
+48,Female,True,False,4,1,Married,4,High-Speed,4,Full-time,Intermediate,9,South America,Poor,0
+33,Male,False,True,5,-1,Widowed,1,High-Speed,1,Part-time,Beginner,29,Asia,Average,1
+43,Non-Binary,True,False,4,2,Married,4,Dial-Up,3,Full-time,Intermediate,8,Europe,Average,1
+31,Female,False,True,3,-1,Divorced,3,None,2,Full-time,Native,30,North America,Average,1
+30,Female,True,False,2,3,Single,5,High-Speed,4,Flexible,Advanced,38,Asia,Average,0
+28,Female,True,False,5,2,Married,1,Dial-Up,3,Part-time,Advanced,35,Australia,Poor,1
+32,Non-Binary,False,True,0,-1,Single,0,Dial-Up,0,Part-time,Advanced,23,North America,Excellent,1
+34,Female,True,False,2,1,Single,6,Dial-Up,0,Full-time,Beginner,26,South America,Poor,0
+46,Non-Binary,False,True,1,-1,Single,2,None,1,Flexible,Advanced,32,Europe,Excellent,1
+36,Male,False,True,5,-1,Married,9,None,1,Full-time,Beginner,29,Australia,Excellent,0
+46,Female,True,False,5,3,Widowed,0,Dial-Up,1,Flexible,Beginner,26,Africa,Poor,0
+41,Male,False,True,3,-1,Divorced,1,None,0,Part-time,Native,26,North America,Poor,1
+21,Male,True,False,1,2,Single,7,High-Speed,1,Full-time,Intermediate,15,Australia,Good,1
+31,Male,True,False,2,2,Single,6,Dial-Up,3,Flexible,Advanced,36,Antarctica,Good,1
+31,Female,False,True,2,-1,Single,8,Dial-Up,2,Flexible,Intermediate,27,Asia,Excellent,0
+20,Male,True,False,0,2,Married,5,High-Speed,4,Flexible,Beginner,7,Australia,Poor,1
+38,Male,False,True,4,-1,Widowed,9,Dial-Up,1,Full-time,Native,7,Australia,Poor,1
+45,Female,True,False,2,1,Divorced,7,None,0,Part-time,Native,17,Australia,Excellent,1
+45,Female,True,False,0,1,Married,9,High-Speed,0,Full-time,Intermediate,19,South America,Average,1
+27,Non-Binary,False,True,1,-1,Married,6,High-Speed,3,Flexible,Native,28,Europe,Good,1
+37,Female,False,True,0,-1,Married,6,Dial-Up,3,Full-time,Intermediate,35,Asia,Average,1
+40,Female,False,True,1,-1,Single,5,None,2,Flexible,Native,14,Asia,Poor,1
+25,Female,False,True,1,-1,Widowed,6,None,2,Part-time,Advanced,17,Africa,Good,1
+41,Non-Binary,False,True,0,-1,Divorced,8,None,1,Flexible,Beginner,22,Antarctica,Good,1
+19,Non-Binary,True,False,0,4,Widowed,2,None,1,Flexible,Native,20,South America,Excellent,1
+49,Non-Binary,True,False,5,1,Single,8,High-Speed,0,Part-time,Native,33,South America,Poor,1
+20,Male,False,True,0,-1,Divorced,0,None,3,Flexible,Advanced,18,Antarctica,Poor,1
+46,Female,False,True,2,-1,Married,4,None,4,Full-time,Beginner,32,Antarctica,Excellent,1
+18,Female,True,False,0,4,Single,7,High-Speed,2,Full-time,Intermediate,39,Africa,Poor,0
+27,Non-Binary,True,False,2,4,Married,2,High-Speed,3,Flexible,Advanced,26,South America,Excellent,0
+36,Female,True,False,5,4,Married,1,High-Speed,3,Full-time,Native,39,North America,Good,0
+28,Non-Binary,True,False,1,2,Widowed,2,None,3,Full-time,Beginner,16,Australia,Good,1
+40,Female,False,True,0,-1,Divorced,6,Dial-Up,2,Full-time,Native,28,Asia,Excellent,1
+46,Male,False,True,0,-1,Widowed,6,Dial-Up,0,Flexible,Advanced,22,North America,Excellent,1
+32,Male,False,True,1,-1,Single,3,Dial-Up,1,Flexible,Advanced,14,Australia,Excellent,1
+22,Non-Binary,True,False,3,4,Single,2,Dial-Up,3,Flexible,Intermediate,22,Antarctica,Average,0
+21,Male,True,False,4,4,Widowed,6,High-Speed,2,Full-time,Intermediate,25,Europe,Excellent,0
+22,Male,False,True,5,-1,Married,4,None,2,Full-time,Native,21,Asia,Good,0
+22,Female,True,False,2,2,Single,5,Dial-Up,0,Flexible,Beginner,26,Africa,Good,1
+18,Female,True,False,2,2,Divorced,8,High-Speed,1,Flexible,Advanced,17,Australia,Average,1
+44,Non-Binary,True,False,1,4,Single,3,Dial-Up,3,Full-time,Advanced,22,South America,Excellent,0
+36,Male,True,False,5,2,Single,0,Dial-Up,4,Flexible,Advanced,34,Antarctica,Average,1
+27,Male,False,True,0,-1,Single,2,None,0,Flexible,Beginner,20,Australia,Poor,0
+46,Non-Binary,True,False,1,3,Widowed,0,Dial-Up,1,Full-time,Intermediate,12,Africa,Poor,0
+39,Male,True,False,0,3,Married,1,None,1,Part-time,Advanced,18,Africa,Excellent,1
+20,Male,False,True,0,-1,Widowed,3,Dial-Up,0,Full-time,Advanced,28,South America,Poor,0
+41,Female,False,True,1,-1,Single,9,High-Speed,1,Flexible,Beginner,39,North America,Excellent,1
+26,Female,False,True,2,-1,Divorced,4,None,2,Full-time,Beginner,14,Europe,Excellent,1
+38,Non-Binary,False,True,1,-1,Single,2,None,0,Flexible,Intermediate,18,Africa,Good,1
+43,Female,False,True,0,-1,Divorced,8,None,2,Flexible,Intermediate,34,Asia,Good,1
+22,Male,True,False,2,3,Married,8,Dial-Up,1,Part-time,Native,27,Asia,Excellent,0
+47,Male,False,True,2,-1,Single,4,Dial-Up,1,Flexible,Beginner,19,Antarctica,Poor,0
+49,Male,False,True,4,-1,Divorced,5,None,2,Full-time,Intermediate,24,Europe,Average,1
+19,Non-Binary,True,False,3,1,Widowed,1,Dial-Up,1,Full-time,Advanced,30,Europe,Average,1
+39,Male,False,True,0,-1,Widowed,4,Dial-Up,1,Part-time,Beginner,16,Antarctica,Poor,0
+33,Non-Binary,True,False,0,2,Single,8,Dial-Up,2,Full-time,Advanced,33,South America,Poor,1
+41,Non-Binary,False,True,4,-1,Single,4,High-Speed,1,Flexible,Intermediate,18,Asia,Average,1
+27,Male,False,True,2,-1,Widowed,1,None,1,Flexible,Intermediate,33,Australia,Average,0
+48,Non-Binary,False,True,0,-1,Divorced,5,Dial-Up,4,Part-time,Intermediate,27,Europe,Good,1
+42,Non-Binary,False,True,4,-1,Single,0,None,3,Part-time,Advanced,9,Australia,Poor,0
+18,Male,True,False,4,1,Single,1,High-Speed,0,Full-time,Advanced,29,Europe,Average,1
+49,Non-Binary,False,True,1,-1,Widowed,4,Dial-Up,3,Full-time,Native,28,Africa,Excellent,1
+20,Female,False,True,1,-1,Married,2,None,4,Flexible,Advanced,9,Australia,Excellent,1
+31,Male,False,True,5,-1,Married,0,High-Speed,4,Part-time,Beginner,16,Asia,Poor,0
+48,Female,True,False,1,3,Widowed,7,None,3,Part-time,Native,37,Africa,Average,1
+36,Female,True,False,1,1,Single,9,None,2,Part-time,Beginner,12,North America,Poor,1
+31,Female,True,False,4,2,Divorced,4,Dial-Up,2,Full-time,Advanced,28,Asia,Excellent,1
+38,Female,True,False,2,3,Married,1,High-Speed,1,Flexible,Intermediate,17,Europe,Good,1
+37,Female,False,True,4,-1,Married,1,High-Speed,4,Part-time,Native,20,South America,Good,1
+35,Female,False,True,4,-1,Divorced,6,High-Speed,2,Part-time,Native,27,Africa,Good,1
+40,Non-Binary,False,True,2,-1,Widowed,2,High-Speed,3,Full-time,Advanced,14,Africa,Good,0
+29,Non-Binary,True,False,5,2,Widowed,7,Dial-Up,2,Flexible,Beginner,14,Africa,Poor,0
+24,Non-Binary,True,False,2,1,Widowed,3,Dial-Up,2,Part-time,Beginner,22,Antarctica,Poor,0
+24,Female,True,False,2,1,Widowed,9,None,0,Full-time,Advanced,19,Europe,Poor,1
+34,Male,True,False,0,4,Divorced,0,None,4,Full-time,Beginner,18,Asia,Good,0
+21,Non-Binary,False,True,3,-1,Single,3,Dial-Up,1,Full-time,Intermediate,7,Asia,Good,0
+32,Non-Binary,False,True,3,-1,Single,4,Dial-Up,2,Full-time,Beginner,35,North America,Poor,0
+40,Male,True,False,2,2,Divorced,3,High-Speed,1,Full-time,Intermediate,17,Asia,Average,0
+32,Female,False,True,0,-1,Divorced,4,None,2,Full-time,Intermediate,14,Asia,Excellent,1
+26,Non-Binary,True,False,4,3,Divorced,7,High-Speed,2,Flexible,Native,37,North America,Poor,0
+25,Female,True,False,4,4,Married,1,None,3,Part-time,Advanced,7,Australia,Poor,0
+48,Female,False,True,0,-1,Divorced,8,Dial-Up,1,Full-time,Beginner,32,Europe,Poor,0
+48,Male,False,True,3,-1,Widowed,0,Dial-Up,0,Part-time,Beginner,6,Asia,Good,0
+24,Male,False,True,3,-1,Married,6,High-Speed,4,Flexible,Beginner,27,Asia,Average,0
+47,Female,False,True,1,-1,Widowed,6,High-Speed,0,Full-time,Beginner,8,Asia,Excellent,1
+39,Non-Binary,False,True,2,-1,Widowed,9,None,0,Part-time,Intermediate,37,Antarctica,Excellent,1
+36,Male,False,True,3,-1,Married,5,Dial-Up,4,Full-time,Intermediate,17,South America,Good,0
+28,Male,False,True,1,-1,Widowed,5,None,3,Flexible,Native,7,Australia,Poor,1
+26,Female,False,True,5,-1,Widowed,4,High-Speed,3,Flexible,Beginner,6,Antarctica,Excellent,1
+47,Non-Binary,True,False,0,3,Single,3,High-Speed,3,Part-time,Intermediate,11,Australia,Good,1
+20,Non-Binary,True,False,2,4,Widowed,3,Dial-Up,4,Flexible,Intermediate,7,Antarctica,Poor,1
+40,Male,False,True,4,-1,Divorced,3,Dial-Up,4,Full-time,Advanced,9,Africa,Poor,1
+45,Non-Binary,True,False,0,1,Married,2,Dial-Up,3,Full-time,Advanced,31,Europe,Average,0
+45,Female,True,False,2,2,Married,8,High-Speed,0,Full-time,Native,19,Australia,Excellent,1
+41,Non-Binary,True,False,2,3,Widowed,7,None,0,Full-time,Advanced,36,North America,Excellent,0
+41,Female,False,True,4,-1,Single,7,High-Speed,0,Full-time,Advanced,11,North America,Excellent,1
+48,Female,True,False,3,4,Widowed,0,Dial-Up,4,Flexible,Beginner,36,Africa,Excellent,0
+37,Male,True,False,5,1,Married,5,High-Speed,4,Part-time,Intermediate,7,Asia,Poor,1
+35,Male,True,False,0,3,Single,1,High-Speed,4,Flexible,Beginner,12,Asia,Poor,0
+27,Male,False,True,0,-1,Divorced,7,High-Speed,3,Full-time,Advanced,29,Africa,Good,0
+31,Female,False,True,2,-1,Single,8,Dial-Up,0,Part-time,Native,36,South America,Excellent,1
+46,Non-Binary,False,True,0,-1,Widowed,6,Dial-Up,3,Flexible,Beginner,8,North America,Good,1
+47,Female,False,True,5,-1,Single,3,High-Speed,2,Full-time,Advanced,7,North America,Good,0
+32,Male,False,True,2,-1,Married,5,High-Speed,1,Part-time,Advanced,17,Asia,Excellent,1
+34,Male,False,True,1,-1,Single,2,High-Speed,0,Full-time,Beginner,6,Asia,Poor,0
+26,Non-Binary,True,False,3,1,Married,2,None,1,Part-time,Advanced,37,Africa,Average,0
+36,Non-Binary,True,False,3,2,Married,5,High-Speed,3,Part-time,Native,30,Australia,Poor,1
+42,Non-Binary,False,True,0,-1,Divorced,5,High-Speed,2,Part-time,Beginner,17,North America,Average,0
+49,Female,False,True,5,-1,Widowed,1,High-Speed,0,Part-time,Beginner,15,South America,Average,1
+26,Non-Binary,False,True,3,-1,Single,4,High-Speed,3,Part-time,Intermediate,23,Australia,Average,1
+21,Male,False,True,4,-1,Widowed,4,Dial-Up,4,Full-time,Intermediate,18,Australia,Excellent,1
+49,Male,False,True,3,-1,Single,0,None,0,Full-time,Native,9,South America,Good,0
+25,Male,True,False,0,4,Widowed,3,Dial-Up,0,Full-time,Native,23,South America,Poor,1
+23,Male,True,False,1,2,Single,5,Dial-Up,0,Full-time,Native,8,Asia,Excellent,0
+33,Male,True,False,3,2,Single,5,None,0,Part-time,Native,31,North America,Poor,0
+42,Non-Binary,False,True,1,-1,Single,7,None,0,Full-time,Native,37,Africa,Average,1
+24,Non-Binary,False,True,1,-1,Widowed,1,Dial-Up,4,Full-time,Beginner,24,Australia,Poor,0
+32,Female,True,False,4,2,Widowed,5,Dial-Up,2,Part-time,Intermediate,36,Asia,Excellent,1
+40,Male,False,True,4,-1,Divorced,2,High-Speed,2,Full-time,Advanced,33,Australia,Poor,1
+40,Non-Binary,True,False,4,1,Married,0,Dial-Up,3,Full-time,Advanced,30,South America,Poor,1
+22,Male,True,False,0,2,Married,0,None,1,Flexible,Beginner,21,Antarctica,Good,0
+42,Non-Binary,True,False,1,1,Single,7,None,4,Part-time,Native,37,Africa,Average,1
+38,Male,True,False,2,3,Widowed,2,None,2,Part-time,Native,28,North America,Excellent,1
+30,Male,True,False,2,2,Married,3,High-Speed,1,Flexible,Native,22,Europe,Average,0
+39,Male,False,True,0,-1,Divorced,8,None,3,Part-time,Beginner,33,Antarctica,Excellent,1
+19,Male,False,True,5,-1,Divorced,6,None,4,Part-time,Beginner,29,Asia,Poor,1
+23,Male,True,False,5,1,Married,9,Dial-Up,2,Flexible,Beginner,9,Asia,Good,1
+31,Male,True,False,1,1,Single,5,None,0,Part-time,Beginner,9,Europe,Excellent,1
+23,Non-Binary,True,False,1,2,Divorced,5,High-Speed,4,Full-time,Advanced,18,Asia,Poor,1
+31,Female,True,False,0,3,Married,5,Dial-Up,2,Full-time,Advanced,31,Europe,Excellent,1
+44,Non-Binary,False,True,3,-1,Married,3,High-Speed,1,Part-time,Native,13,Africa,Average,1
+44,Female,True,False,1,4,Married,9,Dial-Up,4,Flexible,Native,38,Australia,Average,1
+27,Male,True,False,1,1,Divorced,8,Dial-Up,2,Part-time,Intermediate,12,Australia,Good,0
+43,Female,True,False,2,4,Divorced,9,None,0,Full-time,Native,18,Europe,Average,1
+47,Non-Binary,False,True,2,-1,Married,7,High-Speed,2,Flexible,Advanced,39,Asia,Poor,1
+32,Non-Binary,False,True,0,-1,Widowed,7,Dial-Up,1,Part-time,Intermediate,13,North America,Poor,0
+32,Female,True,False,5,2,Single,4,None,1,Flexible,Beginner,14,Europe,Average,1
+49,Female,False,True,0,-1,Single,8,Dial-Up,3,Part-time,Advanced,15,Africa,Excellent,1
+29,Female,True,False,4,4,Married,3,High-Speed,3,Full-time,Intermediate,19,Europe,Good,1
+18,Non-Binary,True,False,3,4,Married,6,High-Speed,4,Full-time,Beginner,33,Asia,Good,1
+19,Non-Binary,True,False,3,2,Widowed,2,High-Speed,0,Full-time,Beginner,38,Europe,Good,1
+44,Non-Binary,False,True,5,-1,Married,4,Dial-Up,3,Flexible,Native,12,Europe,Average,1
+35,Male,True,False,3,3,Divorced,1,None,0,Part-time,Native,34,South America,Average,1
+24,Male,True,False,1,4,Divorced,5,Dial-Up,3,Flexible,Native,27,Europe,Poor,1
+21,Female,True,False,1,2,Divorced,9,Dial-Up,0,Part-time,Advanced,22,Antarctica,Excellent,1
+24,Non-Binary,False,True,4,-1,Divorced,3,High-Speed,4,Part-time,Native,35,Asia,Good,1
+25,Female,False,True,2,-1,Single,2,Dial-Up,0,Full-time,Native,31,Australia,Excellent,1
+18,Male,False,True,1,-1,Single,4,High-Speed,3,Full-time,Advanced,25,Europe,Average,1
+37,Non-Binary,False,True,4,-1,Widowed,0,None,4,Full-time,Intermediate,5,Asia,Excellent,1
+46,Non-Binary,False,True,0,-1,Married,7,High-Speed,3,Full-time,Intermediate,10,Africa,Good,1
+26,Non-Binary,False,True,3,-1,Married,9,None,2,Flexible,Intermediate,28,North America,Average,1
+21,Non-Binary,True,False,0,4,Single,4,None,4,Part-time,Native,22,North America,Excellent,1
+31,Female,True,False,1,3,Married,0,None,1,Full-time,Advanced,5,North America,Excellent,1
+35,Non-Binary,False,True,0,-1,Widowed,7,Dial-Up,2,Full-time,Beginner,35,South America,Poor,0
+29,Female,False,True,2,-1,Divorced,8,High-Speed,0,Part-time,Native,31,North America,Excellent,1
+33,Non-Binary,True,False,3,4,Single,4,None,0,Full-time,Beginner,21,South America,Good,1
+43,Non-Binary,True,False,4,3,Married,4,Dial-Up,2,Part-time,Native,32,North America,Good,0
+28,Female,True,False,1,2,Single,0,Dial-Up,1,Full-time,Native,26,Asia,Good,1
+43,Female,False,True,0,-1,Divorced,5,None,0,Flexible,Beginner,15,North America,Good,1
+21,Male,False,True,4,-1,Divorced,2,High-Speed,2,Full-time,Native,33,Africa,Average,1
+47,Male,False,True,5,-1,Widowed,7,Dial-Up,4,Flexible,Beginner,15,Australia,Excellent,1
+44,Female,True,False,4,1,Single,1,Dial-Up,4,Full-time,Native,14,South America,Good,0
+24,Non-Binary,True,False,0,1,Single,3,None,4,Part-time,Intermediate,26,Antarctica,Poor,1
+39,Female,True,False,0,1,Single,8,None,3,Full-time,Beginner,17,Europe,Poor,1
+20,Female,True,False,3,1,Single,3,High-Speed,0,Full-time,Native,28,Australia,Poor,1
+43,Female,False,True,4,-1,Married,9,Dial-Up,0,Part-time,Advanced,14,North America,Average,1
+48,Female,False,True,5,-1,Single,6,Dial-Up,1,Part-time,Advanced,13,Europe,Excellent,0
+35,Female,False,True,4,-1,Divorced,5,High-Speed,4,Part-time,Native,27,Australia,Good,1
+40,Non-Binary,False,True,3,-1,Divorced,4,None,1,Flexible,Advanced,16,Antarctica,Excellent,1
+36,Female,True,False,2,4,Married,3,Dial-Up,4,Part-time,Advanced,38,South America,Good,1
+38,Non-Binary,True,False,5,4,Divorced,1,Dial-Up,1,Full-time,Native,11,North America,Good,1
+36,Female,False,True,0,-1,Single,1,High-Speed,4,Flexible,Advanced,18,Europe,Poor,1
+48,Female,False,True,4,-1,Single,9,None,0,Full-time,Intermediate,13,Australia,Excellent,1
+23,Non-Binary,True,False,5,1,Single,8,None,4,Part-time,Intermediate,23,South America,Poor,0
+45,Male,False,True,4,-1,Married,0,Dial-Up,1,Full-time,Advanced,29,Antarctica,Excellent,1
+44,Female,True,False,4,2,Married,2,None,4,Flexible,Intermediate,6,Asia,Average,1
+24,Female,False,True,3,-1,Married,1,Dial-Up,2,Part-time,Intermediate,11,Australia,Average,1
+36,Female,False,True,3,-1,Divorced,9,Dial-Up,0,Part-time,Beginner,39,Asia,Excellent,1
+48,Non-Binary,True,False,2,2,Divorced,7,None,2,Flexible,Native,21,South America,Good,1
+36,Non-Binary,False,True,3,-1,Single,9,Dial-Up,4,Flexible,Native,36,Australia,Poor,1
+18,Female,False,True,2,-1,Single,6,None,2,Part-time,Advanced,8,Australia,Poor,0
+41,Female,True,False,4,3,Single,2,High-Speed,1,Flexible,Intermediate,23,Asia,Excellent,1
+36,Male,False,True,5,-1,Single,3,Dial-Up,2,Part-time,Advanced,38,Europe,Good,0
+45,Female,False,True,4,-1,Widowed,9,High-Speed,4,Flexible,Beginner,26,Antarctica,Average,1
+27,Female,False,True,4,-1,Widowed,6,High-Speed,1,Part-time,Beginner,5,Australia,Average,0
+36,Non-Binary,False,True,4,-1,Married,7,Dial-Up,2,Part-time,Intermediate,11,North America,Excellent,1
+39,Female,False,True,5,-1,Divorced,5,High-Speed,4,Flexible,Native,33,Australia,Good,1
+25,Non-Binary,True,False,4,4,Widowed,3,High-Speed,4,Flexible,Advanced,19,South America,Good,1
+31,Female,False,True,0,-1,Widowed,0,None,3,Part-time,Beginner,17,North America,Good,1
+20,Non-Binary,True,False,4,2,Single,4,High-Speed,4,Flexible,Intermediate,39,Europe,Average,1
+25,Non-Binary,True,False,2,2,Divorced,0,Dial-Up,1,Part-time,Intermediate,36,Australia,Poor,0
+43,Male,False,True,1,-1,Married,6,High-Speed,0,Full-time,Beginner,27,Asia,Average,1
+24,Female,True,False,2,4,Married,9,Dial-Up,4,Flexible,Native,16,South America,Average,1
+21,Non-Binary,True,False,5,1,Widowed,3,Dial-Up,2,Part-time,Intermediate,8,Antarctica,Poor,0
+47,Non-Binary,False,True,3,-1,Single,1,None,4,Flexible,Intermediate,32,Africa,Excellent,1
+26,Female,False,True,5,-1,Married,3,High-Speed,0,Full-time,Native,8,Europe,Average,1
+42,Non-Binary,True,False,3,1,Divorced,5,Dial-Up,1,Flexible,Intermediate,9,South America,Excellent,1
+44,Male,True,False,2,3,Single,5,Dial-Up,4,Full-time,Advanced,22,North America,Good,1
+20,Male,True,False,1,1,Married,7,None,1,Flexible,Advanced,22,South America,Excellent,1
+23,Female,False,True,3,-1,Single,2,None,3,Full-time,Beginner,30,Australia,Average,0
+40,Female,True,False,0,3,Widowed,3,High-Speed,2,Part-time,Advanced,26,Asia,Average,0
+43,Female,True,False,4,1,Married,5,None,4,Part-time,Beginner,31,Antarctica,Average,0
+25,Non-Binary,True,False,1,2,Widowed,1,High-Speed,4,Flexible,Advanced,30,South America,Good,1
+46,Female,False,True,5,-1,Divorced,7,Dial-Up,0,Full-time,Advanced,16,Asia,Good,1
+31,Female,False,True,3,-1,Married,3,High-Speed,0,Flexible,Intermediate,11,South America,Excellent,1
+36,Male,True,False,1,4,Divorced,3,Dial-Up,0,Part-time,Advanced,5,Africa,Excellent,1
+31,Female,True,False,4,4,Widowed,6,High-Speed,0,Part-time,Advanced,10,Australia,Average,0
+27,Male,False,True,0,-1,Divorced,2,High-Speed,3,Part-time,Advanced,20,South America,Average,0
+26,Non-Binary,False,True,0,-1,Single,2,None,3,Full-time,Advanced,10,South America,Poor,1
+22,Male,False,True,2,-1,Married,6,None,2,Full-time,Advanced,12,Asia,Good,1
+33,Female,False,True,4,-1,Divorced,7,Dial-Up,3,Full-time,Intermediate,14,Australia,Poor,0
+49,Female,False,True,3,-1,Married,3,None,2,Full-time,Beginner,27,Antarctica,Excellent,1
+33,Female,True,False,0,4,Married,0,High-Speed,1,Part-time,Advanced,27,North America,Good,0
+24,Non-Binary,False,True,4,-1,Married,2,None,1,Flexible,Beginner,20,Australia,Average,1
+49,Non-Binary,True,False,3,2,Divorced,3,None,3,Full-time,Intermediate,36,Africa,Poor,0
+41,Non-Binary,True,False,0,1,Divorced,4,Dial-Up,4,Full-time,Advanced,29,Europe,Poor,1
+42,Male,False,True,2,-1,Single,3,High-Speed,2,Full-time,Advanced,5,North America,Poor,1
+33,Female,True,False,0,2,Single,6,High-Speed,1,Flexible,Intermediate,8,Australia,Average,1
+35,Non-Binary,False,True,1,-1,Divorced,5,None,1,Flexible,Beginner,28,Antarctica,Poor,0
+45,Non-Binary,False,True,4,-1,Married,7,None,2,Flexible,Beginner,20,Asia,Poor,0
+46,Non-Binary,True,False,4,4,Single,5,None,0,Full-time,Intermediate,16,Australia,Poor,1
+29,Male,True,False,4,3,Married,1,None,0,Flexible,Native,34,Asia,Good,1
+20,Female,False,True,3,-1,Married,1,High-Speed,1,Flexible,Advanced,11,North America,Average,1
+46,Non-Binary,False,True,5,-1,Widowed,9,High-Speed,3,Full-time,Beginner,17,Europe,Average,1
+35,Male,True,False,5,3,Widowed,5,Dial-Up,1,Flexible,Advanced,32,Asia,Excellent,1
+46,Female,False,True,0,-1,Married,0,None,2,Full-time,Beginner,34,Antarctica,Poor,0
+32,Female,False,True,3,-1,Widowed,1,High-Speed,0,Flexible,Intermediate,20,Europe,Poor,1
+38,Male,True,False,2,3,Divorced,4,High-Speed,0,Part-time,Native,38,Australia,Good,1
+38,Male,True,False,5,1,Widowed,7,Dial-Up,4,Full-time,Advanced,28,Australia,Good,0
+23,Male,False,True,2,-1,Divorced,9,Dial-Up,0,Part-time,Native,8,Asia,Poor,1
+38,Non-Binary,False,True,3,-1,Single,7,Dial-Up,3,Part-time,Beginner,20,Asia,Good,1
+40,Male,False,True,0,-1,Married,2,High-Speed,1,Full-time,Beginner,19,Africa,Poor,0
+21,Male,True,False,3,3,Single,3,None,2,Flexible,Advanced,21,Africa,Poor,1
+44,Non-Binary,True,False,2,3,Married,7,None,2,Full-time,Native,30,South America,Good,1
+43,Male,False,True,3,-1,Widowed,5,High-Speed,4,Part-time,Native,32,Asia,Good,0
+19,Non-Binary,True,False,0,4,Married,0,None,2,Flexible,Beginner,35,North America,Good,1
+46,Male,False,True,4,-1,Single,2,High-Speed,3,Flexible,Native,34,North America,Excellent,0
+25,Male,True,False,0,4,Single,3,None,2,Full-time,Native,28,Asia,Good,0
+31,Non-Binary,False,True,2,-1,Widowed,0,Dial-Up,0,Full-time,Advanced,27,South America,Average,0
+41,Male,False,True,1,-1,Single,7,Dial-Up,2,Full-time,Advanced,7,Australia,Good,0
+39,Male,True,False,4,3,Single,3,Dial-Up,0,Part-time,Native,37,North America,Good,0
+37,Non-Binary,True,False,0,2,Married,1,Dial-Up,3,Part-time,Advanced,7,North America,Good,1
+44,Male,False,True,1,-1,Divorced,0,Dial-Up,1,Flexible,Beginner,36,North America,Excellent,1
+29,Non-Binary,True,False,2,4,Widowed,4,High-Speed,4,Flexible,Advanced,10,South America,Average,1
+34,Non-Binary,False,True,3,-1,Single,1,Dial-Up,4,Part-time,Intermediate,11,Australia,Good,1
+40,Male,False,True,4,-1,Divorced,7,Dial-Up,2,Part-time,Advanced,10,Antarctica,Good,1
+37,Male,False,True,1,-1,Married,9,Dial-Up,4,Part-time,Beginner,10,Asia,Average,1
+48,Non-Binary,True,False,0,2,Divorced,0,High-Speed,0,Flexible,Beginner,5,South America,Average,1
+36,Male,True,False,1,4,Divorced,1,None,2,Part-time,Intermediate,15,Europe,Poor,1
+47,Female,False,True,5,-1,Widowed,4,None,0,Part-time,Intermediate,36,Europe,Average,0
+20,Non-Binary,False,True,3,-1,Single,5,None,0,Full-time,Intermediate,20,Africa,Excellent,1
+29,Female,True,False,2,3,Widowed,9,Dial-Up,0,Full-time,Native,9,Asia,Average,1
+44,Non-Binary,True,False,5,2,Divorced,1,High-Speed,2,Flexible,Intermediate,13,Asia,Poor,0
+26,Non-Binary,False,True,1,-1,Divorced,5,High-Speed,1,Full-time,Advanced,17,South America,Average,1
+30,Female,False,True,1,-1,Married,1,Dial-Up,1,Part-time,Intermediate,15,Asia,Average,0
+23,Non-Binary,True,False,5,2,Married,0,None,3,Full-time,Native,25,Asia,Good,1
+32,Female,True,False,0,3,Single,7,None,3,Part-time,Beginner,33,Antarctica,Excellent,0
+49,Non-Binary,False,True,5,-1,Widowed,1,None,0,Full-time,Advanced,16,Asia,Poor,1
+19,Non-Binary,True,False,4,1,Married,7,None,1,Full-time,Beginner,29,North America,Excellent,1
+32,Non-Binary,False,True,2,-1,Single,6,High-Speed,3,Part-time,Native,34,South America,Excellent,1
+49,Male,True,False,4,4,Widowed,2,None,2,Full-time,Beginner,17,North America,Good,0
+36,Female,False,True,0,-1,Widowed,0,High-Speed,1,Part-time,Advanced,18,Antarctica,Poor,1
+38,Non-Binary,False,True,3,-1,Married,0,None,1,Flexible,Intermediate,26,Antarctica,Poor,0
+48,Male,True,False,3,3,Divorced,9,High-Speed,2,Flexible,Native,20,South America,Good,1
+42,Non-Binary,True,False,2,4,Widowed,9,Dial-Up,0,Part-time,Advanced,8,Africa,Good,1
+22,Female,True,False,4,3,Divorced,5,Dial-Up,2,Flexible,Advanced,7,Asia,Good,1
+35,Female,False,True,1,-1,Divorced,5,None,2,Full-time,Native,35,South America,Poor,0
+42,Male,False,True,3,-1,Widowed,2,None,1,Flexible,Intermediate,19,Australia,Good,1
+43,Non-Binary,False,True,4,-1,Widowed,8,Dial-Up,0,Part-time,Intermediate,30,South America,Average,0
+35,Female,False,True,2,-1,Widowed,3,Dial-Up,0,Part-time,Intermediate,27,Europe,Good,0
+19,Female,True,False,4,1,Widowed,4,Dial-Up,3,Part-time,Native,12,North America,Average,0
+25,Non-Binary,False,True,3,-1,Divorced,2,High-Speed,2,Full-time,Beginner,16,Europe,Average,1
+23,Non-Binary,True,False,2,4,Widowed,1,Dial-Up,4,Full-time,Intermediate,5,North America,Poor,0
+49,Female,True,False,4,1,Married,0,High-Speed,3,Part-time,Native,14,South America,Excellent,1
+30,Non-Binary,True,False,3,2,Divorced,9,None,3,Part-time,Intermediate,9,North America,Poor,1
+30,Male,True,False,4,2,Single,7,Dial-Up,0,Flexible,Intermediate,31,North America,Average,0
+27,Female,False,True,0,-1,Widowed,4,Dial-Up,2,Full-time,Advanced,10,Antarctica,Average,1
+37,Male,False,True,5,-1,Single,5,Dial-Up,3,Flexible,Beginner,17,Australia,Poor,0
+34,Female,False,True,0,-1,Widowed,7,None,0,Flexible,Native,19,North America,Poor,1
+30,Non-Binary,True,False,3,4,Divorced,8,None,2,Full-time,Native,22,Australia,Good,1
+26,Female,True,False,3,2,Single,2,None,3,Full-time,Native,28,Asia,Poor,1
+22,Male,True,False,2,2,Divorced,8,Dial-Up,1,Flexible,Beginner,17,Australia,Average,0
+20,Male,False,True,4,-1,Single,8,High-Speed,2,Full-time,Intermediate,28,Africa,Average,1
+23,Male,False,True,1,-1,Widowed,5,Dial-Up,1,Part-time,Intermediate,37,Asia,Excellent,0
+28,Non-Binary,False,True,2,-1,Divorced,6,None,3,Full-time,Intermediate,31,Europe,Excellent,1
+29,Non-Binary,True,False,3,2,Widowed,5,Dial-Up,2,Part-time,Native,29,Antarctica,Average,1
+37,Female,False,True,0,-1,Widowed,1,High-Speed,2,Flexible,Beginner,6,Asia,Average,0
+24,Male,False,True,0,-1,Single,3,High-Speed,0,Part-time,Advanced,34,Australia,Excellent,0
+44,Non-Binary,False,True,0,-1,Single,3,High-Speed,1,Part-time,Native,18,Australia,Good,1
+37,Non-Binary,True,False,0,2,Married,6,Dial-Up,0,Part-time,Native,33,Africa,Good,1
+35,Female,False,True,4,-1,Divorced,3,None,1,Part-time,Intermediate,7,Africa,Excellent,0
+33,Male,False,True,3,-1,Married,1,High-Speed,0,Part-time,Native,35,North America,Excellent,1
+26,Female,False,True,1,-1,Widowed,6,High-Speed,2,Full-time,Advanced,37,South America,Good,0
+24,Female,True,False,5,4,Widowed,9,Dial-Up,3,Part-time,Beginner,20,Antarctica,Good,1
+49,Male,True,False,5,1,Divorced,6,None,4,Full-time,Intermediate,8,Africa,Poor,1
+22,Female,False,True,5,-1,Widowed,7,High-Speed,4,Full-time,Intermediate,7,Africa,Average,1
+49,Male,True,False,1,2,Married,7,None,3,Part-time,Native,31,Antarctica,Poor,0
+32,Female,True,False,5,2,Single,7,High-Speed,3,Flexible,Native,12,South America,Poor,1
+24,Male,False,True,0,-1,Single,1,High-Speed,0,Part-time,Advanced,18,North America,Good,0
+24,Non-Binary,True,False,1,3,Widowed,7,High-Speed,0,Flexible,Native,39,North America,Average,1
+41,Female,False,True,4,-1,Single,5,Dial-Up,3,Part-time,Beginner,14,North America,Excellent,0
+32,Male,False,True,0,-1,Married,3,None,3,Flexible,Intermediate,8,Europe,Average,0
+40,Female,False,True,2,-1,Married,7,Dial-Up,1,Full-time,Advanced,19,Asia,Excellent,1
+19,Female,False,True,3,-1,Single,6,None,0,Flexible,Native,19,North America,Poor,0
+39,Female,False,True,4,-1,Divorced,9,High-Speed,0,Flexible,Beginner,29,North America,Excellent,1
+20,Non-Binary,True,False,0,1,Single,3,None,2,Full-time,Native,24,Antarctica,Excellent,1
+30,Non-Binary,True,False,0,2,Married,6,Dial-Up,1,Part-time,Advanced,18,North America,Good,1
+31,Male,False,True,1,-1,Divorced,7,High-Speed,2,Flexible,Intermediate,13,Asia,Good,0
+32,Female,True,False,0,4,Single,2,None,3,Flexible,Beginner,9,Europe,Excellent,0
+24,Non-Binary,False,True,1,-1,Divorced,8,None,3,Part-time,Beginner,26,Europe,Excellent,0
+18,Female,False,True,1,-1,Single,8,High-Speed,4,Full-time,Beginner,16,Australia,Good,1
+26,Female,True,False,5,4,Married,5,None,3,Part-time,Advanced,17,Africa,Poor,0
+19,Male,True,False,4,3,Widowed,4,High-Speed,1,Full-time,Native,8,Australia,Average,1
+39,Male,True,False,2,3,Widowed,6,None,2,Part-time,Advanced,11,Europe,Poor,1
+33,Male,True,False,1,2,Single,5,High-Speed,3,Full-time,Intermediate,16,Asia,Average,1
+49,Non-Binary,True,False,5,2,Widowed,3,Dial-Up,2,Full-time,Intermediate,39,Asia,Excellent,1
+36,Non-Binary,True,False,4,4,Single,6,High-Speed,1,Full-time,Native,10,Antarctica,Poor,0
+34,Male,False,True,1,-1,Single,6,High-Speed,3,Flexible,Intermediate,33,Asia,Poor,1
+34,Female,False,True,0,-1,Widowed,4,Dial-Up,4,Full-time,Intermediate,31,Africa,Poor,0
+45,Non-Binary,True,False,0,4,Single,7,High-Speed,2,Full-time,Beginner,11,South America,Good,1
+42,Female,True,False,1,2,Single,3,Dial-Up,4,Flexible,Native,39,Europe,Good,1
+40,Male,False,True,5,-1,Divorced,4,None,2,Flexible,Advanced,5,Africa,Good,1
+30,Male,False,True,2,-1,Married,3,High-Speed,1,Full-time,Advanced,18,Africa,Good,1
+41,Male,True,False,3,4,Married,3,None,3,Full-time,Native,25,Asia,Good,0
+47,Non-Binary,False,True,2,-1,Widowed,8,Dial-Up,1,Full-time,Native,10,South America,Excellent,0
+37,Male,True,False,0,4,Widowed,9,Dial-Up,3,Full-time,Native,9,Asia,Average,1
+20,Female,True,False,0,3,Single,5,None,1,Full-time,Native,27,South America,Average,0
+45,Non-Binary,True,False,3,4,Single,3,High-Speed,3,Part-time,Advanced,13,South America,Excellent,0
+27,Non-Binary,True,False,4,4,Married,9,High-Speed,0,Part-time,Native,26,Antarctica,Excellent,0
+25,Male,False,True,5,-1,Divorced,4,Dial-Up,2,Flexible,Advanced,10,Africa,Good,0
+48,Female,False,True,2,-1,Divorced,6,None,1,Full-time,Intermediate,28,Africa,Excellent,1
+21,Male,True,False,2,1,Widowed,9,Dial-Up,4,Part-time,Advanced,37,Antarctica,Average,0
+21,Female,False,True,3,-1,Single,8,High-Speed,3,Full-time,Native,8,North America,Excellent,1
+32,Non-Binary,False,True,2,-1,Divorced,8,High-Speed,4,Flexible,Intermediate,25,Antarctica,Poor,1
+48,Female,True,False,1,3,Divorced,8,None,4,Part-time,Advanced,32,South America,Average,1
+20,Non-Binary,True,False,5,3,Divorced,9,High-Speed,0,Flexible,Native,6,South America,Good,0
+49,Male,False,True,3,-1,Widowed,7,High-Speed,3,Part-time,Intermediate,33,North America,Excellent,1
+48,Female,True,False,1,1,Married,5,High-Speed,1,Full-time,Intermediate,5,North America,Good,1
+33,Female,False,True,2,-1,Married,5,None,1,Flexible,Intermediate,22,Europe,Good,0
+48,Non-Binary,False,True,5,-1,Married,5,Dial-Up,1,Flexible,Advanced,13,Asia,Poor,1
+31,Female,True,False,2,1,Divorced,7,High-Speed,4,Part-time,Beginner,37,Europe,Average,0
+47,Non-Binary,True,False,4,4,Single,2,None,4,Full-time,Beginner,11,South America,Average,0
+29,Female,True,False,1,2,Divorced,2,High-Speed,1,Part-time,Intermediate,10,Europe,Excellent,1
+27,Male,False,True,4,-1,Widowed,9,Dial-Up,2,Flexible,Native,26,Europe,Average,0
+32,Non-Binary,False,True,3,-1,Divorced,1,Dial-Up,4,Part-time,Advanced,27,Australia,Average,1
+31,Non-Binary,True,False,5,1,Married,3,Dial-Up,2,Full-time,Native,25,Africa,Good,1
+43,Male,False,True,5,-1,Married,9,None,2,Part-time,Advanced,9,Antarctica,Excellent,1
+47,Male,False,True,1,-1,Divorced,3,Dial-Up,1,Part-time,Advanced,30,Africa,Excellent,1
+46,Female,True,False,5,3,Widowed,6,High-Speed,3,Flexible,Beginner,19,Africa,Average,1
+31,Male,False,True,1,-1,Divorced,6,None,0,Part-time,Beginner,27,South America,Poor,1
+34,Female,True,False,3,3,Divorced,5,Dial-Up,0,Part-time,Intermediate,37,Europe,Poor,0
+37,Non-Binary,False,True,5,-1,Widowed,0,High-Speed,2,Flexible,Advanced,23,North America,Poor,1
+31,Female,False,True,0,-1,Married,9,Dial-Up,4,Part-time,Native,19,South America,Average,1
+44,Non-Binary,True,False,0,4,Widowed,4,High-Speed,1,Flexible,Native,36,Antarctica,Average,0
+28,Female,True,False,2,2,Married,8,None,2,Part-time,Intermediate,37,North America,Good,0
+35,Non-Binary,False,True,3,-1,Single,1,None,0,Flexible,Beginner,28,Antarctica,Good,0
